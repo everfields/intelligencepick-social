@@ -17,7 +17,7 @@
       },
       "prompts": {
         "voice": "am_michael",
-        "speed": 1.2,
+        "speed": 1.3,
         "spec": {
           "tag": "Headphones",
           "fineAlways": true,
@@ -35,8 +35,9 @@
               "name": "Bose QuietComfort Ultra Headphones",
               "why": "It combines the most comfortable fit for long wear with elite noise cancelling, making it the travel benchmark.",
               "not": "Listeners who want detailed EQ control or a wired-first audiophile headphone.",
-              "say": "An AI model picks Bose QuietComfort Ultra.",
-              "sayWhy": "The most comfortable fit for long wear, with elite noise cancelling."
+              "say": "An AI model picks Bose QuietComfort Ultra: the most comfortable fit for long wear, with elite noise cancelling.",
+              "whyAt": 1.6,
+              "notAt": 3.6
             },
             {
               "type": "facts",
@@ -88,7 +89,7 @@
       },
       "prompts": {
         "voice": "am_michael",
-        "speed": 1.2,
+        "speed": 1.3,
         "spec": {
           "tag": "Dehumidifiers",
           "fineAlways": true,
@@ -130,8 +131,9 @@
               "name": "Midea Cube",
               "why": "Its modular design puts the bucket under the compressor, so it holds far more water before emptying than typical units and stays quieter while matching their moisture removal.",
               "not": "Anyone who needs a built-in pump to push water up and out of a basement, or who will run it in a cold space below about 60°F.",
-              "say": "The AI pick: Midea Cube.",
-              "sayWhy": "It holds far more water before emptying."
+              "say": "The AI pick: Midea Cube. It holds far more water before emptying.",
+              "whyAt": 1.2,
+              "notAt": 2.6
             },
             {
               "type": "end",
@@ -159,7 +161,7 @@
       },
       "prompts": {
         "voice": "am_michael",
-        "speed": 1.2,
+        "speed": 1.3,
         "spec": {
           "tag": "3D printers",
           "fineAlways": true,
