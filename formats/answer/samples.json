@@ -1,0 +1,218 @@
+{
+  "week": "samples-answer",
+  "posts": [
+    {
+      "id": "sample-answer-over-ear",
+      "format": "answer",
+      "networks": [
+        "youtube"
+      ],
+      "title": "Best over-ear headphones? What an AI model would buy",
+      "caption": "Which over-ear headphones should you buy? The AI pick, who it's not for, and picks by need. https://intelligencepick.com/electronics/audio-headphones/over-ear-headphones?utm_source=youtube&utm_medium=short&utm_campaign=answer Chosen by an AI model (Claude Opus 5.5) from its trained knowledge, without web search; not a hands-on test. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "link": "https://intelligencepick.com/electronics/audio-headphones/over-ear-headphones?utm_source=youtube&utm_medium=short&utm_campaign=answer",
+      "page": "https://intelligencepick.com/electronics/audio-headphones/over-ear-headphones",
+      "ai": {
+        "generated": false,
+        "realistic": false
+      },
+      "prompts": {
+        "voice": "am_michael",
+        "speed": 1.1,
+        "spec": {
+          "tag": "Headphones",
+          "fineAlways": true,
+          "scenes": [
+            {
+              "type": "hook",
+              "kicker": "Buying over-ear headphones",
+              "title": "Which over-ear headphones should you buy?",
+              "sub": "What an AI model would pick, from what it knows.",
+              "say": "Which over-ear headphones should you buy? Here's what an AI model would pick."
+            },
+            {
+              "type": "verdict",
+              "label": "AI pick (line)",
+              "name": "Bose QuietComfort Ultra Headphones",
+              "why": "It combines the most comfortable fit for long wear with elite noise cancelling, making it the travel benchmark.",
+              "not": "Listeners who want detailed EQ control or a wired-first audiophile headphone.",
+              "say": "Bose QuietComfort Ultra.",
+              "sayWhy": "The most comfortable fit for long wear, with elite noise cancelling.",
+              "sayNot": "Not for a wired-first audiophile."
+            },
+            {
+              "type": "facts",
+              "title": "AI picks by need",
+              "items": [
+                {
+                  "k": "For iPhone and Apple ecosystem",
+                  "v": "Apple AirPods Max",
+                  "tone": "purple",
+                  "say": "On an iPhone: AirPods Max."
+                },
+                {
+                  "k": "For wired audiophile at home",
+                  "v": "Sennheiser HD 600",
+                  "tone": "purple",
+                  "say": "Wired, at home: Sennheiser HD six hundred."
+                },
+                {
+                  "k": "For studio tracking on a budget",
+                  "v": "Sony MDR-7506",
+                  "tone": "purple",
+                  "say": "Studio, on a budget: Sony MDR seventy-five oh six."
+                }
+              ]
+            },
+            {
+              "type": "end",
+              "cta": "The full pick",
+              "title": "Why, who it's not for, and what to avoid.",
+              "say": "Why, and what to avoid, at intelligencepick dot com."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "sample-answer-dehumidifier",
+      "format": "answer",
+      "networks": [
+        "youtube"
+      ],
+      "title": "Which dehumidifier for a damp basement? 3 checks, then the AI pick",
+      "caption": "Buying a dehumidifier for a damp basement: the pint rating changed in 2019, drainage, cold spaces, and the AI pick. https://intelligencepick.com/home-and-kitchen/heating-cooling-and-air-quality/dehumidifiers?utm_source=youtube&utm_medium=short&utm_campaign=answer Chosen by an AI model (Claude Opus 5.5) from its trained knowledge, without web search; not a hands-on test. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "link": "https://intelligencepick.com/home-and-kitchen/heating-cooling-and-air-quality/dehumidifiers?utm_source=youtube&utm_medium=short&utm_campaign=answer",
+      "page": "https://intelligencepick.com/home-and-kitchen/heating-cooling-and-air-quality/dehumidifiers",
+      "ai": {
+        "generated": false,
+        "realistic": false
+      },
+      "prompts": {
+        "voice": "am_michael",
+        "speed": 1.1,
+        "spec": {
+          "tag": "Dehumidifiers",
+          "fineAlways": true,
+          "scenes": [
+            {
+              "type": "hook",
+              "kicker": "Damp basement?",
+              "title": "Which dehumidifier should you buy?",
+              "sub": "Three checks, then the AI pick.",
+              "say": "Which dehumidifier for a damp basement? Three checks first."
+            },
+            {
+              "type": "facts",
+              "title": "Before you buy",
+              "items": [
+                {
+                  "k": "Capacity under the current DOE test",
+                  "v": "A current 50‑pint unit roughly equals an old 70‑pint unit.",
+                  "tone": "yellow",
+                  "say": "Since 2019, a fifty-pint unit roughly equals an old seventy."
+                },
+                {
+                  "k": "Drainage method",
+                  "v": "A built-in condensate pump if water must go up or across the room.",
+                  "tone": "yellow",
+                  "say": "Water going up or across the room? Get a built-in pump."
+                },
+                {
+                  "k": "Operating temperature and defrost",
+                  "v": "Compressor units lose a lot of output below about 60–65°F.",
+                  "tone": "yellow",
+                  "say": "Below about sixty degrees, compressors lose a lot of output."
+                }
+              ]
+            },
+            {
+              "type": "verdict",
+              "label": "AI pick (line)",
+              "name": "Midea Cube",
+              "why": "Its modular design puts the bucket under the compressor, so it holds far more water before emptying than typical units and stays quieter while matching their moisture removal.",
+              "not": "Anyone who needs a built-in pump to push water up and out of a basement, or who will run it in a cold space below about 60°F.",
+              "say": "The pick: Midea Cube.",
+              "sayWhy": "It holds far more water before emptying, and stays quieter."
+            },
+            {
+              "type": "end",
+              "cta": "The full pick",
+              "title": "Picks for basements, crawlspaces, garages and closets.",
+              "say": "Basements, crawlspaces, garages, closets: intelligencepick dot com."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "sample-answer-3d-printer",
+      "format": "answer",
+      "networks": [
+        "youtube"
+      ],
+      "title": "First 3D printer: filament or resin? What an AI model would buy",
+      "caption": "Your first 3D printer: filament or resin, and the printer an AI model would buy for most first-time buyers. https://intelligencepick.com/industrial-and-scientific/additive-manufacturing-products/3d-printers?utm_source=youtube&utm_medium=short&utm_campaign=answer Chosen by an AI model (Claude Opus 5.5) from its trained knowledge, without web search; not a hands-on test. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "link": "https://intelligencepick.com/industrial-and-scientific/additive-manufacturing-products/3d-printers?utm_source=youtube&utm_medium=short&utm_campaign=answer",
+      "page": "https://intelligencepick.com/industrial-and-scientific/additive-manufacturing-products/3d-printers",
+      "ai": {
+        "generated": false,
+        "realistic": false
+      },
+      "prompts": {
+        "voice": "am_michael",
+        "speed": 1.1,
+        "spec": {
+          "tag": "3D printers",
+          "fineAlways": true,
+          "scenes": [
+            {
+              "type": "hook",
+              "kicker": "Your first 3D printer",
+              "title": "Filament or resin?",
+              "say": "Your first 3D printer: filament, or resin?"
+            },
+            {
+              "type": "compare",
+              "wide": true,
+              "title": "Filament (FDM) or resin?",
+              "items": [
+                {
+                  "price": "Filament",
+                  "name": "FDM",
+                  "line": "Functional parts, larger prints and low mess.",
+                  "sound": "AI pick: Bambu Lab A1",
+                  "tone": "green",
+                  "say": "Filament fits functional parts, larger prints and low mess."
+                },
+                {
+                  "price": "Resin",
+                  "name": "MSLA",
+                  "line": "Tiny high-detail parts, but needs chemical handling, washing and curing.",
+                  "sound": "For miniatures: Elegoo Saturn",
+                  "tone": "purple",
+                  "say": "Resin fits tiny, high-detail parts, but needs chemical handling, washing and curing."
+                }
+              ]
+            },
+            {
+              "type": "verdict",
+              "label": "AI pick",
+              "name": "Bambu Lab A1",
+              "why": "The most reliable print quality out of the box of any printer in its class … so it suits most first-time and hobby buyers.",
+              "not": "People who need an enclosure for ABS, ASA or nylon.",
+              "note": "For small desk, tight budget: Bambu Lab A1 mini.",
+              "say": "For most first-time buyers: Bambu Lab A1.",
+              "sayWhy": "The most reliable print quality out of the box in its class."
+            },
+            {
+              "type": "end",
+              "cta": "The full pick",
+              "title": "The enclosed, open and resin picks, and what to avoid.",
+              "say": "The other picks, and what to avoid: intelligencepick dot com."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Intelligence Pick",
+  "accent_part": "",
+  "site": "intelligencepick.com",
+  "cta": "Full pick: intelligencepick.com",
+  "locale": "en-US",
+  "currency": "USD",
+  "units": "imperial",
+  "motif": "bar",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "fine": "Chosen by an AI model (Claude Opus 5.5) from its trained knowledge, without web search. Not a hands-on test. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+  "colors": {
+    "bg": "#151513",
+    "panel": "#1d1c19",
+    "panel2": "#24231f",
+    "line": "#2f2d29",
+    "text": "#ecebe7",
+    "muted": "#a8a49b",
+    "accent": "#5fc795",
+    "on-accent": "#0b1f15",
+    "purple": "#a99bff",
+    "green": "#5fc795",
+    "yellow": "#f0b35c",
+    "red": "#ff6b5a",
+    "room": "#151513",
+    "photo": "#fbfaf7"
+  },
+  "source": "packages/site/app/globals.css, dark theme (--bg, --fg, --muted, --line, --accent, --accent-fg, --card, --ai, --split) and docs/design.md §3.2 (one-colour wordmark, no tagline, the violet kept for the AI pick) in everfields/intelligence-ranking"
+}
