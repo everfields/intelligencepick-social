@@ -17,7 +17,7 @@
       },
       "prompts": {
         "voice": "am_michael",
-        "speed": 1.1,
+        "speed": 1.2,
         "spec": {
           "tag": "Headphones",
           "fineAlways": true,
@@ -27,7 +27,7 @@
               "kicker": "Buying over-ear headphones",
               "title": "Which over-ear headphones should you buy?",
               "sub": "What an AI model would pick, from what it knows.",
-              "say": "Which over-ear headphones should you buy? Here's what an AI model would pick."
+              "say": "Which over-ear headphones should you buy?"
             },
             {
               "type": "verdict",
@@ -35,9 +35,8 @@
               "name": "Bose QuietComfort Ultra Headphones",
               "why": "It combines the most comfortable fit for long wear with elite noise cancelling, making it the travel benchmark.",
               "not": "Listeners who want detailed EQ control or a wired-first audiophile headphone.",
-              "say": "Bose QuietComfort Ultra.",
-              "sayWhy": "The most comfortable fit for long wear, with elite noise cancelling.",
-              "sayNot": "Not for a wired-first audiophile."
+              "say": "An AI model picks Bose QuietComfort Ultra.",
+              "sayWhy": "The most comfortable fit for long wear, with elite noise cancelling."
             },
             {
               "type": "facts",
@@ -67,7 +66,7 @@
               "type": "end",
               "cta": "The full pick",
               "title": "Why, who it's not for, and what to avoid.",
-              "say": "Why, and what to avoid, at intelligencepick dot com."
+              "say": "Why, and what to avoid: intelligencepick dot com."
             }
           ]
         }
@@ -89,7 +88,7 @@
       },
       "prompts": {
         "voice": "am_michael",
-        "speed": 1.1,
+        "speed": 1.2,
         "spec": {
           "tag": "Dehumidifiers",
           "fineAlways": true,
@@ -109,13 +108,13 @@
                   "k": "Capacity under the current DOE test",
                   "v": "A current 50‑pint unit roughly equals an old 70‑pint unit.",
                   "tone": "yellow",
-                  "say": "Since 2019, a fifty-pint unit roughly equals an old seventy."
+                  "say": "A fifty-pint unit today roughly equals an old seventy."
                 },
                 {
                   "k": "Drainage method",
                   "v": "A built-in condensate pump if water must go up or across the room.",
                   "tone": "yellow",
-                  "say": "Water going up or across the room? Get a built-in pump."
+                  "say": "Water going up or across the room? A built-in pump."
                 },
                 {
                   "k": "Operating temperature and defrost",
@@ -131,14 +130,14 @@
               "name": "Midea Cube",
               "why": "Its modular design puts the bucket under the compressor, so it holds far more water before emptying than typical units and stays quieter while matching their moisture removal.",
               "not": "Anyone who needs a built-in pump to push water up and out of a basement, or who will run it in a cold space below about 60°F.",
-              "say": "The pick: Midea Cube.",
-              "sayWhy": "It holds far more water before emptying, and stays quieter."
+              "say": "The AI pick: Midea Cube.",
+              "sayWhy": "It holds far more water before emptying."
             },
             {
               "type": "end",
               "cta": "The full pick",
               "title": "Picks for basements, crawlspaces, garages and closets.",
-              "say": "Basements, crawlspaces, garages, closets: intelligencepick dot com."
+              "say": "More picks at intelligencepick dot com."
             }
           ]
         }
@@ -160,7 +159,7 @@
       },
       "prompts": {
         "voice": "am_michael",
-        "speed": 1.1,
+        "speed": 1.2,
         "spec": {
           "tag": "3D printers",
           "fineAlways": true,
@@ -182,7 +181,7 @@
                   "line": "Functional parts, larger prints and low mess.",
                   "sound": "AI pick: Bambu Lab A1",
                   "tone": "green",
-                  "say": "Filament fits functional parts, larger prints and low mess."
+                  "say": "Filament: functional parts, larger prints, low mess."
                 },
                 {
                   "price": "Resin",
@@ -190,7 +189,7 @@
                   "line": "Tiny high-detail parts, but needs chemical handling, washing and curing.",
                   "sound": "For miniatures: Elegoo Saturn",
                   "tone": "purple",
-                  "say": "Resin fits tiny, high-detail parts, but needs chemical handling, washing and curing."
+                  "say": "Resin: tiny detail, but chemical handling, washing and curing."
                 }
               ]
             },
@@ -201,14 +200,14 @@
               "why": "The most reliable print quality out of the box of any printer in its class … so it suits most first-time and hobby buyers.",
               "not": "People who need an enclosure for ABS, ASA or nylon.",
               "note": "For small desk, tight budget: Bambu Lab A1 mini.",
-              "say": "For most first-time buyers: Bambu Lab A1.",
+              "say": "For most first-time buyers, the AI pick: Bambu Lab A1.",
               "sayWhy": "The most reliable print quality out of the box in its class."
             },
             {
               "type": "end",
               "cta": "The full pick",
               "title": "The enclosed, open and resin picks, and what to avoid.",
-              "say": "The other picks, and what to avoid: intelligencepick dot com."
+              "say": "The other picks: intelligencepick dot com."
             }
           ]
         }
