@@ -350,6 +350,12 @@ class TestAdapters(unittest.TestCase):
         self.assertEqual(body["assets"][0]["video"]["url"], "https://x/m/a.mp4")
         self.assertTrue(res.url.startswith("https://tiktok.dry.run"))
 
+    def test_buffer_tiktok_carries_the_ai_label(self):
+        a = self.recording(BufferTikTok, {"BUFFER_CHANNEL_TIKTOK": "ch1"})
+        a.post(self.media(self.tmp), PostSpec(caption="hello"))
+        body = a.transport.requests[0].json["variables"]["input"]
+        self.assertIs(body["metadata"]["tiktok"]["isAiGenerated"], True)
+
     def test_buffer_still_sending_is_handed_not_published(self):
         cls = BufferTikTok
         a = cls(None, {**cls.placeholder_env(), "BUFFER_CHANNEL_TIKTOK": "c"}, sleep=lambda s: None)

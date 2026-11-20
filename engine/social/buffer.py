@@ -111,6 +111,9 @@ class BufferTikTok(BufferRoute):
     cannot = ("Public posts through Buffer's audited TikTok app; trending sounds and polls need the phone. If Buffer "
               "offers only reminders, switch the TikTok account to Business (free, in the app).")
 
+    def metadata(self, spec: PostSpec) -> dict:
+        return {"isAiGenerated": True}
+
 
 class BufferInstagram(BufferRoute):
     """The fallback until a direct test post shows up for a logged-out viewer. No AI flag on this route."""
