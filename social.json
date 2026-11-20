@@ -14,7 +14,7 @@
   },
   "networks": {
     "tiktok": {
-      "enabled": false,
+      "enabled": true,
       "route": "buffer",
       "slots": [
         "12:07",
