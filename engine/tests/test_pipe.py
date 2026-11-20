@@ -395,6 +395,25 @@ class TestAdapters(unittest.TestCase):
         self.assertEqual(init.json["status"]["privacyStatus"], "public")
         self.assertEqual(res.url, "https://www.youtube.com/shorts/dryRunVid01")
 
+    def test_youtube_synthetic_media_from_the_network_flag(self):
+        a = self.recording(YouTubeDirect)
+        spec = PostSpec(caption="c", title="A title", ai_generated=False, options={"synthetic_media": True})
+        a.post(self.media(self.tmp), spec)
+        init = next(r for r in a.transport.requests if r.params and r.params.get("uploadType") == "resumable")
+        self.assertTrue(init.json["status"]["containsSyntheticMedia"])
+        b = self.recording(YouTubeDirect)
+        b.post(self.media(self.tmp), PostSpec(caption="c", title="A title"))
+        init = next(r for r in b.transport.requests if r.params and r.params.get("uploadType") == "resumable")
+        self.assertFalse(init.json["status"]["containsSyntheticMedia"])
+
+    def test_spec_of_carries_the_network_synthetic_flag(self):
+        class It:
+            data = {"caption": "c", "title": "t"}
+            ai = {"generated": False}
+        self.assertTrue(publish.spec_of(It(), {"synthetic_media": True}).options["synthetic_media"])
+        self.assertNotIn("synthetic_media", publish.spec_of(It(), {}).options)
+        self.assertNotIn("synthetic_media", publish.spec_of(It()).options)
+
     def test_youtube_needs_a_title(self):
         a = self.recording(YouTubeDirect)
         with self.assertRaises(Exception):

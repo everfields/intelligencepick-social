@@ -36,6 +36,7 @@
     "youtube": {
       "enabled": true,
       "route": "direct",
+      "synthetic_media": true,
       "slots": [
         "13:07",
         "20:37"

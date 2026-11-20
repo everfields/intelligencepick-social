@@ -55,7 +55,8 @@ class YouTubeDirect(Adapter):
                         "tags": list(spec.tags)[:15], "categoryId": spec.options.get("category", CATEGORY),
                         "defaultLanguage": spec.language, "defaultAudioLanguage": spec.language},
             "status": {"privacyStatus": "public", "selfDeclaredMadeForKids": False,
-                       "containsSyntheticMedia": bool(spec.ai_generated and spec.ai_realistic)},
+                       "containsSyntheticMedia": bool(spec.options.get("synthetic_media")
+                                                   or (spec.ai_generated and spec.ai_realistic))},
         }
         init = self.send(Request("POST", UPLOAD_URL, params={"uploadType": "resumable", "part": "snippet,status"},
                                  headers={**auth, "X-Upload-Content-Length": str(media.size),

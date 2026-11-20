@@ -74,12 +74,15 @@ def download(url: str, dest: Path) -> Path:
     return dest
 
 
-def spec_of(item: Item) -> PostSpec:
+def spec_of(item: Item, network: Mapping | None = None) -> PostSpec:
     d = item.data
+    options = dict(d.get("options") or {})
+    if (network or {}).get("synthetic_media"):  # decided at publish time, so it covers posts already queued
+        options["synthetic_media"] = True
     return PostSpec(caption=str(d.get("caption") or ""), title=str(d.get("title") or ""),
                     ai_generated=bool(item.ai.get("generated")), ai_realistic=bool(item.ai.get("realistic")),
                     trial=bool(d.get("trial")), language=str(d.get("language") or "en"),
-                    tags=tuple(d.get("tags") or ()), options=dict(d.get("options") or {}))
+                    tags=tuple(d.get("tags") or ()), options=options)
 
 
 def run(root: Path, state_dir: Path, cfg: Config, env: Mapping[str, str], *, now: datetime, live: bool,
@@ -157,7 +160,7 @@ def run(root: Path, state_dir: Path, cfg: Config, env: Mapping[str, str], *, now
             log.append(row)  # before the call: a crash leaves a pending row that blocks a double post
             if net_live and checkpoint:
                 checkpoint()  # and it is already on the state branch, so a lost runner cannot double-post either
-            result = adapter.post(media, spec_of(item))
+            result = adapter.post(media, spec_of(item, (cfg.raw.get("networks") or {}).get(net.name)))
         except Retryable as e:
             log.append(PostRow(**{**row.__dict__, "status": RETRY, "at": iso(now), "detail": redact_text(str(e))}))
             if log.retries(item.id, net.name) >= MAX_RETRIES:
