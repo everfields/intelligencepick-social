@@ -17,5 +17,30 @@
     "realistic": false
   },
   "trial": false,
-  "earliest": "2026-11-20T15:00:00Z"
+  "earliest": "2026-11-20T15:00:00Z",
+  "intake": {
+    "ok": false,
+    "at": "2026-11-21T21:09:06Z",
+    "problems": [
+      "near-duplicate of 2026-W48-answer-portable-dishwasher-faucet-youtube (distance 10.0)"
+    ],
+    "warnings": [],
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "duration_s": 27.0,
+      "video_codec": "h264",
+      "pix_fmt": "yuv420p",
+      "fps": 30.0,
+      "audio_codec": "aac",
+      "bytes": 2944386
+    },
+    "phash": [
+      "7a304f4f4b114600",
+      "5759173680804600",
+      "7f77578180804600",
+      "6f77574b6f476600",
+      "7a206b4a3c204600"
+    ]
+  }
 }
