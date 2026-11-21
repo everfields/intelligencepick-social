@@ -1,0 +1,21 @@
+{
+  "id": "2026-W48-answer-switch-2-before-you-buy-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W48",
+  "media": {
+    "file": "2026-W48-answer-switch-2-before-you-buy.mp4",
+    "sha256": "8c27ed2b70fff8a8a5da02a4c8c826010cbfa9e589ac17df5a9dac9e1dfbf681",
+    "kind": "video"
+  },
+  "caption": "Buying a Nintendo Switch 2? Claude and GPT choose the same line: Nintendo Switch 2. The full pick, who it's not for, and the other picks by need: https://1billionmodels.com/video-games/nintendo-switch-2-consoles?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+  "title": "Before you buy a Nintendo Switch 2: two things to check",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T15:00:00Z"
+}

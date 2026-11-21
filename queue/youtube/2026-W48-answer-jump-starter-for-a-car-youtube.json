@@ -1,0 +1,21 @@
+{
+  "id": "2026-W48-answer-jump-starter-for-a-car-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W48",
+  "media": {
+    "file": "2026-W48-answer-jump-starter-for-a-car.mp4",
+    "sha256": "09869472d5c03cb5386ef24cfdfff7337018753d0e62be41a76c4f53894598d1",
+    "kind": "video"
+  },
+  "caption": "Which jump starter should you keep in your car? Claude and GPT choose the same product: NOCO GB40. The full pick, who it's not for, and the other picks by need: https://1billionmodels.com/automotive/automotive-tools-and-equipment/jump-starters-and-battery-chargers/jump-starters?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+  "title": "Which jump starter for your car? What two AI models pick",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T15:00:00Z"
+}

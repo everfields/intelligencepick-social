@@ -1,0 +1,21 @@
+{
+  "id": "2026-W48-answer-vpn-what-to-check-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W48",
+  "media": {
+    "file": "2026-W48-answer-vpn-what-to-check.mp4",
+    "sha256": "ba983b257a662eac69a4fc53184a42bfbf4bab326c5aa4d2ec006925e0251fe3",
+    "kind": "video"
+  },
+  "caption": "Which VPN should you use? Claude and GPT choose the same line: Proton VPN. The full pick, who it's not for, and the other picks by need: https://1billionmodels.com/software/networking-and-servers/vpn?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+  "title": "Which VPN should you trust? What two AI models pick, and why",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T15:00:00Z"
+}

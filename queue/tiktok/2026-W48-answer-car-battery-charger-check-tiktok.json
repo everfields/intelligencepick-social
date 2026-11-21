@@ -1,0 +1,21 @@
+{
+  "id": "2026-W48-answer-car-battery-charger-check-tiktok",
+  "network": "tiktok",
+  "format": "answer",
+  "batch": "2026-W48",
+  "media": {
+    "file": "2026-W48-answer-car-battery-charger-check.mp4",
+    "sha256": "1ec2dd6bd08f575cb48cdb67ec9360dcddedf333165f4685ab93fe68b828a5e8",
+    "kind": "video"
+  },
+  "caption": "Which car battery charger should you buy? Claude and GPT choose the same line: NOCO Genius. The full pick, who it is not for, and the other picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video.",
+  "title": "Car battery charger: what to check, and what two AI models pick",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T15:00:00Z"
+}

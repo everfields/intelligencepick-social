@@ -1,0 +1,21 @@
+{
+  "id": "2026-W48-answer-home-sauna-traditional-or-infrared-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W48",
+  "media": {
+    "file": "2026-W48-answer-home-sauna-traditional-or-infrared.mp4",
+    "sha256": "5f9ee02eb9b68e6cd23a62a4f403b7ec85a729ae77b7f37fa6cd6d8182fbb2bb",
+    "kind": "video"
+  },
+  "caption": "Which home sauna should you buy? Claude and GPT choose the same brand, Almost Heaven. The full pick, who it's not for, and the other picks by need: https://1billionmodels.com/patio-lawn-and-garden/pools-hot-tubs-and-supplies/saunas?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+  "title": "Home sauna: traditional or infrared? What two AI models pick",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T15:00:00Z"
+}

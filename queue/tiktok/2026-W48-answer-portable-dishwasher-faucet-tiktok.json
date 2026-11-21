@@ -1,0 +1,21 @@
+{
+  "id": "2026-W48-answer-portable-dishwasher-faucet-tiktok",
+  "network": "tiktok",
+  "format": "answer",
+  "batch": "2026-W48",
+  "media": {
+    "file": "2026-W48-answer-portable-dishwasher-faucet.mp4",
+    "sha256": "3e11b99b17d196db366023a91cd977e0b6f96067c6e036a4ae6f9e720a441731",
+    "kind": "video"
+  },
+  "caption": "Will a portable dishwasher work in your kitchen? Claude and GPT choose the same brand, GE. The full pick, who it is not for, and the other picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video.",
+  "title": "Portable dishwasher: will it work with your faucet? AI pick",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T15:00:00Z"
+}

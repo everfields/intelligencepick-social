@@ -1,0 +1,21 @@
+{
+  "id": "2026-W48-answer-antivirus-or-windows-defender-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W48",
+  "media": {
+    "file": "2026-W48-answer-antivirus-or-windows-defender.mp4",
+    "sha256": "fc26a52f7702f967c136f1be618f779b997dcde392b381c806066c8b3fb88cfe",
+    "kind": "video"
+  },
+  "caption": "Which antivirus should you buy? Claude and GPT choose the same line: Bitdefender Total Security. The full pick, who it's not for, and the other picks by need: https://1billionmodels.com/software/antivirus-and-security?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+  "title": "Bitdefender or just Windows Defender? What two AI models pick",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T15:00:00Z"
+}

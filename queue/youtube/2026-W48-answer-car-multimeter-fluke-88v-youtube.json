@@ -1,0 +1,21 @@
+{
+  "id": "2026-W48-answer-car-multimeter-fluke-88v-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W48",
+  "media": {
+    "file": "2026-W48-answer-car-multimeter-fluke-88v.mp4",
+    "sha256": "6c95936fb90daed246cea8857c08fcd9b5e3e0ac8862538ee27ba27f20edf394",
+    "kind": "video"
+  },
+  "caption": "Which multimeter should you buy for car electrical work? Claude and GPT choose the same product: Fluke 88V. The full pick, who it's not for, and the other picks by need: https://1billionmodels.com/automotive/automotive-tools-and-equipment/diagnostic-test-and-measurement-tools/multimeters-and-analyzers?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+  "title": "Best multimeter for car electrical work? Claude and GPT choose the same one",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T15:00:00Z"
+}

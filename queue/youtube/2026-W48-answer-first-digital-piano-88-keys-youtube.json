@@ -1,0 +1,21 @@
+{
+  "id": "2026-W48-answer-first-digital-piano-88-keys-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W48",
+  "media": {
+    "file": "2026-W48-answer-first-digital-piano-88-keys.mp4",
+    "sha256": "c6bfd61a3ea0e83ac85d05a9d6f92cc230e136f52521acca0a882712e1ca935c",
+    "kind": "video"
+  },
+  "caption": "Which digital piano or keyboard should you buy? Claude and GPT choose the same line: Yamaha P-Series. The full pick, who it's not for, and the other picks by need: https://1billionmodels.com/musical-instruments/musical-instrument-keyboards-and-midi?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+  "title": "First digital piano: how many keys? What two AI models pick",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T15:00:00Z"
+}

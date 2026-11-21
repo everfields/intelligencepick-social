@@ -1,0 +1,21 @@
+{
+  "id": "2026-W48-answer-beverage-fridge-under-counter-tiktok",
+  "network": "tiktok",
+  "format": "answer",
+  "batch": "2026-W48",
+  "media": {
+    "file": "2026-W48-answer-beverage-fridge-under-counter.mp4",
+    "sha256": "79765b54ce78ba23500a9bed1fcb644e533d6b411690ad06bf9a6b4bcaacf4c0",
+    "kind": "video"
+  },
+  "caption": "Which beverage fridge should you buy? Claude and GPT choose the same brand, NewAir. The full pick, who it is not for, and the other picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video.",
+  "title": "Beverage fridge under a counter? Check this first, then the AI pick",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T15:00:00Z"
+}
