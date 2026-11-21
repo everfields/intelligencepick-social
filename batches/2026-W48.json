@@ -1,0 +1,1244 @@
+{
+  "week": "2026-W48",
+  "note": "First YouTube batch for 1 Billion Models (D-030). Pages: released tranche 1, pick current in data/fresh/us, same brand, pin audit passed (the pin feed set, pnpm --filter @ip/site pins status). Every line is the live page's words of 2026-11-20. spec.brand overrides the social repo brand.json, which still names the retired intelligencepick.com. TikTok (D-030, #191 done) rides on the same master files with its own caption: no URL (not clickable on a personal account), the Associates line and the AI note; it posts only once social.json enables tiktok, which waits on the founder gate about the commercial-content toggle Buffer cannot set.",
+  "posts": [
+    {
+      "id": "2026-W48-answer-xbox-series-x-or-s",
+      "format": "answer",
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "title": "Xbox Series X or Series S? What two AI models would buy",
+      "caption": "Which Xbox should you buy? Claude and GPT choose the same line: Microsoft Xbox Series X. The full pick, who it's not for, and the other picks by need: https://1billionmodels.com/video-games/xbox-series-x-and-s-consoles-games-and-accessories/xbox-series-x-and-s-consoles?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "earliest": "2026-11-20T15:00:00Z",
+      "page": "https://1billionmodels.com/video-games/xbox-series-x-and-s-consoles-games-and-accessories/xbox-series-x-and-s-consoles",
+      "link": "https://1billionmodels.com/video-games/xbox-series-x-and-s-consoles-games-and-accessories/xbox-series-x-and-s-consoles?utm_source=youtube&utm_medium=short&utm_campaign=answer",
+      "script": "Which Xbox should you buy? / Claude and GPT choose the same line: Xbox Series X. / The full pick, and who it is not for: one billion models dot com.",
+      "prompts": {
+        "voice": "am_michael",
+        "speed": 1.15,
+        "spec": {
+          "tag": "Xbox",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fineAlways": true,
+          "brand": {
+            "name": "1 Billion Models",
+            "accent_part": "",
+            "site": "1billionmodels.com",
+            "cta": "The full pick: 1billionmodels.com"
+          },
+          "scenes": [
+            {
+              "type": "hook",
+              "kicker": "Buying an Xbox",
+              "title": "Which Xbox should you buy?",
+              "sub": "Two AI models chose on their own, with no web access.",
+              "say": "Which Xbox should you buy?"
+            },
+            {
+              "type": "verdict",
+              "title": "Claude and GPT choose the same line: Microsoft Xbox Series X",
+              "label": "Claude Opus 5.5 · AI pick (line)",
+              "name": "Microsoft Xbox Series X",
+              "why": "The standard disc-drive Series X is the most capable Xbox, with native 4K targets, a 4K Blu-ray drive that also plays physical games, and about three times the usable storage of the base Series S.",
+              "not": "Gamers on a 1080p TV or a tight budget, and anyone with limited shelf space who streams or buys everything digitally.",
+              "say": "Claude and GPT choose the same line: Xbox Series X.",
+              "sayWhy": "A four K Blu-ray drive, native four K targets, and about three times the usable storage of the base Series S."
+            },
+            {
+              "type": "facts",
+              "title": "Which one fits you",
+              "items": [
+                {
+                  "k": "budget or 1080p/1440p TV",
+                  "v": "Microsoft Xbox Series S",
+                  "tone": "purple",
+                  "say": "On a budget, or a 1080p TV: Series S."
+                },
+                {
+                  "k": "all-digital with full Series X power",
+                  "v": "Microsoft Xbox Series X Digital Edition",
+                  "tone": "purple",
+                  "say": "All digital: Series X Digital Edition."
+                },
+                {
+                  "k": "large game library, maximum storage",
+                  "v": "Microsoft Xbox Series X 2TB Galaxy Black Special Edition",
+                  "tone": "purple",
+                  "say": "A big library: the two terabyte Series X."
+                }
+              ]
+            },
+            {
+              "type": "end",
+              "cta": "The full pick",
+              "title": "Why, who it's not for, and the other picks.",
+              "site": "1billionmodels.com",
+              "say": "The full pick, and who it is not for: one billion models dot com."
+            }
+          ]
+        }
+      },
+      "ai": {
+        "generated": false,
+        "realistic": false
+      },
+      "captions": {
+        "tiktok": "Which Xbox should you buy? Claude and GPT choose the same line: Microsoft Xbox Series X. The full pick, who it is not for, and the other picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+      }
+    },
+    {
+      "id": "2026-W48-answer-switch-2-before-you-buy",
+      "format": "answer",
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "title": "Before you buy a Nintendo Switch 2: two things to check",
+      "caption": "Buying a Nintendo Switch 2? Claude and GPT choose the same line: Nintendo Switch 2. The full pick, who it's not for, and the other picks by need: https://1billionmodels.com/video-games/nintendo-switch-2-consoles?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "earliest": "2026-11-20T15:00:00Z",
+      "page": "https://1billionmodels.com/video-games/nintendo-switch-2-consoles",
+      "link": "https://1billionmodels.com/video-games/nintendo-switch-2-consoles?utm_source=youtube&utm_medium=short&utm_campaign=answer",
+      "script": "Two things to check before you buy a Switch 2. / Claude and GPT choose the same line: the Switch 2. / Why, and the bundle pick: one billion models dot com.",
+      "prompts": {
+        "voice": "am_michael",
+        "speed": 1.15,
+        "spec": {
+          "tag": "Switch 2",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fineAlways": true,
+          "brand": {
+            "name": "1 Billion Models",
+            "accent_part": "",
+            "site": "1billionmodels.com",
+            "cta": "The full pick: 1billionmodels.com"
+          },
+          "scenes": [
+            {
+              "type": "hook",
+              "kicker": "Buying a Switch 2",
+              "title": "Two things to check before you buy a Switch 2",
+              "sub": "Two AI models chose on their own, with no web access.",
+              "say": "Two things to check before you buy a Switch 2."
+            },
+            {
+              "type": "facts",
+              "title": "What to check before you buy",
+              "items": [
+                {
+                  "k": "Storage expansion",
+                  "v": "Expansion requires microSD Express cards; standard microSD cards cannot run Switch 2 games",
+                  "tone": "green",
+                  "say": "Storage: only microSD Express cards run Switch 2 games."
+                },
+                {
+                  "k": "Game-Key Cards",
+                  "v": "Expect some physical games to be Game-Key Cards that need a download",
+                  "tone": "green",
+                  "say": "Some physical games are Game-Key Cards that need a download."
+                }
+              ]
+            },
+            {
+              "type": "verdict",
+              "title": "Claude and GPT choose the same line: Nintendo Switch 2",
+              "label": "Claude Opus 5.5 · AI pick (line)",
+              "name": "Nintendo Switch 2",
+              "why": "It is the only console that plays Switch 2 exclusives and still runs most of the existing Switch library, with a 1080p 120Hz handheld screen and 4K docked output.",
+              "not": "Players who already own a Switch and only play older Switch games and do not care about new releases.",
+              "say": "Claude and GPT choose the same line: the Switch 2.",
+              "sayNot": "Not for players who own a Switch and only play older games."
+            },
+            {
+              "type": "end",
+              "cta": "The full pick",
+              "title": "Why, who it's not for, and the other picks.",
+              "site": "1billionmodels.com",
+              "say": "Why, and the bundle pick: one billion models dot com."
+            }
+          ]
+        }
+      },
+      "ai": {
+        "generated": false,
+        "realistic": false
+      },
+      "captions": {
+        "tiktok": "Buying a Nintendo Switch 2? Claude and GPT choose the same line: Nintendo Switch 2. The full pick, who it is not for, and the other picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+      }
+    },
+    {
+      "id": "2026-W48-answer-jump-starter-for-a-car",
+      "format": "answer",
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "title": "Which jump starter for your car? What two AI models pick",
+      "caption": "Which jump starter should you keep in your car? Claude and GPT choose the same product: NOCO GB40. The full pick, who it's not for, and the other picks by need: https://1billionmodels.com/automotive/automotive-tools-and-equipment/jump-starters-and-battery-chargers/jump-starters?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "earliest": "2026-11-20T15:00:00Z",
+      "page": "https://1billionmodels.com/automotive/automotive-tools-and-equipment/jump-starters-and-battery-chargers/jump-starters",
+      "link": "https://1billionmodels.com/automotive/automotive-tools-and-equipment/jump-starters-and-battery-chargers/jump-starters?utm_source=youtube&utm_medium=short&utm_campaign=answer",
+      "script": "Which jump starter should you keep in your car? / Who it is not for, and what to check: one billion models dot com.",
+      "prompts": {
+        "voice": "am_michael",
+        "speed": 1.15,
+        "spec": {
+          "tag": "Jump starters",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fineAlways": true,
+          "brand": {
+            "name": "1 Billion Models",
+            "accent_part": "",
+            "site": "1billionmodels.com",
+            "cta": "The full pick: 1billionmodels.com"
+          },
+          "scenes": [
+            {
+              "type": "hook",
+              "kicker": "Buying a jump starter",
+              "title": "Which jump starter should you keep in your car?",
+              "sub": "Two AI models chose on their own, with no web access.",
+              "say": "Which jump starter should you keep in your car?"
+            },
+            {
+              "type": "compare",
+              "title": "What each model says",
+              "wide": true,
+              "items": [
+                {
+                  "price": "Claude",
+                  "name": "NOCO Boost GB40",
+                  "line": "A compact lithium jump starter with reliable spark-proof and reverse-polarity protection and enough output for most gasoline cars.",
+                  "sound": "Not for: Owners of diesel trucks or large V8 engines, and anyone who needs to jump repeatedly on cold mornings.",
+                  "tone": "purple",
+                  "say": "Claude picks the NOCO Boost G B forty, for most gasoline cars."
+                },
+                {
+                  "price": "GPT",
+                  "name": "NOCO Boost Plus GB40",
+                  "line": "Compact 12-volt jump starter with spark-proof connections, reverse-polarity protection, and enough starting power for most passenger vehicles.",
+                  "sound": "Not for: Diesel engines over 3.0 liters or 24-volt electrical systems.",
+                  "tone": "purple",
+                  "say": "GPT names the same product."
+                }
+              ]
+            },
+            {
+              "type": "facts",
+              "title": "Which one fits you",
+              "items": [
+                {
+                  "k": "diesel trucks and large engines",
+                  "v": "NOCO Boost GB150",
+                  "tone": "purple",
+                  "say": "A diesel truck or a big engine: the G B one fifty."
+                },
+                {
+                  "k": "professional shop or tow use",
+                  "v": "Clore Automotive Jump-N-Carry JNC660",
+                  "tone": "purple",
+                  "say": "A shop or a tow truck: the Jump-N-Carry six sixty."
+                }
+              ]
+            },
+            {
+              "type": "end",
+              "cta": "The full pick",
+              "title": "Why, who it's not for, and the other picks.",
+              "site": "1billionmodels.com",
+              "say": "Who it is not for, and what to check: one billion models dot com."
+            }
+          ]
+        }
+      },
+      "ai": {
+        "generated": false,
+        "realistic": false
+      },
+      "captions": {
+        "tiktok": "Which jump starter should you keep in your car? Claude and GPT choose the same product: NOCO GB40. The full pick, who it is not for, and the other picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+      }
+    },
+    {
+      "id": "2026-W48-answer-car-battery-charger-check",
+      "format": "answer",
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "title": "Car battery charger: what to check, and what two AI models pick",
+      "caption": "Which car battery charger should you buy? Claude and GPT choose the same line: NOCO Genius. The full pick, who it's not for, and the other picks by need: https://1billionmodels.com/automotive/automotive-tools-and-equipment/jump-starters-and-battery-chargers/battery-chargers?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "earliest": "2026-11-20T15:00:00Z",
+      "page": "https://1billionmodels.com/automotive/automotive-tools-and-equipment/jump-starters-and-battery-chargers/battery-chargers",
+      "link": "https://1billionmodels.com/automotive/automotive-tools-and-equipment/jump-starters-and-battery-chargers/battery-chargers?utm_source=youtube&utm_medium=short&utm_campaign=answer",
+      "script": "What should you check in a car battery charger? / The other picks by need: one billion models dot com.",
+      "prompts": {
+        "voice": "am_michael",
+        "speed": 1.15,
+        "spec": {
+          "tag": "Battery chargers",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fineAlways": true,
+          "brand": {
+            "name": "1 Billion Models",
+            "accent_part": "",
+            "site": "1billionmodels.com",
+            "cta": "The full pick: 1billionmodels.com"
+          },
+          "scenes": [
+            {
+              "type": "hook",
+              "kicker": "Buying a battery charger",
+              "title": "What should you check in a car battery charger?",
+              "sub": "Two AI models chose on their own, with no web access.",
+              "say": "What should you check in a car battery charger?"
+            },
+            {
+              "type": "facts",
+              "title": "What to check before you buy",
+              "items": [
+                {
+                  "k": "Chemistry modes",
+                  "v": "The charger must have a mode that matches the battery: flooded, AGM/gel, or lithium (LiFePO4).",
+                  "tone": "green",
+                  "say": "A mode that matches your battery: flooded, A G M, or lithium."
+                },
+                {
+                  "k": "Charge current vs battery size",
+                  "v": "Around 1A or less is enough for storage maintenance. For recharging, aim for roughly 10 percent of the battery's Ah capacity.",
+                  "tone": "green",
+                  "say": "About one amp to maintain it. About ten percent of its amp-hours to recharge."
+                },
+                {
+                  "k": "Automatic float/maintenance",
+                  "v": "Choose a multi-stage charger that switches to float or pulse maintenance automatically.",
+                  "tone": "green",
+                  "say": "And automatic float, so it can stay connected."
+                }
+              ]
+            },
+            {
+              "type": "compare",
+              "title": "What each model says",
+              "wide": true,
+              "items": [
+                {
+                  "price": "Claude",
+                  "name": "NOCO Genius GENIUS5",
+                  "line": "A fully automatic smart charger and maintainer that handles 6V and 12V lead-acid, AGM and lithium batteries.",
+                  "sound": "Not for: Owners of large truck, marine or deep-cycle banks who need faster bulk charging, and shops that need engine-start assist.",
+                  "tone": "purple",
+                  "say": "Claude picks the NOCO Genius five."
+                },
+                {
+                  "price": "GPT",
+                  "name": "NOCO GENIUS GENIUS10",
+                  "line": "Versatile 10-amp smart charging for 6V and 12V batteries, with automatic maintenance and temperature compensation.",
+                  "sound": "Not for: 24V systems or drivers needing an engine jump starter.",
+                  "tone": "purple",
+                  "say": "GPT picks the Genius ten. Same line."
+                }
+              ]
+            },
+            {
+              "type": "end",
+              "cta": "The full pick",
+              "title": "Why, who it's not for, and the other picks.",
+              "site": "1billionmodels.com",
+              "say": "The other picks by need: one billion models dot com."
+            }
+          ]
+        }
+      },
+      "ai": {
+        "generated": false,
+        "realistic": false
+      },
+      "captions": {
+        "tiktok": "Which car battery charger should you buy? Claude and GPT choose the same line: NOCO Genius. The full pick, who it is not for, and the other picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+      }
+    },
+    {
+      "id": "2026-W48-answer-home-sauna-traditional-or-infrared",
+      "format": "answer",
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "title": "Home sauna: traditional or infrared? What two AI models pick",
+      "caption": "Which home sauna should you buy? Claude and GPT choose the same brand, Almost Heaven. The full pick, who it's not for, and the other picks by need: https://1billionmodels.com/patio-lawn-and-garden/pools-hot-tubs-and-supplies/saunas?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "earliest": "2026-11-20T15:00:00Z",
+      "page": "https://1billionmodels.com/patio-lawn-and-garden/pools-hot-tubs-and-supplies/saunas",
+      "link": "https://1billionmodels.com/patio-lawn-and-garden/pools-hot-tubs-and-supplies/saunas?utm_source=youtube&utm_medium=short&utm_campaign=answer",
+      "script": "Which home sauna should you buy? / Claude and GPT choose the same brand: Almost Heaven. / Heater sizing and outdoor ratings: one billion models dot com.",
+      "prompts": {
+        "voice": "am_michael",
+        "speed": 1.15,
+        "spec": {
+          "tag": "Saunas",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fineAlways": true,
+          "brand": {
+            "name": "1 Billion Models",
+            "accent_part": "",
+            "site": "1billionmodels.com",
+            "cta": "The full pick: 1billionmodels.com"
+          },
+          "scenes": [
+            {
+              "type": "hook",
+              "kicker": "Buying a home sauna",
+              "title": "Which home sauna should you buy?",
+              "sub": "Two AI models chose on their own, with no web access.",
+              "say": "Which home sauna should you buy?"
+            },
+            {
+              "type": "verdict",
+              "title": "Claude and GPT choose the same brand, Almost Heaven",
+              "label": "Claude Opus 5.5 · AI pick (brand)",
+              "name": "Almost Heaven",
+              "why": "Almost Heaven is an established maker of outdoor barrel and cabin saunas built for traditional heaters, with solid wood construction meant for outdoor exposure.",
+              "not": "Anyone who wants plug-in installation with no electrician, or who prefers low-temperature infrared heat.",
+              "say": "Claude and GPT choose the same brand: Almost Heaven.",
+              "sayNot": "Not for plug-in installs with no electrician."
+            },
+            {
+              "type": "facts",
+              "title": "What to check before you buy",
+              "items": [
+                {
+                  "k": "Heat type",
+                  "v": "Traditional heaters heat the air for the classic high-heat, steam-on-rocks session. Infrared panels warm the body directly at lower air temperatures.",
+                  "tone": "green",
+                  "say": "Traditional heats the air. Infrared warms you at a lower air temperature."
+                },
+                {
+                  "k": "Electrical requirement",
+                  "v": "Most traditional sauna heaters and larger infrared units need a dedicated 240V circuit. Confirm the circuit before you buy.",
+                  "tone": "green",
+                  "say": "Most need a dedicated two-forty volt circuit. Check it first."
+                }
+              ]
+            },
+            {
+              "type": "facts",
+              "title": "Which one fits you",
+              "items": [
+                {
+                  "k": "infrared, lower running temperature",
+                  "v": "Clearlight",
+                  "tone": "purple",
+                  "say": "Infrared: Clearlight."
+                },
+                {
+                  "k": "budget infrared",
+                  "v": "Dynamic Saunas",
+                  "tone": "purple",
+                  "say": "Infrared on a budget: Dynamic Saunas."
+                }
+              ]
+            },
+            {
+              "type": "end",
+              "cta": "The full pick",
+              "title": "Why, who it's not for, and the other picks.",
+              "site": "1billionmodels.com",
+              "say": "Heater sizing and outdoor ratings: one billion models dot com."
+            }
+          ]
+        }
+      },
+      "ai": {
+        "generated": false,
+        "realistic": false
+      },
+      "captions": {
+        "tiktok": "Which home sauna should you buy? Claude and GPT choose the same brand, Almost Heaven. The full pick, who it is not for, and the other picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+      }
+    },
+    {
+      "id": "2026-W48-answer-portable-dishwasher-faucet",
+      "format": "answer",
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "title": "Portable dishwasher: will it work with your faucet? AI pick",
+      "caption": "Will a portable dishwasher work in your kitchen? Claude and GPT choose the same brand, GE. The full pick, who it's not for, and the other picks by need: https://1billionmodels.com/appliances/dishwashers/portable-dishwashers?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "earliest": "2026-11-20T15:00:00Z",
+      "page": "https://1billionmodels.com/appliances/dishwashers/portable-dishwashers",
+      "link": "https://1billionmodels.com/appliances/dishwashers/portable-dishwashers?utm_source=youtube&utm_medium=short&utm_campaign=answer",
+      "script": "Will a portable dishwasher work in your kitchen? / Claude and GPT choose the same brand: G E. / Hose reach and the rest: one billion models dot com.",
+      "prompts": {
+        "voice": "am_michael",
+        "speed": 1.15,
+        "spec": {
+          "tag": "Dishwashers",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fineAlways": true,
+          "brand": {
+            "name": "1 Billion Models",
+            "accent_part": "",
+            "site": "1billionmodels.com",
+            "cta": "The full pick: 1billionmodels.com"
+          },
+          "scenes": [
+            {
+              "type": "hook",
+              "kicker": "Buying a portable dishwasher",
+              "title": "Will a portable dishwasher work in your kitchen?",
+              "sub": "Two AI models chose on their own, with no web access.",
+              "say": "Will a portable dishwasher work in your kitchen?"
+            },
+            {
+              "type": "facts",
+              "title": "What to check before you buy",
+              "items": [
+                {
+                  "k": "Faucet adapter",
+                  "v": "You need a threaded aerator faucet. Pull-down sprayers usually cannot connect.",
+                  "tone": "green",
+                  "say": "You need a threaded aerator faucet. Pull-down sprayers usually cannot connect."
+                },
+                {
+                  "k": "Width",
+                  "v": "24 in matches built-in capacity. 18 in fits tight spaces but holds noticeably less.",
+                  "tone": "green",
+                  "say": "Twenty-four inches holds a full load. Eighteen fits, but holds less."
+                }
+              ]
+            },
+            {
+              "type": "verdict",
+              "title": "Claude and GPT choose the same brand, GE",
+              "label": "Claude Opus 5.5 · AI pick (brand)",
+              "name": "GE",
+              "why": "GE is one of the few major brands still making full-size 24-inch portable dishwashers on casters, giving built-in capacity without installation.",
+              "not": "Small kitchens without floor space beside the sink, or anyone with a faucet that cannot take a quick-connect adapter.",
+              "say": "Claude and GPT choose the same brand: G E.",
+              "sayWhy": "Full-size twenty-four inch portables on casters, with no installation."
+            },
+            {
+              "type": "facts",
+              "title": "Which one fits you",
+              "items": [
+                {
+                  "k": "narrow 18-inch rolling unit",
+                  "v": "SPT",
+                  "tone": "purple",
+                  "say": "Eighteen inches: S P T."
+                }
+              ]
+            },
+            {
+              "type": "end",
+              "cta": "The full pick",
+              "title": "Why, who it's not for, and the other picks.",
+              "site": "1billionmodels.com",
+              "say": "Hose reach and the rest: one billion models dot com."
+            }
+          ]
+        }
+      },
+      "ai": {
+        "generated": false,
+        "realistic": false
+      },
+      "captions": {
+        "tiktok": "Will a portable dishwasher work in your kitchen? Claude and GPT choose the same brand, GE. The full pick, who it is not for, and the other picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+      }
+    },
+    {
+      "id": "2026-W48-answer-car-multimeter-fluke-88v",
+      "format": "answer",
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "title": "Best multimeter for car electrical work? Claude and GPT choose the same one",
+      "caption": "Which multimeter should you buy for car electrical work? Claude and GPT choose the same product: Fluke 88V. The full pick, who it's not for, and the other picks by need: https://1billionmodels.com/automotive/automotive-tools-and-equipment/diagnostic-test-and-measurement-tools/multimeters-and-analyzers?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "earliest": "2026-11-20T15:00:00Z",
+      "page": "https://1billionmodels.com/automotive/automotive-tools-and-equipment/diagnostic-test-and-measurement-tools/multimeters-and-analyzers",
+      "link": "https://1billionmodels.com/automotive/automotive-tools-and-equipment/diagnostic-test-and-measurement-tools/multimeters-and-analyzers?utm_source=youtube&utm_medium=short&utm_campaign=answer",
+      "script": "Which multimeter should you buy for car electrical work? / The budget pick and the safety rating to check: one billion models dot com.",
+      "prompts": {
+        "voice": "am_michael",
+        "speed": 1.15,
+        "spec": {
+          "tag": "Multimeters",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fineAlways": true,
+          "brand": {
+            "name": "1 Billion Models",
+            "accent_part": "",
+            "site": "1billionmodels.com",
+            "cta": "The full pick: 1billionmodels.com"
+          },
+          "scenes": [
+            {
+              "type": "hook",
+              "kicker": "Buying a car multimeter",
+              "title": "Which multimeter for car electrical work?",
+              "sub": "Two AI models chose on their own, with no web access.",
+              "say": "Which multimeter should you buy for car electrical work?"
+            },
+            {
+              "type": "compare",
+              "title": "What each model says",
+              "wide": true,
+              "items": [
+                {
+                  "price": "Claude",
+                  "name": "Fluke 88V",
+                  "line": "An automotive-specific multimeter with RPM, duty cycle, pulse width and min/max capture.",
+                  "sound": "Not for: Occasional users who only check battery voltage and fuses.",
+                  "tone": "purple",
+                  "say": "Claude picks the Fluke eighty-eight V: R P M, duty cycle and min max capture."
+                },
+                {
+                  "price": "GPT",
+                  "name": "Fluke 88V",
+                  "line": "Automotive-specific measurements, reliable accuracy, and rugged construction.",
+                  "sound": "Not for: Buyers needing oscilloscope waveforms or OBD-II code reading.",
+                  "tone": "purple",
+                  "say": "GPT picks the same product. Not for O B D two code reading."
+                }
+              ]
+            },
+            {
+              "type": "end",
+              "cta": "The full pick",
+              "title": "Why, who it's not for, and the other picks.",
+              "site": "1billionmodels.com",
+              "say": "The budget pick and the safety rating to check: one billion models dot com."
+            }
+          ]
+        }
+      },
+      "ai": {
+        "generated": false,
+        "realistic": false
+      },
+      "captions": {
+        "tiktok": "Which multimeter should you buy for car electrical work? Claude and GPT choose the same product: Fluke 88V. The full pick, who it is not for, and the other picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+      }
+    },
+    {
+      "id": "2026-W48-answer-video-editing-software-by-need",
+      "format": "answer",
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "title": "Which video editing software? AI picks for Mac, Adobe and beginners",
+      "caption": "Which video editing software should you buy? Claude and GPT choose the same line: Blackmagic Design DaVinci Resolve Studio. The full pick, who it's not for, and the other picks by need: https://1billionmodels.com/software/digital-video/video-editing?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "earliest": "2026-11-20T15:00:00Z",
+      "page": "https://1billionmodels.com/software/digital-video/video-editing",
+      "link": "https://1billionmodels.com/software/digital-video/video-editing?utm_source=youtube&utm_medium=short&utm_campaign=answer",
+      "script": "Which video editing software should you buy? / Perpetual license or subscription: one billion models dot com.",
+      "prompts": {
+        "voice": "am_michael",
+        "speed": 1.15,
+        "spec": {
+          "tag": "Video editing",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fineAlways": true,
+          "brand": {
+            "name": "1 Billion Models",
+            "accent_part": "",
+            "site": "1billionmodels.com",
+            "cta": "The full pick: 1billionmodels.com"
+          },
+          "scenes": [
+            {
+              "type": "hook",
+              "kicker": "Buying video editing software",
+              "title": "Which video editor should you buy?",
+              "sub": "Two AI models chose on their own, with no web access.",
+              "say": "Which video editing software should you buy?"
+            },
+            {
+              "type": "facts",
+              "title": "Which one fits you",
+              "items": [
+                {
+                  "k": "AI pick: Claude and GPT",
+                  "v": "Blackmagic Design DaVinci Resolve Studio",
+                  "tone": "purple",
+                  "say": "Claude and GPT choose the same line: DaVinci Resolve Studio."
+                },
+                {
+                  "k": "Mac users wanting tight Apple-silicon optimization",
+                  "v": "Apple Final Cut Pro",
+                  "tone": "purple",
+                  "say": "On a Mac: Final Cut Pro."
+                },
+                {
+                  "k": "Adobe ecosystem and agency workflows",
+                  "v": "Adobe Premiere Pro",
+                  "tone": "purple",
+                  "say": "Adobe and agency work: Premiere Pro."
+                },
+                {
+                  "k": "Beginners and social-media creators",
+                  "v": "CyberLink PowerDirector 365",
+                  "tone": "purple",
+                  "say": "Beginners: PowerDirector three sixty-five."
+                }
+              ]
+            },
+            {
+              "type": "end",
+              "cta": "The full pick",
+              "title": "Why, who it's not for, and the other picks.",
+              "site": "1billionmodels.com",
+              "say": "Perpetual license or subscription: one billion models dot com."
+            }
+          ]
+        }
+      },
+      "ai": {
+        "generated": false,
+        "realistic": false
+      },
+      "captions": {
+        "tiktok": "Which video editing software should you buy? Claude and GPT choose the same line: Blackmagic Design DaVinci Resolve Studio. The full pick, who it is not for, and the other picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+      }
+    },
+    {
+      "id": "2026-W48-answer-antivirus-or-windows-defender",
+      "format": "answer",
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "title": "Bitdefender or just Windows Defender? What two AI models pick",
+      "caption": "Which antivirus should you buy? Claude and GPT choose the same line: Bitdefender Total Security. The full pick, who it's not for, and the other picks by need: https://1billionmodels.com/software/antivirus-and-security?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "earliest": "2026-11-20T15:00:00Z",
+      "page": "https://1billionmodels.com/software/antivirus-and-security",
+      "link": "https://1billionmodels.com/software/antivirus-and-security?utm_source=youtube&utm_medium=short&utm_campaign=answer",
+      "script": "Which antivirus should you buy? / Claude and GPT choose the same line: Bitdefender Total Security. / Renewal terms and the cleanup pick: one billion models dot com.",
+      "prompts": {
+        "voice": "am_michael",
+        "speed": 1.15,
+        "spec": {
+          "tag": "Antivirus",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fineAlways": true,
+          "brand": {
+            "name": "1 Billion Models",
+            "accent_part": "",
+            "site": "1billionmodels.com",
+            "cta": "The full pick: 1billionmodels.com"
+          },
+          "scenes": [
+            {
+              "type": "hook",
+              "kicker": "Buying antivirus",
+              "title": "Which antivirus should you buy?",
+              "sub": "Two AI models chose on their own, with no web access.",
+              "say": "Which antivirus should you buy?"
+            },
+            {
+              "type": "verdict",
+              "title": "Claude and GPT choose the same line: Bitdefender Total Security",
+              "label": "Claude Opus 5.5 · AI pick (line)",
+              "name": "Bitdefender Total Security",
+              "why": "It consistently ranks near the top in independent lab protection tests with a light system load, and one license covers Windows, Mac, Android and iOS.",
+              "not": "Single-Windows-PC users who only want malware protection and are happy with built-in Microsoft Defender or a plain antivirus.",
+              "say": "Claude and GPT choose the same line: Bitdefender Total Security.",
+              "sayWhy": "Near the top in independent lab tests, with a light system load, on Windows, Mac, Android and iOS.",
+              "sayNot": "Not for one Windows PC that is fine with Microsoft Defender."
+            },
+            {
+              "type": "end",
+              "cta": "The full pick",
+              "title": "Why, who it's not for, and the other picks.",
+              "site": "1billionmodels.com",
+              "say": "Renewal terms and the cleanup pick: one billion models dot com."
+            }
+          ]
+        }
+      },
+      "ai": {
+        "generated": false,
+        "realistic": false
+      },
+      "captions": {
+        "tiktok": "Which antivirus should you buy? Claude and GPT choose the same line: Bitdefender Total Security. The full pick, who it is not for, and the other picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+      }
+    },
+    {
+      "id": "2026-W48-answer-beverage-fridge-under-counter",
+      "format": "answer",
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "title": "Beverage fridge under a counter? Check this first, then the AI pick",
+      "caption": "Which beverage fridge should you buy? Claude and GPT choose the same brand, NewAir. The full pick, who it's not for, and the other picks by need: https://1billionmodels.com/appliances/refrigerators-freezers-and-ice-makers/beverage-refrigerators?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "earliest": "2026-11-20T15:00:00Z",
+      "page": "https://1billionmodels.com/appliances/refrigerators-freezers-and-ice-makers/beverage-refrigerators",
+      "link": "https://1billionmodels.com/appliances/refrigerators-freezers-and-ice-makers/beverage-refrigerators?utm_source=youtube&utm_medium=short&utm_campaign=answer",
+      "script": "Can that beverage fridge go under your counter? / Overall, Claude and GPT choose the same brand: NewAir. / Real capacity and the rest: one billion models dot com.",
+      "prompts": {
+        "voice": "am_michael",
+        "speed": 1.15,
+        "spec": {
+          "tag": "Beverage fridges",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fineAlways": true,
+          "brand": {
+            "name": "1 Billion Models",
+            "accent_part": "",
+            "site": "1billionmodels.com",
+            "cta": "The full pick: 1billionmodels.com"
+          },
+          "scenes": [
+            {
+              "type": "hook",
+              "kicker": "Buying a beverage fridge",
+              "title": "Can that beverage fridge go under your counter?",
+              "sub": "Two AI models chose on their own, with no web access.",
+              "say": "Can that beverage fridge go under your counter?"
+            },
+            {
+              "type": "facts",
+              "title": "What to check before you buy",
+              "items": [
+                {
+                  "k": "Venting for installation",
+                  "v": "Only front-venting units (exhaust at the toe-kick) may be built in under a counter. Rear- or side-venting units need open air around them.",
+                  "tone": "green",
+                  "say": "Only front-venting units can be built in under a counter."
+                },
+                {
+                  "k": "Cooling technology",
+                  "v": "Choose a compressor unit for cold sodas or beer. Thermoelectric units can only cool a limited amount below room temperature.",
+                  "tone": "green",
+                  "say": "For cold sodas or beer, choose a compressor, not thermoelectric."
+                }
+              ]
+            },
+            {
+              "type": "facts",
+              "title": "Which one fits you",
+              "items": [
+                {
+                  "k": "premium built-in under a counter",
+                  "v": "U-Line",
+                  "tone": "purple",
+                  "say": "Built in, premium: U-Line."
+                },
+                {
+                  "k": "compact freestanding cooler",
+                  "v": "Whynter",
+                  "tone": "purple",
+                  "say": "Compact and freestanding: Whynter."
+                }
+              ]
+            },
+            {
+              "type": "verdict",
+              "title": "Claude and GPT choose the same brand, NewAir",
+              "label": "Claude Opus 5.5 · AI pick (brand)",
+              "name": "NewAir",
+              "why": "NewAir's compressor-cooled beverage fridges reliably reach soda-cold temperatures, and the range covers both freestanding and front-venting built-in units.",
+              "not": "Anyone putting it in a hot garage or outdoors, unless that specific unit is rated for the ambient temperature.",
+              "say": "Overall, Claude and GPT choose the same brand: NewAir.",
+              "sayNot": "Not for a hot garage, unless the unit is rated for it."
+            },
+            {
+              "type": "end",
+              "cta": "The full pick",
+              "title": "Why, who it's not for, and the other picks.",
+              "site": "1billionmodels.com",
+              "say": "Real capacity and the rest: one billion models dot com."
+            }
+          ]
+        }
+      },
+      "ai": {
+        "generated": false,
+        "realistic": false
+      },
+      "captions": {
+        "tiktok": "Which beverage fridge should you buy? Claude and GPT choose the same brand, NewAir. The full pick, who it is not for, and the other picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+      }
+    },
+    {
+      "id": "2026-W48-answer-first-digital-piano-88-keys",
+      "format": "answer",
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "title": "First digital piano: how many keys? What two AI models pick",
+      "caption": "Which digital piano or keyboard should you buy? Claude and GPT choose the same line: Yamaha P-Series. The full pick, who it's not for, and the other picks by need: https://1billionmodels.com/musical-instruments/musical-instrument-keyboards-and-midi?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "earliest": "2026-11-20T15:00:00Z",
+      "page": "https://1billionmodels.com/musical-instruments/musical-instrument-keyboards-and-midi",
+      "link": "https://1billionmodels.com/musical-instruments/musical-instrument-keyboards-and-midi?utm_source=youtube&utm_medium=short&utm_campaign=answer",
+      "script": "Which digital piano should you buy? / Claude and GPT choose the same line: Yamaha P-Series. / Picks for producers and first synths: one billion models dot com.",
+      "prompts": {
+        "voice": "am_michael",
+        "speed": 1.15,
+        "spec": {
+          "tag": "Keyboards",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fineAlways": true,
+          "brand": {
+            "name": "1 Billion Models",
+            "accent_part": "",
+            "site": "1billionmodels.com",
+            "cta": "The full pick: 1billionmodels.com"
+          },
+          "scenes": [
+            {
+              "type": "hook",
+              "kicker": "Buying a keyboard",
+              "title": "Which digital piano should you buy?",
+              "sub": "Two AI models chose on their own, with no web access.",
+              "say": "Which digital piano should you buy?"
+            },
+            {
+              "type": "verdict",
+              "title": "Claude and GPT choose the same line: Yamaha P-Series",
+              "label": "Claude Opus 5.5 · AI pick (sku)",
+              "name": "Yamaha P-Series P-145",
+              "why": "An 88-key, fully weighted portable digital piano from the most established maker in the category, with a credible piano sound and USB-MIDI so it also works as a controller for apps and DAWs.",
+              "not": "Producers who want pads, knobs and a light desk-friendly controller, and anyone who needs a wide range of non-piano sounds, rhythms or a synth engine.",
+              "say": "Claude and GPT choose the same line: Yamaha P-Series."
+            },
+            {
+              "type": "facts",
+              "title": "What to check before you buy",
+              "items": [
+                {
+                  "k": "Key count",
+                  "v": "88 keys for piano study; 61 keys is the practical minimum for two-handed keyboard playing; 25 to 49 keys only for controllers in production",
+                  "tone": "green",
+                  "say": "Eighty-eight keys for piano study. Sixty-one is the minimum for two hands."
+                },
+                {
+                  "k": "Key action",
+                  "v": "Weighted or graded hammer action for piano; semi-weighted or synth action for synths and controllers",
+                  "tone": "green",
+                  "say": "Weighted hammer action for piano."
+                }
+              ]
+            },
+            {
+              "type": "compare",
+              "title": "What each model says",
+              "wide": true,
+              "items": [
+                {
+                  "price": "Claude",
+                  "name": "Yamaha P-145",
+                  "line": "An 88-key, fully weighted portable digital piano, with USB-MIDI.",
+                  "sound": "Not for: Producers who want pads, knobs and a light desk-friendly controller, and anyone who needs a wide range of non-piano sounds, rhythms or a synth engine.",
+                  "tone": "purple",
+                  "say": "Claude picks the P one forty-five."
+                },
+                {
+                  "price": "GPT",
+                  "name": "Yamaha P-225",
+                  "line": "Its weighted keys, expressive piano sound, built-in speakers, and USB MIDI make it a versatile choice for practicing and recording.",
+                  "sound": "Not for: Players seeking synthesizer sound design, extensive controller pads, or maximum portability.",
+                  "tone": "purple",
+                  "say": "GPT picks the P two twenty-five."
+                }
+              ]
+            },
+            {
+              "type": "end",
+              "cta": "The full pick",
+              "title": "Why, who it's not for, and the other picks.",
+              "site": "1billionmodels.com",
+              "say": "Picks for producers and first synths: one billion models dot com."
+            }
+          ]
+        }
+      },
+      "ai": {
+        "generated": false,
+        "realistic": false
+      },
+      "captions": {
+        "tiktok": "Which digital piano or keyboard should you buy? Claude and GPT choose the same line: Yamaha P-Series. The full pick, who it is not for, and the other picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+      }
+    },
+    {
+      "id": "2026-W48-answer-switch-2-pro-controller",
+      "format": "answer",
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "title": "Which Switch 2 controller should you buy? The AI pick",
+      "caption": "Which Switch 2 controller should you buy? Claude and GPT choose the same line: Nintendo Switch 2 Pro Controller. The full pick, who it's not for, and the other picks by need: https://1billionmodels.com/video-games/nintendo-switch-2-controllers?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "earliest": "2026-11-20T15:00:00Z",
+      "page": "https://1billionmodels.com/video-games/nintendo-switch-2-controllers",
+      "link": "https://1billionmodels.com/video-games/nintendo-switch-2-controllers?utm_source=youtube&utm_medium=short&utm_campaign=answer",
+      "script": "Which Switch 2 controller should you buy? / Claude and GPT choose the same line: the Switch 2 Pro Controller. / What to check on third-party pads: one billion models dot com.",
+      "prompts": {
+        "voice": "am_michael",
+        "speed": 1.15,
+        "spec": {
+          "tag": "Switch 2",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fineAlways": true,
+          "brand": {
+            "name": "1 Billion Models",
+            "accent_part": "",
+            "site": "1billionmodels.com",
+            "cta": "The full pick: 1billionmodels.com"
+          },
+          "scenes": [
+            {
+              "type": "hook",
+              "kicker": "Buying a Switch 2 controller",
+              "title": "Which Switch 2 controller should you buy?",
+              "sub": "Two AI models chose on their own, with no web access.",
+              "say": "Which Switch 2 controller should you buy?"
+            },
+            {
+              "type": "verdict",
+              "title": "Claude and GPT choose the same line: Nintendo Switch 2 Pro Controller",
+              "label": "Claude Opus 5.5 · AI pick (line)",
+              "name": "Nintendo Switch 2 Pro Controller",
+              "why": "It is the only full-size controller with every Switch 2 feature: the C button for GameChat, GL/GR rear buttons, a headphone jack, amiibo NFC and HD Rumble.",
+              "not": "Players who mostly play handheld, or who already own an original Switch Pro Controller and do not need the new buttons.",
+              "say": "Claude and GPT choose the same line: the Switch 2 Pro Controller.",
+              "sayWhy": "The C button for GameChat, rear G L and G R buttons, a headphone jack and H D Rumble."
+            },
+            {
+              "type": "facts",
+              "title": "Which one fits you",
+              "items": [
+                {
+                  "k": "local multiplayer and mouse-control games",
+                  "v": "Nintendo Joy-Con 2",
+                  "tone": "purple",
+                  "say": "Local multiplayer and mouse games: Joy-Con two."
+                },
+                {
+                  "k": "GameCube classics",
+                  "v": "Nintendo Switch 2 GameCube Controller",
+                  "tone": "purple",
+                  "say": "GameCube classics: the GameCube controller."
+                }
+              ]
+            },
+            {
+              "type": "end",
+              "cta": "The full pick",
+              "title": "Why, who it's not for, and the other picks.",
+              "site": "1billionmodels.com",
+              "say": "What to check on third-party pads: one billion models dot com."
+            }
+          ]
+        }
+      },
+      "ai": {
+        "generated": false,
+        "realistic": false
+      },
+      "captions": {
+        "tiktok": "Which Switch 2 controller should you buy? Claude and GPT choose the same line: Nintendo Switch 2 Pro Controller. The full pick, who it is not for, and the other picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+      }
+    },
+    {
+      "id": "2026-W48-answer-password-manager-check",
+      "format": "answer",
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "title": "Picking a password manager? 3 checks, then the AI pick",
+      "caption": "Which password manager should you use? Claude and GPT choose the same brand, 1Password, but not the same product. The full pick, who it's not for, and the other picks by need: https://1billionmodels.com/software/business-and-office/password-management?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "earliest": "2026-11-20T15:00:00Z",
+      "page": "https://1billionmodels.com/software/business-and-office/password-management",
+      "link": "https://1billionmodels.com/software/business-and-office/password-management?utm_source=youtube&utm_medium=short&utm_campaign=answer",
+      "script": "Which password manager should you use? / Claude and GPT choose the same brand, One Password, but not the same product. / The free and Proton picks: one billion models dot com.",
+      "prompts": {
+        "voice": "am_michael",
+        "speed": 1.15,
+        "spec": {
+          "tag": "Password managers",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fineAlways": true,
+          "brand": {
+            "name": "1 Billion Models",
+            "accent_part": "",
+            "site": "1billionmodels.com",
+            "cta": "The full pick: 1billionmodels.com"
+          },
+          "scenes": [
+            {
+              "type": "hook",
+              "kicker": "Choosing a password manager",
+              "title": "Which password manager should you use?",
+              "sub": "Two AI models chose on their own, with no web access.",
+              "say": "Which password manager should you use?"
+            },
+            {
+              "type": "facts",
+              "title": "What to check before you buy",
+              "items": [
+                {
+                  "k": "Zero-knowledge encryption",
+                  "v": "The vault must be encrypted client-side so the provider cannot read it.",
+                  "tone": "green",
+                  "say": "Encrypted on your device, so the provider cannot read it."
+                },
+                {
+                  "k": "Independent security audits",
+                  "v": "The provider should publish recent third-party audits.",
+                  "tone": "green",
+                  "say": "Recent third-party audits, published."
+                },
+                {
+                  "k": "Passkeys and 2FA",
+                  "v": "Look for passkey storage and support for hardware security keys on the account.",
+                  "tone": "green",
+                  "say": "Passkeys, and hardware security keys."
+                }
+              ]
+            },
+            {
+              "type": "verdict",
+              "title": "Claude and GPT choose the same brand, 1Password, but not the same product",
+              "label": "Claude Opus 5.5 · AI pick (line)",
+              "name": "1Password",
+              "why": "It is a polished, independently audited zero-knowledge manager with strong autofill on every platform, passkey support, and good family and team sharing.",
+              "not": "Users who want a free or self-hostable manager.",
+              "say": "Claude and GPT choose the same brand, One Password, but not the same product.",
+              "sayNot": "Not for anyone who wants a free or self-hosted manager."
+            },
+            {
+              "type": "end",
+              "cta": "The full pick",
+              "title": "Why, who it's not for, and the other picks.",
+              "site": "1billionmodels.com",
+              "say": "The free and Proton picks: one billion models dot com."
+            }
+          ]
+        }
+      },
+      "ai": {
+        "generated": false,
+        "realistic": false
+      },
+      "captions": {
+        "tiktok": "Which password manager should you use? Claude and GPT choose the same brand, 1Password, but not the same product. The full pick, who it is not for, and the other picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+      }
+    },
+    {
+      "id": "2026-W48-answer-vpn-what-to-check",
+      "format": "answer",
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "title": "Which VPN should you trust? What two AI models pick, and why",
+      "caption": "Which VPN should you use? Claude and GPT choose the same line: Proton VPN. The full pick, who it's not for, and the other picks by need: https://1billionmodels.com/software/networking-and-servers/vpn?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "earliest": "2026-11-20T15:00:00Z",
+      "page": "https://1billionmodels.com/software/networking-and-servers/vpn",
+      "link": "https://1billionmodels.com/software/networking-and-servers/vpn?utm_source=youtube&utm_medium=short&utm_campaign=answer",
+      "script": "Which VPN should you trust? / Claude and GPT choose the same line: Proton V P N. / Who it is not for: one billion models dot com.",
+      "prompts": {
+        "voice": "am_michael",
+        "speed": 1.15,
+        "spec": {
+          "tag": "VPN",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fineAlways": true,
+          "brand": {
+            "name": "1 Billion Models",
+            "accent_part": "",
+            "site": "1billionmodels.com",
+            "cta": "The full pick: 1billionmodels.com"
+          },
+          "scenes": [
+            {
+              "type": "hook",
+              "kicker": "Choosing a VPN",
+              "title": "Which VPN should you trust?",
+              "sub": "Two AI models chose on their own, with no web access.",
+              "say": "Which VPN should you trust?"
+            },
+            {
+              "type": "verdict",
+              "title": "Claude and GPT choose the same line: Proton VPN",
+              "label": "Claude Opus 5.5 · AI pick (line)",
+              "name": "Proton VPN",
+              "why": "It is a Swiss-based VPN with open-source apps, an independently audited no-logs policy and WireGuard support.",
+              "not": "People who mainly want the widest streaming-service unblocking and the most bundled extras.",
+              "say": "Claude and GPT choose the same line: Proton V P N.",
+              "sayWhy": "Swiss-based, open-source apps, and an independently audited no-logs policy."
+            },
+            {
+              "type": "facts",
+              "title": "What to check before you buy",
+              "items": [
+                {
+                  "k": "Audited no-logs policy",
+                  "v": "Prefer providers whose no-logs claims have been checked by an independent audit.",
+                  "tone": "green",
+                  "say": "A no-logs claim checked by an independent audit."
+                },
+                {
+                  "k": "Kill switch",
+                  "v": "Look for a system-level kill switch on every platform you use.",
+                  "tone": "green",
+                  "say": "A system-level kill switch on every platform."
+                },
+                {
+                  "k": "Simultaneous connections",
+                  "v": "Make sure the connection limit is at least the number of devices you will use at once.",
+                  "tone": "green",
+                  "say": "Enough connections for all your devices."
+                }
+              ]
+            },
+            {
+              "type": "facts",
+              "title": "Which one fits you",
+              "items": [
+                {
+                  "k": "maximum anonymity",
+                  "v": "Mullvad VPN",
+                  "tone": "purple",
+                  "say": "Maximum anonymity: Mullvad."
+                },
+                {
+                  "k": "streaming and features",
+                  "v": "NordVPN",
+                  "tone": "purple",
+                  "say": "Streaming and extras: Nord V P N."
+                }
+              ]
+            },
+            {
+              "type": "end",
+              "cta": "The full pick",
+              "title": "Why, who it's not for, and the other picks.",
+              "site": "1billionmodels.com",
+              "say": "Who it is not for: one billion models dot com."
+            }
+          ]
+        }
+      },
+      "ai": {
+        "generated": false,
+        "realistic": false
+      },
+      "captions": {
+        "tiktok": "Which VPN should you use? Claude and GPT choose the same line: Proton VPN. The full pick, who it is not for, and the other picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+      }
+    }
+  ]
+}
