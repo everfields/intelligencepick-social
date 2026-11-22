@@ -1,0 +1,21 @@
+{
+  "id": "2026-W48-answer-switch-2-pro-controller-v2-tiktok",
+  "network": "tiktok",
+  "format": "answer",
+  "batch": "2026-W48",
+  "media": {
+    "file": "2026-W48-answer-switch-2-pro-controller-v2.mp4",
+    "sha256": "0eb23e9e18426bc131d02cd7978454e8f7b41080b8fe1b14c5198b240612252c",
+    "kind": "video"
+  },
+  "caption": "The only full-size Switch 2 pad with the C button, GL/GR rear buttons and a headphone jack. Mostly handheld? Skip it, say both AI models. Other picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video.",
+  "title": "Switch 2 Pro Controller: worth it over Joy-Con 2?",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T15:00:00Z"
+}

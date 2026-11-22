@@ -1,0 +1,21 @@
+{
+  "id": "2026-W48-answer-first-digital-piano-88-keys-v2-tiktok",
+  "network": "tiktok",
+  "format": "answer",
+  "batch": "2026-W48",
+  "media": {
+    "file": "2026-W48-answer-first-digital-piano-88-keys-v2.mp4",
+    "sha256": "f5010d28e0862bdb03594d697dbfb229c1325533eb6286b570adedcdc228ee21",
+    "kind": "video"
+  },
+  "caption": "Learning piano: 88 weighted keys. 61 is the two-hand minimum. Claude picks the Yamaha P-145, GPT the P-225. Who each is not for: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video.",
+  "title": "First digital piano: how many keys you actually need",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T15:00:00Z"
+}

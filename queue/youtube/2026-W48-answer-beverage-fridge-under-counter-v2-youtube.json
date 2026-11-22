@@ -1,0 +1,21 @@
+{
+  "id": "2026-W48-answer-beverage-fridge-under-counter-v2-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W48",
+  "media": {
+    "file": "2026-W48-answer-beverage-fridge-under-counter-v2.mp4",
+    "sha256": "ad9110d20f9e51315f785f032ecee7aac4e1512290bd13d3b8d1140a30be832f",
+    "kind": "video"
+  },
+  "caption": "Only a front-venting beverage fridge can be built in under a counter; rear- or side-venting units need open air. Want soda-cold? Compressor, not thermoelectric. Both AI models pick NewAir. https://1billionmodels.com/appliances/refrigerators-freezers-and-ice-makers/beverage-refrigerators?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+  "title": "Beverage fridge under the counter? Look at where it vents",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T15:00:00Z"
+}

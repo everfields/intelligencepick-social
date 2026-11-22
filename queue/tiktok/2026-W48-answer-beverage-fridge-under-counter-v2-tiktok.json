@@ -1,0 +1,21 @@
+{
+  "id": "2026-W48-answer-beverage-fridge-under-counter-v2-tiktok",
+  "network": "tiktok",
+  "format": "answer",
+  "batch": "2026-W48",
+  "media": {
+    "file": "2026-W48-answer-beverage-fridge-under-counter-v2.mp4",
+    "sha256": "ad9110d20f9e51315f785f032ecee7aac4e1512290bd13d3b8d1140a30be832f",
+    "kind": "video"
+  },
+  "caption": "Only front-venting beverage fridges can go under a counter. Soda-cold needs a compressor, not thermoelectric. Both AI models pick NewAir. Built-in premium: U-Line. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video.",
+  "title": "Beverage fridge under the counter? Look at where it vents",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T15:00:00Z"
+}

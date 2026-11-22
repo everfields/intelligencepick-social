@@ -1,0 +1,21 @@
+{
+  "id": "2026-W48-answer-switch-2-before-you-buy-v2-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W48",
+  "media": {
+    "file": "2026-W48-answer-switch-2-before-you-buy-v2.mp4",
+    "sha256": "53cb13ef180dd21b03cc80b514efada6446520136dee49dc9e90191f2b5ec011",
+    "kind": "video"
+  },
+  "caption": "Your old microSD cards will not run Switch 2 games: expansion needs microSD Express. Some boxed games are Game-Key Cards that still download. Both AI models still pick the Switch 2 for its exclusives. https://1billionmodels.com/video-games/nintendo-switch-2-consoles?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+  "title": "Switch 2: the microSD card catch, and the AI pick",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T15:00:00Z"
+}

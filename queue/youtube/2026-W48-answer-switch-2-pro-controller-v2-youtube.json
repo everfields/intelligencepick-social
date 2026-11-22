@@ -1,0 +1,21 @@
+{
+  "id": "2026-W48-answer-switch-2-pro-controller-v2-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W48",
+  "media": {
+    "file": "2026-W48-answer-switch-2-pro-controller-v2.mp4",
+    "sha256": "0eb23e9e18426bc131d02cd7978454e8f7b41080b8fe1b14c5198b240612252c",
+    "kind": "video"
+  },
+  "caption": "The Switch 2 Pro Controller is the only full-size pad with the C button for GameChat, GL/GR rear buttons and a headphone jack. Mostly play handheld? Both AI models say skip it. https://1billionmodels.com/video-games/nintendo-switch-2-controllers?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+  "title": "Switch 2 Pro Controller: worth it over Joy-Con 2?",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T15:00:00Z"
+}

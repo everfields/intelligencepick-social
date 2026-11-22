@@ -1,0 +1,21 @@
+{
+  "id": "2026-W48-answer-vpn-what-to-check-v2-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W48",
+  "media": {
+    "file": "2026-W48-answer-vpn-what-to-check-v2.mp4",
+    "sha256": "9f5c8c84dd2ba552231f4127f02b4687be6e525080d4a72b6cc4f6bac75520f9",
+    "kind": "video"
+  },
+  "caption": "A VPN worth paying for has a no-logs policy checked by an independent audit and a system-level kill switch. Both AI models pick Proton VPN; Mullvad for maximum anonymity. https://1billionmodels.com/software/networking-and-servers/vpn?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+  "title": "Which VPN to trust: the audit, the kill switch, the limit",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T15:00:00Z"
+}

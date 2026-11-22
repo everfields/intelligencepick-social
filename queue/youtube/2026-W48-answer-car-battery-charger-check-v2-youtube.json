@@ -1,0 +1,21 @@
+{
+  "id": "2026-W48-answer-car-battery-charger-check-v2-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W48",
+  "media": {
+    "file": "2026-W48-answer-car-battery-charger-check-v2.mp4",
+    "sha256": "b99b9c681044f09aa4ef7b52ec2d0bd417f5ef775dd65f16eca26fce0bc274d0",
+    "kind": "video"
+  },
+  "caption": "A charger has to match your battery: flooded, AGM/gel or lithium. For a recharge, aim for about 10 percent of its Ah. Claude picks the NOCO GENIUS5, GPT the GENIUS10. https://1billionmodels.com/automotive/automotive-tools-and-equipment/jump-starters-and-battery-chargers/battery-chargers?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+  "title": "Battery charger: match the chemistry first. Then the AI picks",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T15:00:00Z"
+}

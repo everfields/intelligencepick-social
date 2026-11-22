@@ -1,0 +1,21 @@
+{
+  "id": "2026-W48-answer-xbox-series-x-or-s-v2-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W48",
+  "media": {
+    "file": "2026-W48-answer-xbox-series-x-or-s-v2.mp4",
+    "sha256": "2ddbdb0bcbfc8b55173a99460d4176cacf0b533bdeff2e981ffa1ef14f6fab56",
+    "kind": "video"
+  },
+  "caption": "Series X or Series S? The 4K Blu-ray drive and about three times the usable storage are why both AI models land on the Series X line. On a 1080p TV or a tight budget, the Series S is the pick. https://1billionmodels.com/video-games/xbox-series-x-and-s-consoles-games-and-accessories/xbox-series-x-and-s-consoles?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+  "title": "Series X or Series S: which Xbox is worth it?",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T15:00:00Z"
+}
