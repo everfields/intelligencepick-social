@@ -17,5 +17,30 @@
     "realistic": false
   },
   "trial": false,
-  "earliest": "2026-11-20T15:00:00Z"
+  "earliest": "2026-11-20T15:00:00Z",
+  "intake": {
+    "ok": false,
+    "at": "2026-11-22T01:02:03Z",
+    "problems": [
+      "near-duplicate of 2026-W48-answer-vpn-what-to-check-youtube (distance 7.6)"
+    ],
+    "warnings": [],
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "duration_s": 35.7,
+      "video_codec": "h264",
+      "pix_fmt": "yuv420p",
+      "fps": 30.0,
+      "audio_codec": "aac",
+      "bytes": 3424862
+    },
+    "phash": [
+      "7b562c8080940f00",
+      "7b562e4f57000f00",
+      "77490b2f80000f00",
+      "7e0c80004a950f00",
+      "72806b483a950f00"
+    ]
+  }
 }

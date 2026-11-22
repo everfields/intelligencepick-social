@@ -17,5 +17,30 @@
     "realistic": false
   },
   "trial": false,
-  "earliest": "2026-11-20T15:00:00Z"
+  "earliest": "2026-11-20T15:00:00Z",
+  "intake": {
+    "ok": false,
+    "at": "2026-11-22T01:02:03Z",
+    "problems": [
+      "near-duplicate of 2026-W48-answer-jump-starter-for-a-car-tiktok (distance 8.6)"
+    ],
+    "warnings": [],
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "duration_s": 26.6,
+      "video_codec": "h264",
+      "pix_fmt": "yuv420p",
+      "fps": 30.0,
+      "audio_codec": "aac",
+      "bytes": 2843623
+    },
+    "phash": [
+      "7a393f294b200f00",
+      "6f8f678f12010f00",
+      "6e3680244a910f00",
+      "6e36152c02000f00",
+      "6aa46b483a000f00"
+    ]
+  }
 }
