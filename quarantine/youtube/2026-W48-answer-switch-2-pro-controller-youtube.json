@@ -1,6 +1,6 @@
 {
-  "id": "2026-W48-answer-switch-2-pro-controller-tiktok",
-  "network": "tiktok",
+  "id": "2026-W48-answer-switch-2-pro-controller-youtube",
+  "network": "youtube",
   "format": "answer",
   "batch": "2026-W48",
   "media": {
@@ -8,7 +8,7 @@
     "sha256": "6e455da6933c0b766dd4de041cce73c96e7b5c7c09a9f198b4730c4ee883f9a2",
     "kind": "video"
   },
-  "caption": "Which Switch 2 controller should you buy? Claude and GPT choose the same line: Nintendo Switch 2 Pro Controller. The full pick, who it is not for, and the other picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video.",
+  "caption": "Which Switch 2 controller should you buy? Claude and GPT choose the same line: Nintendo Switch 2 Pro Controller. The full pick, who it's not for, and the other picks by need: https://1billionmodels.com/video-games/nintendo-switch-2-controllers?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose on their own, with no web access. Nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
   "title": "Which Switch 2 controller should you buy? The AI pick",
   "language": "en",
   "tags": [],
@@ -19,9 +19,11 @@
   "trial": false,
   "earliest": "2026-11-20T15:00:00Z",
   "intake": {
-    "ok": true,
+    "ok": false,
     "at": "2026-11-21T21:09:06Z",
-    "problems": [],
+    "problems": [
+      "text runs over the fine print (Amazon and AI disclosure); replaced by the -v2 post (social run 2611212241-social-91e4)"
+    ],
     "warnings": [],
     "probe": {
       "width": 1080,
