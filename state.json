@@ -2,8 +2,18 @@
   "alarms": {},
   "brake_reason": {},
   "brake_until": {},
-  "failures": {},
-  "first_post": {},
-  "seen": {},
+  "failures": {
+    "youtube": 0
+  },
+  "first_post": {
+    "youtube": "2026-11-22"
+  },
+  "seen": {
+    "pwJ__urQm4o": {
+      "first_seen": "2026-11-23T03:36:21Z",
+      "item": "2026-W48-answer-antivirus-or-windows-defender-v2-youtube",
+      "network": "youtube"
+    }
+  },
   "stopped": {}
 }
