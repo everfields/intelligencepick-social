@@ -1,5 +1,11 @@
 {
-  "alarms": {},
+  "alarms": {
+    "heartbeat": {
+      "cleared": false,
+      "sent_at": "2026-11-23T16:55:01Z",
+      "title": "the PC sent no heartbeat"
+    }
+  },
   "brake_reason": {},
   "brake_until": {},
   "failures": {
