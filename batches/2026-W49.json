@@ -3,6 +3,372 @@
   "note": "Second YouTube/TikTok batch for 1 Billion Models (D-030), written 2026-11-25 by social run 2611250527-social-8d83 after the 11-23 run lost W49 (alarm #280). 15 answer Shorts from 15 pages not used in W48, all from the pin feed set (released tranche 1, pick current in data/fresh/us, same brand, pin audit passed; pnpm --filter @ip/site pins status: 163 pages). Every line is the page's own words of 2026-11-25 (site data checked against the live HTML). Verdict lines use the page's verdict sentence only (D-005, D-009). Graphics cards and tablets were left out: their pages say the same line for picks of different lines (RTX 5070 Ti vs 4070 SUPER; iPad vs iPad Air), a substring match in packages/core/src/jury.ts sameLine, queued to the builder. Each post has its own scene order and a fact-led caption body per network (W48: two TikTok captions quarantined at 0.9 similarity). earliest 2026-11-26 so W48 posts first. Added 2026-11-25 by social run 2611251245-social-e83c (D-056, en-US only): 9 Shorts from the kept tranche-2 pages (e-bikes, electric scooters, semi-automatic espresso, juicers, video game chairs, computer gaming chairs, downhill skis, billiard tables, vibration plates), live and checked against each page that day; the 11 D-056 posts (with the treadmill and blender posts) are dated 2026-11-20T00:00Z onward so they post before what is left of W48, in D-056 order, Downhill Skis first (radar weather event 2026-11-19 on a released page). Their links carry src=youtube (D-030) for the per-page count. Only Downhill Skis says same product; the scooter page says same line for Ninebot Max vs MAX G2, so the post names each pick. Added 2026-11-25 by social run 2611251304-social-c5ac (D-058 radar lane, agenda …1dfb, en-US only): one Short each for Best PlayStation 5 Consoles and Best Xbox Series X & S Consoles after the GTA VI launch (2026-11-19, Fox 5 NY), text and picked products only, no game footage, art or logo; each says the picks predate the launch and does not judge the game. Post-launch facts are attributed on screen (boxed copies hold a code: Rockstar via VGC; install about 210 GB on PS5: a data-mining account, not Rockstar; Xbox size unconfirmed); everything else is the page's own words of 2026-11-25. The Xbox Short leads with storage so it is not the queued W48 \"Series X or S\" post; it names no 2TB model (data/fresh/us says it was dropped). earliest 2026-11-19 so both post before everything queued; the engine has no `latest`, so nothing archives them unposted.",
   "posts": [
     {
+      "id": "2026-W49-answer-kpop-the-debut-toys-gift-now-radar",
+      "format": "answer",
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "title": "K-Pop: The Debut toys come in 2027. What the AIs would buy a fan now",
+      "caption": "JAKKS Pacific announced the K-Pop: The Debut toy license on November 12, 2026, and says the line debuts worldwide in 2027 with the film (in theaters February 26, 2027). No products, prices or stores yet, and the dolls' size is not stated. For now: Claude picks Calico Critters for doll play and Squishmallows for plush; GPT the Barbie Dreamhouse and a Jellycat Bashful Beige Bunny. None is from the film. https://1billionmodels.com/radar/k-pop-the-debut/toys?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=radar&utm_content=kpop-the-debut-toys\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+      "captions": {
+        "tiktok": "Want K-Pop: The Debut toys for a fan? JAKKS says the line arrives in 2027, with the film, and no product or price is out yet, so a plush sold now under the film's name is not from it. What the AIs picked before: Calico Critters and Squishmallows (Claude), Barbie Dreamhouse and Jellycat (GPT). More: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
+      },
+      "earliest": "2026-11-18T02:00:00Z",
+      "page": "https://1billionmodels.com/radar/k-pop-the-debut/toys",
+      "link": "https://1billionmodels.com/radar/k-pop-the-debut/toys?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=radar&utm_content=kpop-the-debut-toys",
+      "script": "K-Pop: The Debut toys: 2027. What do you buy a fan now? / JAKKS license, line with the film, film Feb 26 2027. / No products, prices, doll size yet. / Claude: Calico Critters, Squishmallows. GPT: Barbie Dreamhouse, Jellycat. / One billion models dot com.",
+      "prompts": {
+        "voice": "am_michael",
+        "speed": 1.15,
+        "spec": {
+          "tag": "K-Pop: The Debut · toys",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+          "fineAlways": true,
+          "brand": {
+            "name": "1 Billion Models",
+            "accent_part": "",
+            "site": "1billionmodels.com",
+            "cta": "The full pick: 1billionmodels.com"
+          },
+          "scenes": [
+            {
+              "type": "hook",
+              "kicker": "K-Pop: The Debut toys",
+              "title": "Not out until 2027. What to buy a fan now?",
+              "sub": "Independent: not from Paramount, Skydance or JAKKS Pacific. The AI picks come from what the models knew to mid-2026.",
+              "say": "K-Pop: The Debut toys are not out until twenty twenty-seven. So what do you buy a fan now?"
+            },
+            {
+              "type": "facts",
+              "title": "What is announced",
+              "items": [
+                {
+                  "k": "License",
+                  "v": "JAKKS Pacific, announced Nov 12, 2026",
+                  "tone": "purple",
+                  "say": "JAKKS Pacific announced the toy license on November twelfth."
+                },
+                {
+                  "k": "Toys",
+                  "v": "Worldwide in 2027, with the film. No month.",
+                  "tone": "purple",
+                  "say": "It says the line arrives in twenty twenty-seven, with the film."
+                },
+                {
+                  "k": "The film",
+                  "v": "In theaters February 26, 2027",
+                  "tone": "purple",
+                  "say": "The film opens February twenty-sixth."
+                }
+              ]
+            },
+            {
+              "type": "facts",
+              "title": "Not known yet",
+              "items": [
+                {
+                  "k": "Products",
+                  "v": "No item, price or US store announced",
+                  "tone": "yellow",
+                  "say": "No product, price or store is announced."
+                },
+                {
+                  "k": "Doll size",
+                  "v": "Not stated: no playset is known to fit",
+                  "tone": "yellow",
+                  "say": "The doll size isn't stated, so no playset is known to fit."
+                },
+                {
+                  "k": "Plush sold now",
+                  "v": "Under the film's name, not from this line",
+                  "tone": "red",
+                  "say": "And a plush sold now under the film's name isn't from this line."
+                }
+              ]
+            },
+            {
+              "type": "facts",
+              "title": "The AI picks now (not the film's toys)",
+              "items": [
+                {
+                  "k": "Doll playsets",
+                  "v": "Claude: Calico Critters. GPT: Barbie Dreamhouse. Calico: not for under 3s.",
+                  "tone": "green",
+                  "say": "For doll play, Claude picks Calico Critters, GPT the Barbie Dreamhouse."
+                },
+                {
+                  "k": "Plush",
+                  "v": "Claude: Squishmallows. GPT: Jellycat Bashful Beige Bunny.",
+                  "tone": "green",
+                  "say": "For plush, Claude picks Squishmallows, GPT a Jellycat bunny."
+                }
+              ]
+            },
+            {
+              "type": "end",
+              "cta": "What to buy now",
+              "title": "Each pick, who it is not for, and what is not confirmed.",
+              "site": "1billionmodels.com/radar/k-pop-the-debut/toys",
+              "say": "What to buy now: one billion models dot com."
+            }
+          ]
+        }
+      },
+      "ai": {
+        "generated": false,
+        "realistic": false
+      }
+    },
+    {
+      "id": "2026-W49-answer-yesoul-t5-vs-sole-f80-radar",
+      "format": "answer",
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "title": "YESOUL T5: Plus, Max or Ultra, and against the AI treadmill pick",
+      "caption": "The three YESOUL T5 treadmills share one motor (2.0 HP continuous), a 20 x 60 in deck and a 350 lb capacity; the screen and the terrain decide. The Ultra is the only one with a decline (-3%). Against the Sole F80, the treadmill both AI models picked before this launch, from what they knew to mid-2026: same deck and capacity, a wider incline range, and motor ratings stated in different terms. https://1billionmodels.com/radar/yesoul-t5/treadmills?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=radar&utm_content=yesoul-t5\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+      "captions": {
+        "tiktok": "YESOUL T5 Plus, Max or Ultra? $200 between each step, and only the Ultra goes downhill (-3%). The Sole F80, the treadmill Claude and GPT picked before this launch, inclines to 15% and has the same 20 x 60 in deck. Every criterion, dated: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
+      },
+      "earliest": "2026-11-18T01:00:00Z",
+      "page": "https://1billionmodels.com/radar/yesoul-t5/treadmills",
+      "link": "https://1billionmodels.com/radar/yesoul-t5/treadmills?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=radar&utm_content=yesoul-t5",
+      "script": "Which YESOUL T5? / Plus: non-touch screen, cable mirroring. Max: touchscreen, streaming, camera. Ultra: decline and fan. / Same base, $200 a step. / Against the Sole F80: same deck, more incline, motor not comparable. / The AI pick stays the F80. / The full comparison: one billion models dot com.",
+      "prompts": {
+        "voice": "am_michael",
+        "speed": 1.15,
+        "spec": {
+          "tag": "YESOUL T5 · new treadmill",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+          "fineAlways": true,
+          "brand": {
+            "name": "1 Billion Models",
+            "accent_part": "",
+            "site": "1billionmodels.com",
+            "cta": "The full pick: 1billionmodels.com"
+          },
+          "scenes": [
+            {
+              "type": "hook",
+              "kicker": "New: the YESOUL T5 treadmills",
+              "title": "Plus, Max or Ultra? And next to the AI's pick?",
+              "sub": "The AI treadmill pick, the Sole F80, came from what the models knew to mid-2026, before this launch, and stays.",
+              "say": "Which YESOUL T5 should you buy? And how does it set against the AI's treadmill pick?"
+            },
+            {
+              "type": "facts",
+              "title": "Which T5",
+              "items": [
+                {
+                  "k": "T5 Plus",
+                  "v": "Non-touch screen, phone mirroring by cable",
+                  "say": "The Plus: a non-touch screen, phone mirroring by cable."
+                },
+                {
+                  "k": "T5 Max",
+                  "v": "Adds a touchscreen, streaming apps, a camera",
+                  "say": "The Max adds a touchscreen, streaming apps and a camera."
+                },
+                {
+                  "k": "T5 Ultra",
+                  "v": "Adds a -3% decline and a built-in fan",
+                  "say": "The Ultra adds a three percent decline and a fan."
+                }
+              ]
+            },
+            {
+              "type": "facts",
+              "title": "The same on all three",
+              "items": [
+                {
+                  "k": "Base",
+                  "v": "2.0 HP continuous motor, 20 x 60 in deck, 350 lb capacity, 0.5 to 12.4 mph",
+                  "tone": "green",
+                  "say": "All three share the motor, a twenty by sixty inch deck and a three hundred fifty pound capacity."
+                },
+                {
+                  "k": "Price",
+                  "v": "$200 between each step, at YESOUL's regular and sale prices (Nov 25, 2026)",
+                  "tone": "yellow",
+                  "say": "Each step up costs two hundred dollars more."
+                }
+              ]
+            },
+            {
+              "type": "facts",
+              "title": "Against the Sole F80",
+              "items": [
+                {
+                  "k": "Deck, capacity",
+                  "v": "Both 20 x 60 in and 350 lb",
+                  "tone": "green",
+                  "say": "Against the Sole F80: the same deck and capacity."
+                },
+                {
+                  "k": "Incline",
+                  "v": "T5 up to 30% (Ultra from -3%). F80: 0-15%",
+                  "say": "The T5 inclines to thirty percent, the F80 to fifteen."
+                },
+                {
+                  "k": "Motor",
+                  "v": "T5 2.0 HP continuous. F80 3.25 HP, type unstated",
+                  "tone": "red",
+                  "say": "The F80's motor figure is not stated as continuous or peak, so they can't be ranked."
+                }
+              ]
+            },
+            {
+              "type": "verdict",
+              "label": "Claude and GPT's treadmill pick",
+              "name": "Sole Fitness F80",
+              "why": "A strong motor, a roomy cushioned deck and a heavy frame handle years of running with no subscription.",
+              "not": "Buyers who want trainer-led streamed workouts",
+              "say": "Both AIs still pick the Sole F80.",
+              "sayWhy": "For years of running, with no subscription.",
+              "sayNot": "Not for trainer-led streaming."
+            },
+            {
+              "type": "end",
+              "cta": "The full comparison",
+              "title": "Every criterion, dated, and what is not confirmed.",
+              "site": "1billionmodels.com/radar/yesoul-t5/treadmills",
+              "say": "The full comparison: one billion models dot com."
+            }
+          ]
+        }
+      },
+      "ai": {
+        "generated": false,
+        "realistic": false
+      }
+    },
+    {
+      "id": "2026-W49-answer-gta-6-setup-claude-gpt-radar",
+      "format": "answer",
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "title": "What Claude and GPT would buy for GTA 6: console, TV, storage, sound",
+      "caption": "Every GTA 6 console version reportedly targets 30 fps, and the PS5 Pro is reportedly the only one with a near-4K image. For a 4K TV, Claude picks the PS5 Pro (GPT's PS5 pick too); on Xbox both pick the Series X. TV: Claude the Hisense U8, GPT an LG C4 OLED. Claude Opus 5.5 knew to June 2026, GPT 6.1 Sol to April 30, 2026 (as Anthropic and OpenAI state); the picks predate this launch and do not change for it. https://1billionmodels.com/radar/gta-6/best-setup?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=radar&utm_content=gta-6-setup\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+      "captions": {
+        "tiktok": "What would Claude and GPT buy for GTA 6? PS5 Pro or Series X, a Hisense U8 or LG C4, a WD_BLACK SN850X with heatsink for the PS5's 212GB ask, a Sonos Arc Ultra or Samsung Q990D. Picks made before the launch, from what each model knew. The whole setup: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
+      },
+      "earliest": "2026-11-18T00:00:00Z",
+      "page": "https://1billionmodels.com/radar/gta-6/best-setup",
+      "link": "https://1billionmodels.com/radar/gta-6/best-setup?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=radar&utm_content=gta-6-setup",
+      "script": "What would Claude and GPT buy for GTA six? / Consoles: PS5 Pro for a 4K TV, Series X on Xbox. / TV: Hisense U8 or LG C4. / Storage and sound bar picks. / 30 fps reported, HGiG on, 212GB free. / The full setup: one billion models dot com.",
+      "prompts": {
+        "voice": "am_michael",
+        "speed": 1.15,
+        "spec": {
+          "tag": "GTA 6 · the setup",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+          "fineAlways": true,
+          "brand": {
+            "name": "1 Billion Models",
+            "accent_part": "",
+            "site": "1billionmodels.com",
+            "cta": "The full pick: 1billionmodels.com"
+          },
+          "scenes": [
+            {
+              "type": "hook",
+              "kicker": "GTA 6 is out on PS5 and Xbox",
+              "title": "What would Claude and GPT buy for it?",
+              "sub": "Picks from what each model knew (Claude to June 2026, GPT to April 30, 2026), made before the launch and unchanged.",
+              "say": "What would Claude and GPT buy for GTA six? Their picks came before the launch."
+            },
+            {
+              "type": "facts",
+              "title": "Console and TV",
+              "items": [
+                {
+                  "k": "PS5",
+                  "v": "PS5 Pro: Claude for a 4K TV, and GPT",
+                  "tone": "purple",
+                  "say": "For a four K TV, Claude picks the PS5 Pro, and so does GPT."
+                },
+                {
+                  "k": "Xbox",
+                  "v": "Xbox Series X: both models",
+                  "tone": "purple",
+                  "say": "On Xbox, both pick the Series X."
+                },
+                {
+                  "k": "TV",
+                  "v": "Claude: Hisense U8. GPT: LG C4 OLED.",
+                  "tone": "purple",
+                  "say": "For the TV, Claude picks the Hisense U8, GPT an LG C4 OLED."
+                }
+              ]
+            },
+            {
+              "type": "facts",
+              "title": "Storage and sound",
+              "items": [
+                {
+                  "k": "PS5 storage",
+                  "v": "Claude: WD_BLACK SN850X with heatsink",
+                  "tone": "green",
+                  "say": "For PS5 space, Claude picks the WD Black SN850X with a heatsink."
+                },
+                {
+                  "k": "Xbox storage",
+                  "v": "Claude: WD_Black C50 Expansion Card",
+                  "tone": "green",
+                  "say": "On Xbox, the WD Black C50 expansion card."
+                },
+                {
+                  "k": "Sound bar",
+                  "v": "Claude: Sonos Arc Ultra. GPT: Samsung Q990D.",
+                  "tone": "green",
+                  "say": "Sound bar: Claude, the Sonos Arc Ultra. GPT, Samsung's Q990D."
+                }
+              ]
+            },
+            {
+              "type": "facts",
+              "title": "What the launch showed",
+              "items": [
+                {
+                  "k": "Frame rate",
+                  "v": "30 fps on every console (Digital Foundry, reported)",
+                  "tone": "yellow",
+                  "say": "Every console version reportedly targets thirty frames per second."
+                },
+                {
+                  "k": "TV setting",
+                  "v": "HGiG on, motion smoothing off (Pocket-lint)",
+                  "tone": "yellow",
+                  "say": "A guide says HGiG on, motion smoothing off."
+                },
+                {
+                  "k": "PS5 space",
+                  "v": "212GB free, per PlayStation's store page",
+                  "tone": "yellow",
+                  "say": "And PlayStation asks for two hundred twelve gigabytes free."
+                }
+              ]
+            },
+            {
+              "type": "end",
+              "cta": "The full setup",
+              "title": "Every slot, why each was picked, and what is not confirmed.",
+              "site": "1billionmodels.com/radar/gta-6/best-setup",
+              "say": "The full setup: one billion models dot com."
+            }
+          ]
+        }
+      },
+      "ai": {
+        "generated": false,
+        "realistic": false
+      }
+    },
+    {
       "id": "2026-W49-answer-ps5-for-gta-vi-radar",
       "format": "answer",
       "networks": [
@@ -10,9 +376,9 @@
         "tiktok"
       ],
       "title": "Buying a PS5 for GTA VI? Disc, Digital or Pro",
-      "caption": "GTA VI's boxed copies hold a download code, not a disc, so the disc drive won't matter for that game. These picks were made before the launch, from what two AI models knew to mid-2026: Claude picks the PS5 Slim with a disc drive, GPT the PS5 Pro. All-digital buyers: the Slim Digital Edition. https://1billionmodels.com/video-games/playstation-5-consoles-games-and-accessories/playstation-5-consoles?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=radar\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "GTA VI's boxed copies hold a download code, not a disc, so the disc drive won't matter for that game. These picks were made before the launch, from what two AI models knew to mid-2026: Claude picks the PS5 Slim with a disc drive, GPT the PS5 Pro. All-digital buyers: the Slim Digital Edition. https://1billionmodels.com/video-games/playstation-5-consoles-games-and-accessories/playstation-5-consoles?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=radar\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "captions": {
-        "tiktok": "Boxed GTA VI copies come with a code instead of a disc. The AI picks predate the launch: Claude says PS5 Slim with disc, GPT says PS5 Pro, and the Pro only pays off on a 4K HDMI 2.1 TV. Every pick by need: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "Boxed GTA VI copies come with a code instead of a disc. The AI picks predate the launch: Claude says PS5 Slim with disc, GPT says PS5 Pro, and the Pro only pays off on a 4K HDMI 2.1 TV. Every pick by need: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       },
       "earliest": "2026-11-19T00:00:00Z",
       "page": "https://1billionmodels.com/video-games/playstation-5-consoles-games-and-accessories/playstation-5-consoles",
@@ -23,7 +389,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "PS5 · GTA VI launch",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -122,9 +488,9 @@
         "tiktok"
       ],
       "title": "GTA VI on an Xbox Series S: is 512GB enough?",
-      "caption": "A 512GB Series S leaves roughly 364GB usable, and GTA VI's install is about 210 GB on PS5 per a data-mining account (Rockstar has not published it, and the Xbox size is unconfirmed). The picks predate the launch: both AI models choose the Series X line, and for a Series S the 1TB version avoids the storage squeeze. https://1billionmodels.com/video-games/xbox-series-x-and-s-consoles-games-and-accessories/xbox-series-x-and-s-consoles?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=radar\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "A 512GB Series S leaves roughly 364GB usable, and GTA VI's install is about 210 GB on PS5 per a data-mining account (Rockstar has not published it, and the Xbox size is unconfirmed). The picks predate the launch: both AI models choose the Series X line, and for a Series S the 1TB version avoids the storage squeeze. https://1billionmodels.com/video-games/xbox-series-x-and-s-consoles-games-and-accessories/xbox-series-x-and-s-consoles?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=radar\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "captions": {
-        "tiktok": "Series S owners: 364GB usable on the 512GB model, and one big game can take most of it. Picked before GTA VI launched, the 1TB Series S is the one the page names for budget and 1080p TVs; both AI models choose the Series X line. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "Series S owners: 364GB usable on the 512GB model, and one big game can take most of it. Picked before GTA VI launched, the 1TB Series S is the one the page names for budget and 1080p TVs; both AI models choose the Series X line. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       },
       "earliest": "2026-11-19T00:01:00Z",
       "page": "https://1billionmodels.com/video-games/xbox-series-x-and-s-consoles-games-and-accessories/xbox-series-x-and-s-consoles",
@@ -135,7 +501,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "Xbox · GTA VI launch",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -225,7 +591,7 @@
         "tiktok"
       ],
       "title": "What ski waist width do you need?",
-      "caption": "Under about 85 mm suits groomers and hardpack, about 85 to 100 mm suits all-mountain, and over 100 mm suits powder and soft snow. Claude and GPT choose the same product: Nordica Enforcer 94. https://1billionmodels.com/sports-and-outdoors/outdoor-recreation/winter-sports-equipment/snow-skiing-equipment/downhill-ski-equipment/downhill-skis?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "Under about 85 mm suits groomers and hardpack, about 85 to 100 mm suits all-mountain, and over 100 mm suits powder and soft snow. Claude and GPT choose the same product: Nordica Enforcer 94. https://1billionmodels.com/sports-and-outdoors/outdoor-recreation/winter-sports-equipment/snow-skiing-equipment/downhill-ski-equipment/downhill-skis?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "earliest": "2026-11-20T00:00:00Z",
       "page": "https://1billionmodels.com/sports-and-outdoors/outdoor-recreation/winter-sports-equipment/snow-skiing-equipment/downhill-ski-equipment/downhill-skis",
       "link": "https://1billionmodels.com/sports-and-outdoors/outdoor-recreation/winter-sports-equipment/snow-skiing-equipment/downhill-ski-equipment/downhill-skis?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer",
@@ -235,7 +601,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "Downhill skis",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -323,7 +689,7 @@
         "realistic": false
       },
       "captions": {
-        "tiktok": "Waist width decides where a ski performs: under about 85 mm for hardpack, 85 to 100 mm for all-mountain, past 100 mm for powder. Length: roughly between chin and top of head. Both AI models pick the Nordica Enforcer 94. Carving, powder and beginner picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "Waist width decides where a ski performs: under about 85 mm for hardpack, 85 to 100 mm for all-mountain, past 100 mm for powder. Length: roughly between chin and top of head. Both AI models pick the Nordica Enforcer 94. Carving, powder and beginner picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       }
     },
     {
@@ -334,7 +700,7 @@
         "tiktok"
       ],
       "title": "Treadmill for running: what deck size do you need?",
-      "caption": "About 20 by 60 inches of deck for running, especially for tall runners; about 20 by 55 is fine for walking. Compare continuous duty horsepower, not peak. Claude and GPT choose the same product: Sole F80. https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/exercise-and-fitness-equipment/cardio-training/treadmills?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "About 20 by 60 inches of deck for running, especially for tall runners; about 20 by 55 is fine for walking. Compare continuous duty horsepower, not peak. Claude and GPT choose the same product: Sole F80. https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/exercise-and-fitness-equipment/cardio-training/treadmills?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "earliest": "2026-11-20T00:01:00Z",
       "page": "https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/exercise-and-fitness-equipment/cardio-training/treadmills",
       "link": "https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/exercise-and-fitness-equipment/cardio-training/treadmills?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer",
@@ -344,7 +710,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "Treadmills",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -432,7 +798,7 @@
         "realistic": false
       },
       "captions": {
-        "tiktok": "Running needs about a 20 by 60 inch deck; walking is fine at 20 by 55. Read continuous horsepower, never peak. Both AI models pick the Sole F80. Under-desk walking pad and folding budget picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "Running needs about a 20 by 60 inch deck; walking is fine at 20 by 55. Read continuous horsepower, never peak. Both AI models pick the Sole F80. Under-desk walking pad and folding budget picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       }
     },
     {
@@ -443,7 +809,7 @@
         "tiktok"
       ],
       "title": "E-bike: hub motor or mid-drive? Check these before you buy",
-      "caption": "Hub motors are cheaper and simpler; mid-drives climb better and feel more natural, but wear the chain faster. Require UL 2849 for the electrical system, or at minimum UL 2271 for the battery. Claude picks the Aventon Level line; GPT picks the Specialized Turbo Vado 4.0. https://1billionmodels.com/sports-and-outdoors/outdoor-recreation/cycling-equipment/bikes/adult-electric-bicycles?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "Hub motors are cheaper and simpler; mid-drives climb better and feel more natural, but wear the chain faster. Require UL 2849 for the electrical system, or at minimum UL 2271 for the battery. Claude picks the Aventon Level line; GPT picks the Specialized Turbo Vado 4.0. https://1billionmodels.com/sports-and-outdoors/outdoor-recreation/cycling-equipment/bikes/adult-electric-bicycles?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "earliest": "2026-11-20T00:02:00Z",
       "page": "https://1billionmodels.com/sports-and-outdoors/outdoor-recreation/cycling-equipment/bikes/adult-electric-bicycles",
       "link": "https://1billionmodels.com/sports-and-outdoors/outdoor-recreation/cycling-equipment/bikes/adult-electric-bicycles?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer",
@@ -453,7 +819,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "Electric bikes",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -555,7 +921,7 @@
         "realistic": false
       },
       "captions": {
-        "tiktok": "Cadence-only assist surges on and off; a torque sensor or mid-drive feels natural. Hydraulic disc brakes on anything that does 20 mph. Claude names the Aventon Level, GPT the Specialized Turbo Vado 4.0. Folding and cargo picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "Cadence-only assist surges on and off; a torque sensor or mid-drive feels natural. Hydraulic disc brakes on anything that does 20 mph. Claude names the Aventon Level, GPT the Specialized Turbo Vado 4.0. Folding and cargo picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       }
     },
     {
@@ -566,7 +932,7 @@
         "tiktok"
       ],
       "title": "How far will an electric scooter really go?",
-      "caption": "Expect roughly half to two-thirds of the advertised range: it is measured with a light rider at low speed on flat ground. Prefer pneumatic tires of about 8.5 inches or larger. Claude's pick is the Segway Ninebot Max line; GPT's is the Segway Ninebot MAX G2. https://1billionmodels.com/sports-and-outdoors/outdoor-recreation/skates-skateboards-and-scooters/scooters-and-equipment/sport-scooters/electric-scooters?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "Expect roughly half to two-thirds of the advertised range: it is measured with a light rider at low speed on flat ground. Prefer pneumatic tires of about 8.5 inches or larger. Claude's pick is the Segway Ninebot Max line; GPT's is the Segway Ninebot MAX G2. https://1billionmodels.com/sports-and-outdoors/outdoor-recreation/skates-skateboards-and-scooters/scooters-and-equipment/sport-scooters/electric-scooters?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "earliest": "2026-11-20T00:03:00Z",
       "page": "https://1billionmodels.com/sports-and-outdoors/outdoor-recreation/skates-skateboards-and-scooters/scooters-and-equipment/sport-scooters/electric-scooters",
       "link": "https://1billionmodels.com/sports-and-outdoors/outdoor-recreation/skates-skateboards-and-scooters/scooters-and-equipment/sport-scooters/electric-scooters?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer",
@@ -576,7 +942,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "Electric scooters",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -678,7 +1044,7 @@
         "realistic": false
       },
       "captions": {
-        "tiktok": "Advertised scooter range assumes a light rider, low speed, flat ground. Plan on half to two-thirds of it, keep a mechanical brake besides regen, and look for UL 2272. Claude goes with the Segway Ninebot Max line; GPT names a model, the MAX G2. Budget and hill picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "Advertised scooter range assumes a light rider, low speed, flat ground. Plan on half to two-thirds of it, keep a mechanical brake besides regen, and look for UL 2272. Claude goes with the Segway Ninebot Max line; GPT names a model, the MAX G2. Budget and hill picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       }
     },
     {
@@ -689,7 +1055,7 @@
         "tiktok"
       ],
       "title": "Espresso machine for lattes: single boiler or dual boiler?",
-      "caption": "Single boiler for mostly straight espresso; heat exchanger or dual boiler for frequent milk drinks, so you can steam right after brewing. 58mm is the commercial portafilter standard. The two picks: Gaggia Classic Pro (Claude) and Breville Bambino Plus BES500 (GPT). https://1billionmodels.com/home-and-kitchen/kitchen-and-dining/coffee-tea-and-espresso/espresso-machines/semi-automatic-espresso-machines?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "Single boiler for mostly straight espresso; heat exchanger or dual boiler for frequent milk drinks, so you can steam right after brewing. 58mm is the commercial portafilter standard. The two picks: Gaggia Classic Pro (Claude) and Breville Bambino Plus BES500 (GPT). https://1billionmodels.com/home-and-kitchen/kitchen-and-dining/coffee-tea-and-espresso/espresso-machines/semi-automatic-espresso-machines?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "earliest": "2026-11-20T00:04:00Z",
       "page": "https://1billionmodels.com/home-and-kitchen/kitchen-and-dining/coffee-tea-and-espresso/espresso-machines/semi-automatic-espresso-machines",
       "link": "https://1billionmodels.com/home-and-kitchen/kitchen-and-dining/coffee-tea-and-espresso/espresso-machines/semi-automatic-espresso-machines?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer",
@@ -699,7 +1065,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "Espresso machines",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -801,7 +1167,7 @@
         "realistic": false
       },
       "captions": {
-        "tiktok": "A panarello wand makes foam but not microfoam for latte art, so the page prefers a commercial-style tip. Want lattes back to back? A heat exchanger or dual boiler steams right after the shot. The picks: Gaggia Classic Pro from Claude, Breville Bambino Plus from GPT. Why: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "A panarello wand makes foam but not microfoam for latte art, so the page prefers a commercial-style tip. Want lattes back to back? A heat exchanger or dual boiler steams right after the shot. The picks: Gaggia Classic Pro from Claude, Breville Bambino Plus from GPT. Why: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       }
     },
     {
@@ -812,7 +1178,7 @@
         "tiktok"
       ],
       "title": "Buying a blender? Don't compare peak watts",
-      "caption": "Do not compare blenders on peak wattage alone. Pick the form factor first, prefer a jar with a tamper, and look for five years or more of warranty on the motor base. Claude and GPT choose the same product: Vitamix 5200. https://1billionmodels.com/home-and-kitchen/kitchen-and-dining/kitchen-small-appliances/household-blenders?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "Do not compare blenders on peak wattage alone. Pick the form factor first, prefer a jar with a tamper, and look for five years or more of warranty on the motor base. Claude and GPT choose the same product: Vitamix 5200. https://1billionmodels.com/home-and-kitchen/kitchen-and-dining/kitchen-small-appliances/household-blenders?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "earliest": "2026-11-20T00:05:00Z",
       "page": "https://1billionmodels.com/home-and-kitchen/kitchen-and-dining/kitchen-small-appliances/household-blenders",
       "link": "https://1billionmodels.com/home-and-kitchen/kitchen-and-dining/kitchen-small-appliances/household-blenders?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer",
@@ -822,7 +1188,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "Blenders",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -912,7 +1278,7 @@
         "realistic": false
       },
       "captions": {
-        "tiktok": "Peak wattage alone tells you little. Form factor first, a tamper for thick blends, and a multi-year motor warranty. Both AI models land on the Vitamix 5200; tight budget and frozen drinks get the Ninja BL610. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "Peak wattage alone tells you little. Form factor first, a tamper for thick blends, and a multi-year motor warranty. Both AI models land on the Vitamix 5200; tight budget and frozen drinks get the Ninja BL610. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       }
     },
     {
@@ -923,7 +1289,7 @@
         "tiktok"
       ],
       "title": "Juicing leafy greens? Which type of juicer to buy",
-      "caption": "Citrus only: a citrus press. Mostly hard fruit and roots: centrifugal. Leafy greens, herbs or wheatgrass: masticating or twin-gear. Pulp should come out dry and crumbly; wet pulp means juice was thrown away. Claude chooses the Nama J2, a slow juicer with a self-feeding hopper; GPT chooses the Breville Juice Fountain Plus JE98XL. https://1billionmodels.com/home-and-kitchen/kitchen-and-dining/kitchen-small-appliances/juicers?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "Citrus only: a citrus press. Mostly hard fruit and roots: centrifugal. Leafy greens, herbs or wheatgrass: masticating or twin-gear. Pulp should come out dry and crumbly; wet pulp means juice was thrown away. Claude chooses the Nama J2, a slow juicer with a self-feeding hopper; GPT chooses the Breville Juice Fountain Plus JE98XL. https://1billionmodels.com/home-and-kitchen/kitchen-and-dining/kitchen-small-appliances/juicers?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "earliest": "2026-11-20T00:06:00Z",
       "page": "https://1billionmodels.com/home-and-kitchen/kitchen-and-dining/kitchen-small-appliances/juicers",
       "link": "https://1billionmodels.com/home-and-kitchen/kitchen-and-dining/kitchen-small-appliances/juicers?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer",
@@ -933,7 +1299,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "Juicers",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -1035,7 +1401,7 @@
         "realistic": false
       },
       "captions": {
-        "tiktok": "Chopping time is the main reason juicers end up unused, so a wide chute or batch hopper matters most. Greens and wheatgrass need a masticating or twin-gear press. On the page, Claude's pick is the Nama J2 and GPT's is the Breville Juice Fountain Plus. The wheatgrass pick: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "Chopping time is the main reason juicers end up unused, so a wide chute or batch hopper matters most. Greens and wheatgrass need a masticating or twin-gear press. On the page, Claude's pick is the Nama J2 and GPT's is the Breville Juice Fountain Plus. The wheatgrass pick: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       }
     },
     {
@@ -1046,7 +1412,7 @@
         "tiktok"
       ],
       "title": "Gaming in front of the TV: which video game chair?",
-      "caption": "Floor rockers sit low in front of a TV; pedestal chairs give a raised, swivel-style seat. Neither has wheels or height adjustment. Built-in speakers only help if your console or controller can send them audio. Claude names the X Rocker brand, GPT the Secretlab TITAN Evo line. https://1billionmodels.com/home-and-kitchen/furniture/game-and-recreation-room-furniture/gaming-chairs/video-game-chairs?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "Floor rockers sit low in front of a TV; pedestal chairs give a raised, swivel-style seat. Neither has wheels or height adjustment. Built-in speakers only help if your console or controller can send them audio. Claude names the X Rocker brand, GPT the Secretlab TITAN Evo line. https://1billionmodels.com/home-and-kitchen/furniture/game-and-recreation-room-furniture/gaming-chairs/video-game-chairs?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "earliest": "2026-11-20T00:07:00Z",
       "page": "https://1billionmodels.com/home-and-kitchen/furniture/game-and-recreation-room-furniture/gaming-chairs/video-game-chairs",
       "link": "https://1billionmodels.com/home-and-kitchen/furniture/game-and-recreation-room-furniture/gaming-chairs/video-game-chairs?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer",
@@ -1056,7 +1422,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "Video game chairs",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -1134,7 +1500,7 @@
         "realistic": false
       },
       "captions": {
-        "tiktok": "Many console rockers are sized for kids and teens, so match the weight capacity to the player. Need to stow it? Choose one that folds. X Rocker is Claude's choice; the Secretlab TITAN Evo is GPT's. Rocker or desk chair, explained: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "Many console rockers are sized for kids and teens, so match the weight capacity to the player. Need to stow it? Choose one that folds. X Rocker is Claude's choice; the Secretlab TITAN Evo is GPT's. Rocker or desk chair, explained: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       }
     },
     {
@@ -1145,7 +1511,7 @@
         "tiktok"
       ],
       "title": "Will a computer gaming chair fit you and your desk?",
-      "caption": "With feet flat, your elbows should rest at desk height, and the armrests must reach that height and tuck under the desk. Leave two to three fingers between the seat edge and the back of your knees. Herman Miller Embody Gaming Chair from Claude; Secretlab TITAN Evo from GPT. https://1billionmodels.com/home-and-kitchen/furniture/game-and-recreation-room-furniture/gaming-chairs/computer-gaming-chairs?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "With feet flat, your elbows should rest at desk height, and the armrests must reach that height and tuck under the desk. Leave two to three fingers between the seat edge and the back of your knees. Herman Miller Embody Gaming Chair from Claude; Secretlab TITAN Evo from GPT. https://1billionmodels.com/home-and-kitchen/furniture/game-and-recreation-room-furniture/gaming-chairs/computer-gaming-chairs?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "earliest": "2026-11-20T00:08:00Z",
       "page": "https://1billionmodels.com/home-and-kitchen/furniture/game-and-recreation-room-furniture/gaming-chairs/computer-gaming-chairs",
       "link": "https://1billionmodels.com/home-and-kitchen/furniture/game-and-recreation-room-furniture/gaming-chairs/computer-gaming-chairs?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer",
@@ -1155,7 +1521,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "Gaming chairs",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -1257,7 +1623,7 @@
         "realistic": false
       },
       "captions": {
-        "tiktok": "A seat that is too deep makes you slouch; too shallow and your thighs go unsupported. Lower-back fatigue is the main complaint in long sessions, so check the lumbar. GPT chooses the Secretlab TITAN Evo and Claude the Herman Miller Embody Gaming Chair. Value pick: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "A seat that is too deep makes you slouch; too shallow and your thighs go unsupported. Lower-back fatigue is the main complaint in long sessions, so check the lumbar. GPT chooses the Secretlab TITAN Evo and Claude the Herman Miller Embody Gaming Chair. Value pick: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       }
     },
     {
@@ -1268,7 +1634,7 @@
         "tiktok"
       ],
       "title": "Slate or no-slate pool table? What to check first",
-      "caption": "Choose three-piece slate on a full-size table: it gives a level, durable play surface. Allow a full cue length around the table on every side. GPT picks the Brunswick Gold Crown VI; Claude picks the Diamond Pro-Am line. https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/leisure-sports-and-games-equipment/billiards-equipment/pool-tables-and-accessories/billiard-tables?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "Choose three-piece slate on a full-size table: it gives a level, durable play surface. Allow a full cue length around the table on every side. GPT picks the Brunswick Gold Crown VI; Claude picks the Diamond Pro-Am line. https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/leisure-sports-and-games-equipment/billiards-equipment/pool-tables-and-accessories/billiard-tables?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "earliest": "2026-11-20T00:09:00Z",
       "page": "https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/leisure-sports-and-games-equipment/billiards-equipment/pool-tables-and-accessories/billiard-tables",
       "link": "https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/leisure-sports-and-games-equipment/billiards-equipment/pool-tables-and-accessories/billiard-tables?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer",
@@ -1278,7 +1644,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "Billiard tables",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -1380,7 +1746,7 @@
         "realistic": false
       },
       "captions": {
-        "tiktok": "No room for a full cue length on every side? You will not cue properly from the rails. A weak frame lets the slate shift out of level. Diamond Pro-Am for Claude, Brunswick Gold Crown VI for GPT. Bar-box and folding picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "No room for a full cue length on every side? You will not cue properly from the rails. A weak frame lets the slate shift out of level. Diamond Pro-Am for Claude, Brunswick Gold Crown VI for GPT. Bar-box and folding picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       }
     },
     {
@@ -1391,7 +1757,7 @@
         "tiktok"
       ],
       "title": "Oscillating or vertical vibration plate? Check this first",
-      "caption": "Oscillating plates move each foot alternately, like a see-saw; lineal plates move straight up and down. The plate should fit a squat stance and be rated above your weight. Claude's choice is the LifePro Waver line, GPT's the Power Plate my3. https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/exercise-and-fitness-equipment/cardio-training/vibration-platform-machines?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "Oscillating plates move each foot alternately, like a see-saw; lineal plates move straight up and down. The plate should fit a squat stance and be rated above your weight. Claude's choice is the LifePro Waver line, GPT's the Power Plate my3. https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/exercise-and-fitness-equipment/cardio-training/vibration-platform-machines?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "earliest": "2026-11-20T00:10:00Z",
       "page": "https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/exercise-and-fitness-equipment/cardio-training/vibration-platform-machines",
       "link": "https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/exercise-and-fitness-equipment/cardio-training/vibration-platform-machines?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer",
@@ -1401,7 +1767,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "Vibration plates",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -1503,7 +1869,7 @@
         "realistic": false
       },
       "captions": {
-        "tiktok": "Standing on a vibration plate is not a workout on its own; the benefit comes from squats, lunges and balance work on it. Beginners need a gentle first level. Claude settles on the LifePro Waver, GPT on the Power Plate my3. Who should ask a doctor first: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "Standing on a vibration plate is not a workout on its own; the benefit comes from squats, lunges and balance work on it. Beginners need a gentle first level. Claude settles on the LifePro Waver, GPT on the Power Plate my3. Who should ask a doctor first: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       }
     },
     {
@@ -1514,7 +1880,7 @@
         "tiktok"
       ],
       "title": "Will an OLED TV burn in? The check, and the AI pick",
-      "caption": "Burn-in on an OLED comes from static content: the same logos, tickers or interface elements on screen for many hours daily. Mixed viewing is fine. Claude and GPT choose the same brand, LG, but not the same product. https://1billionmodels.com/electronics/televisions-and-video-products/televisions/oled-tvs?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "Burn-in on an OLED comes from static content: the same logos, tickers or interface elements on screen for many hours daily. Mixed viewing is fine. Claude and GPT choose the same brand, LG, but not the same product. https://1billionmodels.com/electronics/televisions-and-video-products/televisions/oled-tvs?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "earliest": "2026-11-26T00:00:00Z",
       "page": "https://1billionmodels.com/electronics/televisions-and-video-products/televisions/oled-tvs",
       "link": "https://1billionmodels.com/electronics/televisions-and-video-products/televisions/oled-tvs?utm_source=youtube&utm_medium=short&utm_campaign=answer",
@@ -1524,7 +1890,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "OLED TVs",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -1612,7 +1978,7 @@
         "realistic": false
       },
       "captions": {
-        "tiktok": "OLED burn-in comes from the same logos or tickers on screen for hours every day; mixed viewing is fine. Sunny room? Look at a brighter tier. Both models land on LG, not the same TV. Page: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "OLED burn-in comes from the same logos or tickers on screen for hours every day; mixed viewing is fine. Sunny room? Look at a brighter tier. Both models land on LG, not the same TV. Page: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       }
     },
     {
@@ -1623,7 +1989,7 @@
         "tiktok"
       ],
       "title": "Which Fire TV Stick? Match it to your TV first",
-      "caption": "Match the stick to your TV: if your TV uses Dolby Vision or HDR10+, the device has to support it. Wi-Fi 6 or 6E for 4K streaming and cloud gaming. Claude and GPT choose the same line: Amazon Fire TV Stick 4K Max. https://1billionmodels.com/electronics/video-game-consoles-and-accessories/fire-tv-devices-and-accessories?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "Match the stick to your TV: if your TV uses Dolby Vision or HDR10+, the device has to support it. Wi-Fi 6 or 6E for 4K streaming and cloud gaming. Claude and GPT choose the same line: Amazon Fire TV Stick 4K Max. https://1billionmodels.com/electronics/video-game-consoles-and-accessories/fire-tv-devices-and-accessories?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "earliest": "2026-11-26T00:00:00Z",
       "page": "https://1billionmodels.com/electronics/video-game-consoles-and-accessories/fire-tv-devices-and-accessories",
       "link": "https://1billionmodels.com/electronics/video-game-consoles-and-accessories/fire-tv-devices-and-accessories?utm_source=youtube&utm_medium=short&utm_campaign=answer",
@@ -1633,7 +1999,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "Fire TV",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -1723,7 +2089,7 @@
         "realistic": false
       },
       "captions": {
-        "tiktok": "Check your TV first: Dolby Vision or HDR10+ has to match. Then Wi-Fi 6 or 6E, or Ethernet. Both AI models choose the Fire TV Stick 4K Max line; wired network and hands-free Alexa get the Cube. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "Check your TV first: Dolby Vision or HDR10+ has to match. Then Wi-Fi 6 or 6E, or Ethernet. Both AI models choose the Fire TV Stick 4K Max line; wired network and hands-free Alexa get the Cube. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       }
     },
     {
@@ -1734,7 +2100,7 @@
         "tiktok"
       ],
       "title": "Can an indoor oven make Neapolitan pizza? What to check",
-      "caption": "For Neapolitan-style pizza the stone has to reach roughly 750°F or more; lower-temperature units suit New York style or frozen pizza. Most countertop units cap at about 12 inches. Claude and GPT choose the same product: Breville BPZ820BSS. https://1billionmodels.com/home-and-kitchen/kitchen-and-dining/kitchen-small-appliances/ovens-and-toasters/countertop-pizza-ovens?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "For Neapolitan-style pizza the stone has to reach roughly 750°F or more; lower-temperature units suit New York style or frozen pizza. Most countertop units cap at about 12 inches. Claude and GPT choose the same product: Breville BPZ820BSS. https://1billionmodels.com/home-and-kitchen/kitchen-and-dining/kitchen-small-appliances/ovens-and-toasters/countertop-pizza-ovens?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "earliest": "2026-11-26T00:00:00Z",
       "page": "https://1billionmodels.com/home-and-kitchen/kitchen-and-dining/kitchen-small-appliances/ovens-and-toasters/countertop-pizza-ovens",
       "link": "https://1billionmodels.com/home-and-kitchen/kitchen-and-dining/kitchen-small-appliances/ovens-and-toasters/countertop-pizza-ovens?utm_source=youtube&utm_medium=short&utm_campaign=answer",
@@ -1744,7 +2110,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "Pizza ovens",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -1808,7 +2174,7 @@
         "realistic": false
       },
       "captions": {
-        "tiktok": "Neapolitan crust needs roughly 750°F at the stone. Most countertop ovens cap at about 12-inch pizzas. Both AI models pick the same oven, the Breville Smart Oven Pizzaiolo. Frozen pizza on a budget has its own pick: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "Neapolitan crust needs roughly 750°F at the stone. Most countertop ovens cap at about 12-inch pizzas. Both AI models pick the same oven, the Breville Smart Oven Pizzaiolo. Frozen pizza on a budget has its own pick: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       }
     },
     {
@@ -1819,7 +2185,7 @@
         "tiktok"
       ],
       "title": "What size food processor do you need?",
-      "caption": "11 to 14 cups for families and dough, 3 to 4 cups for small tasks. And check the maximum liquid line, because most leak above it. Claude and GPT choose the same product: Cuisinart DFP-14BCNY. https://1billionmodels.com/home-and-kitchen/kitchen-and-dining/kitchen-small-appliances/food-processors?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "11 to 14 cups for families and dough, 3 to 4 cups for small tasks. And check the maximum liquid line, because most leak above it. Claude and GPT choose the same product: Cuisinart DFP-14BCNY. https://1billionmodels.com/home-and-kitchen/kitchen-and-dining/kitchen-small-appliances/food-processors?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "earliest": "2026-11-26T00:00:00Z",
       "page": "https://1billionmodels.com/home-and-kitchen/kitchen-and-dining/kitchen-small-appliances/food-processors",
       "link": "https://1billionmodels.com/home-and-kitchen/kitchen-and-dining/kitchen-small-appliances/food-processors?utm_source=youtube&utm_medium=short&utm_campaign=answer",
@@ -1829,7 +2195,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "Food processors",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -1911,7 +2277,7 @@
         "realistic": false
       },
       "captions": {
-        "tiktok": "Families and dough: 11 to 14 cups. Small jobs: a 3 to 4 cup mini. Most leak above the max liquid line. Both AI models pick the Cuisinart Custom 14; herbs and sauces get the Mini-Prep Plus. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "Families and dough: 11 to 14 cups. Small jobs: a 3 to 4 cup mini. Most leak above the max liquid line. Both AI models pick the Cuisinart Custom 14; herbs and sauces get the Mini-Prep Plus. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       }
     },
     {
@@ -1922,7 +2288,7 @@
         "tiktok"
       ],
       "title": "Air, water or magnetic: which rowing machine?",
-      "caption": "Air for training and racing, water for a quiet, natural feel, magnetic for silence and compactness. A full-size rower needs roughly 8 to 9 feet of length plus clearance. Claude and GPT choose the same line: Concept2 RowErg. https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/exercise-and-fitness-equipment/cardio-training/rowing-machines?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "Air for training and racing, water for a quiet, natural feel, magnetic for silence and compactness. A full-size rower needs roughly 8 to 9 feet of length plus clearance. Claude and GPT choose the same line: Concept2 RowErg. https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/exercise-and-fitness-equipment/cardio-training/rowing-machines?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "earliest": "2026-11-26T00:00:00Z",
       "page": "https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/exercise-and-fitness-equipment/cardio-training/rowing-machines",
       "link": "https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/exercise-and-fitness-equipment/cardio-training/rowing-machines?utm_source=youtube&utm_medium=short&utm_campaign=answer",
@@ -1932,7 +2298,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "Rowing machines",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -2022,7 +2388,7 @@
         "realistic": false
       },
       "captions": {
-        "tiktok": "Air rowers train and race, water rowers are quiet, magnetic ones are silent and compact. Plan 8 to 9 feet of floor. Both AI models choose the Concept2 RowErg line; quiet living-room rowing goes to WaterRower. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "Air rowers train and race, water rowers are quiet, magnetic ones are silent and compact. Plan 8 to 9 feet of floor. Both AI models choose the Concept2 RowErg line; quiet living-room rowing goes to WaterRower. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       }
     },
     {
@@ -2033,7 +2399,7 @@
         "tiktok"
       ],
       "title": "Down jacket: what fill power actually means",
-      "caption": "About 600 fill power is entry level, 700 to 800 is high quality. But compare the total ounces of down too: a heavy fill at lower fill power can be warmer than a thin fill at high fill power. Claude and GPT choose the same line: Patagonia Down Sweater. https://1billionmodels.com/clothing-shoes-and-jewelry/mens-fashion/mens-clothing/mens-outerwear-jackets-and-coats/mens-down-jackets-and-coats?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "About 600 fill power is entry level, 700 to 800 is high quality. But compare the total ounces of down too: a heavy fill at lower fill power can be warmer than a thin fill at high fill power. Claude and GPT choose the same line: Patagonia Down Sweater. https://1billionmodels.com/clothing-shoes-and-jewelry/mens-fashion/mens-clothing/mens-outerwear-jackets-and-coats/mens-down-jackets-and-coats?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "earliest": "2026-11-26T00:00:00Z",
       "page": "https://1billionmodels.com/clothing-shoes-and-jewelry/mens-fashion/mens-clothing/mens-outerwear-jackets-and-coats/mens-down-jackets-and-coats",
       "link": "https://1billionmodels.com/clothing-shoes-and-jewelry/mens-fashion/mens-clothing/mens-outerwear-jackets-and-coats/mens-down-jackets-and-coats?utm_source=youtube&utm_medium=short&utm_campaign=answer",
@@ -2043,7 +2409,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "Down jackets",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -2125,7 +2491,7 @@
         "realistic": false
       },
       "captions": {
-        "tiktok": "600 fill is entry level, 700 to 800 is high quality, yet a heavy fill at lower power can beat a thin fill at high power. Look for RDS down. Both AI models choose the Patagonia Down Sweater line; extreme cold gets a parka. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "600 fill is entry level, 700 to 800 is high quality, yet a heavy fill at lower power can beat a thin fill at high power. Look for RDS down. Both AI models choose the Patagonia Down Sweater line; extreme cold gets a parka. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       }
     },
     {
@@ -2136,7 +2502,7 @@
         "tiktok"
       ],
       "title": "Snow boots: deep snow or icy sidewalks? Not the same boot",
-      "caption": "Temperature ratings only compare boots within the same brand. For icy pavement, look for rubber made for ice grip. Claude and GPT choose the same line, Sorel Caribou, for deep snow; it is heavy on cleared sidewalks. https://1billionmodels.com/clothing-shoes-and-jewelry/mens-fashion/mens-shoes/mens-outdoor-shoes/mens-snow-boots?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "Temperature ratings only compare boots within the same brand. For icy pavement, look for rubber made for ice grip. Claude and GPT choose the same line, Sorel Caribou, for deep snow; it is heavy on cleared sidewalks. https://1billionmodels.com/clothing-shoes-and-jewelry/mens-fashion/mens-shoes/mens-outdoor-shoes/mens-snow-boots?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "earliest": "2026-11-26T00:00:00Z",
       "page": "https://1billionmodels.com/clothing-shoes-and-jewelry/mens-fashion/mens-shoes/mens-outdoor-shoes/mens-snow-boots",
       "link": "https://1billionmodels.com/clothing-shoes-and-jewelry/mens-fashion/mens-shoes/mens-outdoor-shoes/mens-snow-boots?utm_source=youtube&utm_medium=short&utm_campaign=answer",
@@ -2146,7 +2512,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "Snow boots",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -2228,7 +2594,7 @@
         "realistic": false
       },
       "captions": {
-        "tiktok": "Boot temperature ratings only compare within one brand. Icy pavement needs an ice-grip rubber. For deep snow both AI models choose the Sorel Caribou line; lighter everyday walking gets the Merrell Thermo Chill. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "Boot temperature ratings only compare within one brand. Icy pavement needs an ice-grip rubber. For deep snow both AI models choose the Sorel Caribou line; lighter everyday walking gets the Merrell Thermo Chill. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       }
     },
     {
@@ -2239,7 +2605,7 @@
         "tiktok"
       ],
       "title": "Your first DJ controller: the one both AI models pick",
-      "caption": "Check which apps a controller maps to (rekordbox, Serato DJ Lite, VirtualDJ, djay) and that it has a separate headphone output to cue. Claude and GPT choose the same product: Pioneer DJ DDJ-FLX4. https://1billionmodels.com/musical-instruments/electronic-music-dj-and-karaoke/dj-equipment/dj-controllers?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "Check which apps a controller maps to (rekordbox, Serato DJ Lite, VirtualDJ, djay) and that it has a separate headphone output to cue. Claude and GPT choose the same product: Pioneer DJ DDJ-FLX4. https://1billionmodels.com/musical-instruments/electronic-music-dj-and-karaoke/dj-equipment/dj-controllers?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "earliest": "2026-11-26T00:00:00Z",
       "page": "https://1billionmodels.com/musical-instruments/electronic-music-dj-and-karaoke/dj-equipment/dj-controllers",
       "link": "https://1billionmodels.com/musical-instruments/electronic-music-dj-and-karaoke/dj-equipment/dj-controllers?utm_source=youtube&utm_medium=short&utm_campaign=answer",
@@ -2249,7 +2615,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "DJ controllers",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -2331,7 +2697,7 @@
         "realistic": false
       },
       "captions": {
-        "tiktok": "First DJ controller? Check which software it maps to and that it has its own headphone output. Both AI models pick the Pioneer DJ DDJ-FLX4; four-deck Serato and scratch picks are on the page. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "First DJ controller? Check which software it maps to and that it has its own headphone output. Both AI models pick the Pioneer DJ DDJ-FLX4; four-deck Serato and scratch picks are on the page. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       }
     },
     {
@@ -2342,7 +2708,7 @@
         "tiktok"
       ],
       "title": "How many inputs does your audio interface need?",
-      "caption": "Count what you record at the same time: two inputs cover a vocalist plus guitar, a drum kit needs eight or more. Streaming or podcasting? You need loopback. Claude and GPT choose the same product: Focusrite Scarlett 2i2 (4th Gen). https://1billionmodels.com/musical-instruments/music-recording-equipment/computer-recording-equipment/computer-recording-audio-interfaces?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "Count what you record at the same time: two inputs cover a vocalist plus guitar, a drum kit needs eight or more. Streaming or podcasting? You need loopback. Claude and GPT choose the same product: Focusrite Scarlett 2i2 (4th Gen). https://1billionmodels.com/musical-instruments/music-recording-equipment/computer-recording-equipment/computer-recording-audio-interfaces?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "earliest": "2026-11-26T00:00:00Z",
       "page": "https://1billionmodels.com/musical-instruments/music-recording-equipment/computer-recording-equipment/computer-recording-audio-interfaces",
       "link": "https://1billionmodels.com/musical-instruments/music-recording-equipment/computer-recording-equipment/computer-recording-audio-interfaces?utm_source=youtube&utm_medium=short&utm_campaign=answer",
@@ -2352,7 +2718,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "Audio interfaces",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -2448,7 +2814,7 @@
         "realistic": false
       },
       "captions": {
-        "tiktok": "Two inputs cover a singer plus guitar; a drum kit needs eight or more. Streamers need loopback. Both AI models pick the Focusrite Scarlett 2i2 4th Gen; one voice only gets the Solo. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "Two inputs cover a singer plus guitar; a drum kit needs eight or more. Streamers need loopback. Both AI models pick the Focusrite Scarlett 2i2 4th Gen; one voice only gets the Solo. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       }
     },
     {
@@ -2459,7 +2825,7 @@
         "tiktok"
       ],
       "title": "How much room does a ping-pong table need?",
-      "caption": "Allow roughly 19 by 11 feet for recreational play, more for real rallies. A top under about 19 mm bounces poorly. Claude and GPT choose the same line: JOOLA Inside, for indoors. https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/leisure-sports-and-games-equipment/table-tennis-equipment/table-tennis-tables?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "Allow roughly 19 by 11 feet for recreational play, more for real rallies. A top under about 19 mm bounces poorly. Claude and GPT choose the same line: JOOLA Inside, for indoors. https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/leisure-sports-and-games-equipment/table-tennis-equipment/table-tennis-tables?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "earliest": "2026-11-26T00:00:00Z",
       "page": "https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/leisure-sports-and-games-equipment/table-tennis-equipment/table-tennis-tables",
       "link": "https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/leisure-sports-and-games-equipment/table-tennis-equipment/table-tennis-tables?utm_source=youtube&utm_medium=short&utm_campaign=answer",
@@ -2469,7 +2835,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "Table tennis",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -2565,7 +2931,7 @@
         "realistic": false
       },
       "captions": {
-        "tiktok": "A home table needs roughly 19 by 11 feet of room, more for real rallies, and a top of 19 mm or more to bounce well. Both AI models choose the JOOLA Inside line; outdoors gets the Cornilleau 300X. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "A home table needs roughly 19 by 11 feet of room, more for real rallies, and a top of 19 mm or more to bounce well. Both AI models choose the JOOLA Inside line; outdoors gets the Cornilleau 300X. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       }
     },
     {
@@ -2576,7 +2942,7 @@
         "tiktok"
       ],
       "title": "Buying a film camera new? The pick both AI models make",
-      "caption": "Claude and GPT choose the same product: Pentax 17, a new half-frame 35mm camera that doubles the shots per roll. Not for you if you want full 35mm frames or interchangeable lenses. Buying used instead? Check light seals, shutter speeds and lens haze. https://1billionmodels.com/electronics/camera-and-photo/film-photography/film-cameras?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "Claude and GPT choose the same product: Pentax 17, a new half-frame 35mm camera that doubles the shots per roll. Not for you if you want full 35mm frames or interchangeable lenses. Buying used instead? Check light seals, shutter speeds and lens haze. https://1billionmodels.com/electronics/camera-and-photo/film-photography/film-cameras?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "earliest": "2026-11-26T00:00:00Z",
       "page": "https://1billionmodels.com/electronics/camera-and-photo/film-photography/film-cameras",
       "link": "https://1billionmodels.com/electronics/camera-and-photo/film-photography/film-cameras?utm_source=youtube&utm_medium=short&utm_campaign=answer",
@@ -2586,7 +2952,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "Film cameras",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -2662,7 +3028,7 @@
         "realistic": false
       },
       "captions": {
-        "tiktok": "Both AI models pick the Pentax 17: new, half-frame, twice the shots per roll. Want instant prints or a manual camera to learn on? Each has its own pick. Buying used: check seals, shutter and haze. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "Both AI models pick the Pentax 17: new, half-frame, twice the shots per roll. Want instant prints or a manual camera to learn on? Each has its own pick. Buying used: check seals, shutter and haze. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       }
     },
     {
@@ -2673,7 +3039,7 @@
         "tiktok"
       ],
       "title": "Color or mono laser printer? Check these first",
-      "caption": "Buy color only if you regularly print color pages, and size the printer by its recommended monthly volume, not its maximum duty cycle. Claude and GPT choose the same brand, Brother, but not the same product. https://1billionmodels.com/office-products/office-electronics-products/printers-and-accessories/computer-printers/laser-computer-printers?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "Buy color only if you regularly print color pages, and size the printer by its recommended monthly volume, not its maximum duty cycle. Claude and GPT choose the same brand, Brother, but not the same product. https://1billionmodels.com/office-products/office-electronics-products/printers-and-accessories/computer-printers/laser-computer-printers?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "earliest": "2026-11-26T00:00:00Z",
       "page": "https://1billionmodels.com/office-products/office-electronics-products/printers-and-accessories/computer-printers/laser-computer-printers",
       "link": "https://1billionmodels.com/office-products/office-electronics-products/printers-and-accessories/computer-printers/laser-computer-printers?utm_source=youtube&utm_medium=short&utm_campaign=answer",
@@ -2683,7 +3049,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "Laser printers",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -2761,7 +3127,7 @@
         "realistic": false
       },
       "captions": {
-        "tiktok": "Color only if you print color often. Size by recommended monthly volume, not max duty cycle, and check for toner lock-in. Both AI models choose Brother, one color and one mono. Which fits you: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "Color only if you print color often. Size by recommended monthly volume, not max duty cycle, and check for toner lock-in. Both AI models choose Brother, one color and one mono. Which fits you: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       }
     },
     {
@@ -2772,7 +3138,7 @@
         "tiktok"
       ],
       "title": "Which action camera? Check these before you buy",
-      "caption": "Look for waterproofing to around 10 m without a housing, strong stabilization with horizon leveling, and GoPro-style mounts. A bigger sensor matters at dawn, dusk and indoors. Claude and GPT choose the same product: GoPro HERO13 Black. https://1billionmodels.com/electronics/camera-and-photo/video-equipment/sports-and-action-video-cameras?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+      "caption": "Look for waterproofing to around 10 m without a housing, strong stabilization with horizon leveling, and GoPro-style mounts. A bigger sensor matters at dawn, dusk and indoors. Claude and GPT choose the same product: GoPro HERO13 Black. https://1billionmodels.com/electronics/camera-and-photo/video-equipment/sports-and-action-video-cameras?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "earliest": "2026-11-26T00:00:00Z",
       "page": "https://1billionmodels.com/electronics/camera-and-photo/video-equipment/sports-and-action-video-cameras",
       "link": "https://1billionmodels.com/electronics/camera-and-photo/video-equipment/sports-and-action-video-cameras?utm_source=youtube&utm_medium=short&utm_campaign=answer",
@@ -2782,7 +3148,7 @@
         "speed": 1.15,
         "spec": {
           "tag": "Action cameras",
-          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases.",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
           "fineAlways": true,
           "brand": {
             "name": "1 Billion Models",
@@ -2871,7 +3237,7 @@
         "realistic": false
       },
       "captions": {
-        "tiktok": "Waterproof to about 10 m with no case, horizon-leveled stabilization, GoPro-style mounts. Low light is where a bigger sensor wins. Both AI models pick the GoPro HERO13 Black; low light and 360 get their own picks. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. As an Amazon Associate I earn from qualifying purchases. AI-made video."
+        "tiktok": "Waterproof to about 10 m with no case, horizon-leveled stabilization, GoPro-style mounts. Low light is where a bigger sensor wins. Both AI models pick the GoPro HERO13 Black; low light and 360 get their own picks. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       }
     }
   ]
