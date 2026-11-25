@@ -12,12 +12,12 @@
       "title": "How long does a portable power station run a fridge? What Claude and GPT would buy",
       "caption": "Claude and GPT choose the same product: EcoFlow DELTA 2, a 1,024Wh LiFePO4 battery with 1,800W AC output. The page's table, at 0.85 of rated capacity: a refrigerator about 12 h, a CPAP without humidifier 22 h, a Wi-Fi router 87 h, a microwave under 1 h. Not for whole-home backup. Size your own load: https://1billionmodels.com/patio-lawn-and-garden/outdoor-generators-and-portable-power/portable-power-stations?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=boost&utm_content=portable-power-stations\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
       "captions": {
-        "tiktok": "How long does a power station run a fridge? On the page's table, the EcoFlow DELTA 2 (Claude's and GPT's pick): about 12 h for a refrigerator, 22 h for a CPAP without humidifier, under 1 h for a microwave. Check: LiFePO4 over NMC, pure sine wave, continuous watts above your largest load. Size yours: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
+        "tiktok": "How long does a power station run a fridge? On the page's table, the EcoFlow DELTA 2 (Claude's and GPT's pick): about 12 h for a refrigerator, 22 h for a CPAP without humidifier, under 1 h for a microwave. Check: LiFePO4 over NMC, pure sine wave, continuous watts above your largest load. Size yours: 1billionmodels.com/portable-power-stations\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
       },
       "earliest": "2026-11-17T00:00:00Z",
       "page": "https://1billionmodels.com/patio-lawn-and-garden/outdoor-generators-and-portable-power/portable-power-stations",
       "link": "https://1billionmodels.com/patio-lawn-and-garden/outdoor-generators-and-portable-power/portable-power-stations?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=boost&utm_content=portable-power-stations",
-      "script": "How long does a power station run your fridge? / Claude and GPT choose the same product: EcoFlow DELTA 2. / Fridge about twelve hours, CPAP twenty-two, microwave under one. / LiFePO4, pure sine wave, enough continuous watts. / Size yours: one billion models dot com.",
+      "script": "How long does a power station run your fridge? / Claude and GPT choose the same product: EcoFlow DELTA 2. / Fridge about twelve hours, CPAP twenty-two, microwave under one. / LiFePO4, pure sine wave, enough continuous watts. / Size yours: one billion models dot com slash portable power stations.",
       "prompts": {
         "voice": "am_michael",
         "speed": 1.15,
@@ -29,7 +29,7 @@
             "name": "1 Billion Models",
             "accent_part": "",
             "site": "1billionmodels.com",
-            "cta": "Size yours: 1billionmodels.com"
+            "cta": "Size yours: 1billionmodels.com/portable-power-stations"
           },
           "scenes": [
             {
@@ -114,8 +114,8 @@
               "type": "end",
               "cta": "Size yours",
               "title": "Tick your devices and see the hours, for every pick on the page.",
-              "site": "1billionmodels.com",
-              "say": "Size yours: one billion models dot com."
+              "site": "1billionmodels.com/portable-power-stations",
+              "say": "Size yours: one billion models dot com slash portable power stations."
             }
           ]
         }
