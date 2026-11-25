@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-oled-tv-burn-in-check-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-oled-tv-burn-in-check.mp4",
+    "sha256": "7ea01acd44ddd2713b21a7251eb884863c3312ee590575306092fdd20c55ee4d",
+    "kind": "video"
+  },
+  "caption": "Burn-in on an OLED comes from static content: the same logos, tickers or interface elements on screen for many hours daily. Mixed viewing is fine. Claude and GPT choose the same brand, LG, but not the same product. https://1billionmodels.com/electronics/televisions-and-video-products/televisions/oled-tvs?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "Will an OLED TV burn in? The check, and the AI pick",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-26T00:00:00Z"
+}

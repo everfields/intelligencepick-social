@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-oled-tv-burn-in-check-tiktok",
+  "network": "tiktok",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-oled-tv-burn-in-check.mp4",
+    "sha256": "7ea01acd44ddd2713b21a7251eb884863c3312ee590575306092fdd20c55ee4d",
+    "kind": "video"
+  },
+  "caption": "OLED burn-in comes from the same logos or tickers on screen for hours every day; mixed viewing is fine. Sunny room? Look at a brighter tier. Both models land on LG, not the same TV. Page: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video.",
+  "title": "Will an OLED TV burn in? The check, and the AI pick",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-26T00:00:00Z"
+}
