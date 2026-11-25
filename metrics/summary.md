@@ -1,12 +1,12 @@
-# Social numbers (2026-11-25T19:22:48Z)
+# Social numbers (2026-11-25T22:26:32Z)
 
 A blank is a number the network did not give, never a zero.
 
 ## youtube
 
-- posts with numbers: 2; floor (median of the last 20): 52.0
+- posts with numbers: 2; floor (median of the last 20): 52.5
 - followers: 0; follows per 1,000 views (7 days): 
 
 | Format | Posts | Median views | Best | Best ÷ floor | State |
 |---|---|---|---|---|---|
-| answer | 2 | 52.0 | 88 | 1.69 | trial |
+| answer | 2 | 52.5 | 89 | 1.7 | trial |
