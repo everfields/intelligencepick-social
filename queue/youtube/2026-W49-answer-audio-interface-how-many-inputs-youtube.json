@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-audio-interface-how-many-inputs-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-audio-interface-how-many-inputs.mp4",
+    "sha256": "d4ab3aad60725bda2c1363fc5966ee475c01402302f15e8842882f942d968c06",
+    "kind": "video"
+  },
+  "caption": "Count what you record at the same time: two inputs cover a vocalist plus guitar, a drum kit needs eight or more. Streaming or podcasting? You need loopback. Claude and GPT choose the same product: Focusrite Scarlett 2i2 (4th Gen). https://1billionmodels.com/musical-instruments/music-recording-equipment/computer-recording-equipment/computer-recording-audio-interfaces?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "How many inputs does your audio interface need?",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-26T00:00:00Z"
+}
