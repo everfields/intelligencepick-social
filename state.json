@@ -12,7 +12,8 @@
       "title": "tiktok: enabled but not live, nothing is posted"
     },
     "quarantine": {
-      "cleared": false,
+      "cleared": true,
+      "cleared_at": "2026-11-25T23:26:41Z",
       "sent_at": "2026-11-25T23:05:51Z",
       "title": "intake quarantined 2 post(s)"
     },
