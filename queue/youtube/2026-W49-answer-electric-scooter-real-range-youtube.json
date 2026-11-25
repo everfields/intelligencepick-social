@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-electric-scooter-real-range-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-electric-scooter-real-range.mp4",
+    "sha256": "f24e40eb782489135092440cda16d92d88311f09f7e2cf7f26e08e21c8af7065",
+    "kind": "video"
+  },
+  "caption": "Expect roughly half to two-thirds of the advertised range: it is measured with a light rider at low speed on flat ground. Prefer pneumatic tires of about 8.5 inches or larger. Claude's pick is the Segway Ninebot Max line; GPT's is the Segway Ninebot MAX G2. https://1billionmodels.com/sports-and-outdoors/outdoor-recreation/skates-skateboards-and-scooters/scooters-and-equipment/sport-scooters/electric-scooters?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "How far will an electric scooter really go?",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T00:03:00Z"
+}
