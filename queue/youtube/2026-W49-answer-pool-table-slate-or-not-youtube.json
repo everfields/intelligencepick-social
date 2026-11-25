@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-pool-table-slate-or-not-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-pool-table-slate-or-not.mp4",
+    "sha256": "60d764ce9e0dddfee56b1e57803941c970955aa8d30670caf8002feab6dcf368",
+    "kind": "video"
+  },
+  "caption": "Choose three-piece slate on a full-size table: it gives a level, durable play surface. Allow a full cue length around the table on every side. GPT picks the Brunswick Gold Crown VI; Claude picks the Diamond Pro-Am line. https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/leisure-sports-and-games-equipment/billiards-equipment/pool-tables-and-accessories/billiard-tables?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "Slate or no-slate pool table? What to check first",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T00:09:00Z"
+}

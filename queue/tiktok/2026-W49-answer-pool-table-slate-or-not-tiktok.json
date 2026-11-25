@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-pool-table-slate-or-not-tiktok",
+  "network": "tiktok",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-pool-table-slate-or-not.mp4",
+    "sha256": "60d764ce9e0dddfee56b1e57803941c970955aa8d30670caf8002feab6dcf368",
+    "kind": "video"
+  },
+  "caption": "No room for a full cue length on every side? You will not cue properly from the rails. A weak frame lets the slate shift out of level. Diamond Pro-Am for Claude, Brunswick Gold Crown VI for GPT. Bar-box and folding picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video.",
+  "title": "Slate or no-slate pool table? What to check first",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T00:09:00Z"
+}
