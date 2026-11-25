@@ -107,4 +107,16 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
+
+  # Deploy in its own job: deploy-pages lists the run's artifacts about 20 ms after the upload is finalised, and the list
+  # lags, so in one job it fails with "No artifacts named github-pages" (every intake from 2026-11-25 21:58Z). A job that
+  # needs the upload starts after it has settled: the standard Pages pattern. The intake job keeps its environment, so
+  # nothing changes for the secrets it reads.
+  deploy:
+    needs: intake
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+    steps:
       - uses: actions/deploy-pages@v4
