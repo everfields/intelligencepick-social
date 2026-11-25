@@ -1,10 +1,5 @@
 {
   "alarms": {
-    "_youtube_analytics": {
-      "cleared": true,
-      "runs": 1,
-      "sent_at": "2026-11-25T22:26:32Z"
-    },
     "heartbeat": {
       "cleared": false,
       "sent_at": "2026-11-25T19:22:50Z",
