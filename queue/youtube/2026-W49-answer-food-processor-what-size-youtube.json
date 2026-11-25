@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-food-processor-what-size-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-food-processor-what-size.mp4",
+    "sha256": "67732f99f853d24efb1c5790bb7e1f6641ee9d41f126ddfb3dcaa521b91ce804",
+    "kind": "video"
+  },
+  "caption": "11 to 14 cups for families and dough, 3 to 4 cups for small tasks. And check the maximum liquid line, because most leak above it. Claude and GPT choose the same product: Cuisinart DFP-14BCNY. https://1billionmodels.com/home-and-kitchen/kitchen-and-dining/kitchen-small-appliances/food-processors?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "What size food processor do you need?",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-26T00:00:00Z"
+}

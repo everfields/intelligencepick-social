@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-food-processor-what-size-tiktok",
+  "network": "tiktok",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-food-processor-what-size.mp4",
+    "sha256": "67732f99f853d24efb1c5790bb7e1f6641ee9d41f126ddfb3dcaa521b91ce804",
+    "kind": "video"
+  },
+  "caption": "Families and dough: 11 to 14 cups. Small jobs: a 3 to 4 cup mini. Most leak above the max liquid line. Both AI models pick the Cuisinart Custom 14; herbs and sauces get the Mini-Prep Plus. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video.",
+  "title": "What size food processor do you need?",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-26T00:00:00Z"
+}
