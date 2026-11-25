@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-ps5-for-gta-vi-radar-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-ps5-for-gta-vi-radar.mp4",
+    "sha256": "96cf28b5d631656feae4a9961461c2ddbca2a4488be219bd396b1e4494d766d6",
+    "kind": "video"
+  },
+  "caption": "GTA VI's boxed copies hold a download code, not a disc, so the disc drive won't matter for that game. These picks were made before the launch, from what two AI models knew to mid-2026: Claude picks the PS5 Slim with a disc drive, GPT the PS5 Pro. All-digital buyers: the Slim Digital Edition. https://1billionmodels.com/video-games/playstation-5-consoles-games-and-accessories/playstation-5-consoles?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=radar\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "Buying a PS5 for GTA VI? Disc, Digital or Pro",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-19T00:00:00Z"
+}
