@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-kpop-the-debut-toys-gift-now-radar-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-kpop-the-debut-toys-gift-now-radar.mp4",
+    "sha256": "4904dc686a36547d07fce0c9f2060019c3ab9832d3ac69d7151f9b1c0421c0c2",
+    "kind": "video"
+  },
+  "caption": "JAKKS Pacific announced the K-Pop: The Debut toy license on November 12, 2026, and says the line debuts worldwide in 2027 with the film (in theaters February 26, 2027). No products, prices or stores yet, and the dolls' size is not stated. For now: Claude picks Calico Critters for doll play and Squishmallows for plush; GPT the Barbie Dreamhouse and a Jellycat Bashful Beige Bunny. None is from the film. https://1billionmodels.com/radar/k-pop-the-debut/toys?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=radar&utm_content=kpop-the-debut-toys\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "K-Pop: The Debut toys come in 2027. What the AIs would buy a fan now",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-18T02:00:00Z"
+}
