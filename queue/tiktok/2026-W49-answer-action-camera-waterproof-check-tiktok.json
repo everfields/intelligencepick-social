@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-action-camera-waterproof-check-tiktok",
+  "network": "tiktok",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-action-camera-waterproof-check.mp4",
+    "sha256": "3bc8291cdb9da02c7f0b03704647469d5317a8ae98dc39cb1435f00bb041427c",
+    "kind": "video"
+  },
+  "caption": "Waterproof to about 10 m with no case, horizon-leveled stabilization, GoPro-style mounts. Low light is where a bigger sensor wins. Both AI models pick the GoPro HERO13 Black; low light and 360 get their own picks. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video.",
+  "title": "Which action camera? Check these before you buy",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-26T00:00:00Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-action-camera-waterproof-check-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-action-camera-waterproof-check.mp4",
+    "sha256": "3bc8291cdb9da02c7f0b03704647469d5317a8ae98dc39cb1435f00bb041427c",
+    "kind": "video"
+  },
+  "caption": "Look for waterproofing to around 10 m without a housing, strong stabilization with horizon leveling, and GoPro-style mounts. A bigger sensor matters at dawn, dusk and indoors. Claude and GPT choose the same product: GoPro HERO13 Black. https://1billionmodels.com/electronics/camera-and-photo/video-equipment/sports-and-action-video-cameras?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "Which action camera? Check these before you buy",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-26T00:00:00Z"
+}
