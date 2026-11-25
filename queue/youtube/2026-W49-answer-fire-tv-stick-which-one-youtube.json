@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-fire-tv-stick-which-one-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-fire-tv-stick-which-one.mp4",
+    "sha256": "f4705826c2c8a90fd567f32d6708f06a1cb8dca52ed8b5f9cdca52cbbdf62090",
+    "kind": "video"
+  },
+  "caption": "Match the stick to your TV: if your TV uses Dolby Vision or HDR10+, the device has to support it. Wi-Fi 6 or 6E for 4K streaming and cloud gaming. Claude and GPT choose the same line: Amazon Fire TV Stick 4K Max. https://1billionmodels.com/electronics/video-game-consoles-and-accessories/fire-tv-devices-and-accessories?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "Which Fire TV Stick? Match it to your TV first",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-26T00:00:00Z"
+}
