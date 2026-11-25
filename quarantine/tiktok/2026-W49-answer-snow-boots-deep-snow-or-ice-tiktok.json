@@ -17,5 +17,30 @@
     "realistic": false
   },
   "trial": false,
-  "earliest": "2026-11-26T00:00:00Z"
+  "earliest": "2026-11-26T00:00:00Z",
+  "intake": {
+    "ok": false,
+    "at": "2026-11-25T23:04:41Z",
+    "problems": [
+      "near-duplicate of 2026-W49-answer-down-jacket-fill-power-tiktok (distance 9.8)"
+    ],
+    "warnings": [],
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "duration_s": 29.9,
+      "video_codec": "h264",
+      "pix_fmt": "yuv420p",
+      "fps": 30.0,
+      "audio_codec": "aac",
+      "bytes": 2787511
+    },
+    "phash": [
+      "7a38595d4b941700",
+      "7b2e2f2f1f101700",
+      "7a30168052101700",
+      "7a1e4c8012001700",
+      "7aa17b483a001700"
+    ]
+  }
 }
