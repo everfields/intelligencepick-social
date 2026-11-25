@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-snow-boots-deep-snow-or-ice-tiktok",
+  "network": "tiktok",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-snow-boots-deep-snow-or-ice.mp4",
+    "sha256": "011ce43c2389ec4d771ca5187bb561f58f05e7139a4b4502b3d382b79ea5cfae",
+    "kind": "video"
+  },
+  "caption": "Boot temperature ratings only compare within one brand. Icy pavement needs an ice-grip rubber. For deep snow both AI models choose the Sorel Caribou line; lighter everyday walking gets the Merrell Thermo Chill. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video.",
+  "title": "Snow boots: deep snow or icy sidewalks? Not the same boot",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-26T00:00:00Z"
+}
