@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-xbox-series-s-gta-vi-storage-radar-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-xbox-series-s-gta-vi-storage-radar.mp4",
+    "sha256": "4a41cae26a6fd283a3ad7f1c017fbd9014c05bb3ca1f2ac6cf74a3a799912b41",
+    "kind": "video"
+  },
+  "caption": "A 512GB Series S leaves roughly 364GB usable, and GTA VI's install is about 210 GB on PS5 per a data-mining account (Rockstar has not published it, and the Xbox size is unconfirmed). The picks predate the launch: both AI models choose the Series X line, and for a Series S the 1TB version avoids the storage squeeze. https://1billionmodels.com/video-games/xbox-series-x-and-s-consoles-games-and-accessories/xbox-series-x-and-s-consoles?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=radar\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "GTA VI on an Xbox Series S: is 512GB enough?",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-19T00:01:00Z"
+}
