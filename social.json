@@ -66,5 +66,11 @@
     "target_days": 10
   },
   "heartbeat_alarm_hours": 36,
-  "note": "YouTube Shorts only, and only after the founder's strategy gate in everfields/intelligence-ranking approves it. Pinterest is not run here: it publishes from the site's own RSS feed once the site is claimed on a business account. X stays off by the company's charter proposal. TikTok approved by D-030 (Buffer route); enabled once gate #197 rules on the commercial-content toggle."
+  "silent_alarm_days": 7,
+  "outside": {
+    "pinterest": {
+      "feed": "https://www.pinterest.com/1billionmodels/feed.rss"
+    }
+  },
+  "note": "1 Billion Models (US) only: YouTube Shorts (direct) and TikTok (Buffer, personal account) are approved by D-030/D-031 and gate #197. Pinterest is not posted from here: it auto-publishes the site's own pin feeds; this repo only watches its public RSS (`outside`). Instagram and X stay off (D-031). Any enabled network that is not live, or silent for 7 days, raises a cos:alarm (pipe 1.5.2)."
 }

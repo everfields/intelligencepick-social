@@ -568,8 +568,11 @@ class TestPublishRun(TmpCase):
         self.r.env["SOCIAL_LIVE_NETWORKS"] = "youtube"
         stub = Stub(lambda q: answers(q))
         res = self.go(stub)
-        self.assertEqual(res[0].action, "dry-run")
+        # in a live run a network that is not live is skipped, never rehearsed into the real log (its queue item, slot
+        # and day's count stay unused: Intelligence Pick's TikTok, 2026-11-23 to 11-25)
+        self.assertEqual(res[0].action, "skipped")
         self.assertEqual(stub.requests, [])
+        self.assertFalse(any(r["network"] == "tiktok" for r in self.r.log.rows()))
 
     def test_live_post_writes_pending_first(self):
         self.seed()
@@ -906,6 +909,60 @@ class TestWatch(TmpCase):
         rep, keys = self._old_heartbeat("2026-W46")
         self.assertIn("heartbeat", keys)
         self.assertEqual(rep["unrendered"], ["2026-W47"])
+
+    def _alarms(self, now):
+        return alarms_mod.Alarms(GuardState(self.r.state / "state.json"), {"COS_EVENT_TOKEN": "t"}, live=True,
+                                 company_repo="o/c", transport=Stub(lambda q: HttpResponse(204)), now=now)
+
+    def _row(self, network, id_, at, status="published", url="https://x/y", remote="r1"):
+        self.r.log.append(PostRow(id=id_, network=network, status=status, at=iso(at), url=url, remote_id=remote))
+
+    def test_an_enabled_network_that_is_not_live_alarms(self):
+        # Intelligence Pick, 2026-11-25: BUFFER_API_KEY was stored empty, so TikTok never entered the live set and
+        # stayed in dry run for five days with no alarm.
+        self.r.env.update({"SOCIAL_LIVE_NETWORKS": "auto", "SOCIAL_READY_NETWORKS": "youtube"})
+        now = et(2026, 11, 25, 12)
+        a = self._alarms(now)
+        rep = watch.check(self.r.dir, self.r.state, self.r.cfg, a, now)
+        keys = {x["key"] for x in a.sent}
+        self.assertIn("not-ready-tiktok", keys)
+        self.assertNotIn("not-ready-youtube", keys)
+        self.assertIn("tiktok", rep["not_ready"])
+
+    def test_silent_network_alarms_and_a_dry_post_is_not_a_post(self):
+        now = et(2026, 11, 25, 12)
+        self._row("youtube", "y1", now - timedelta(days=8))
+        self._row("tiktok", "t1", now - timedelta(days=9), url="https://tiktok.dry.run/p/dry", remote="dry-post")
+        self._row("instagram", "i1", now - timedelta(days=1))
+        a = self._alarms(now)
+        rep = watch.check(self.r.dir, self.r.state, self.r.cfg, a, now)
+        keys = {x["key"] for x in a.sent}
+        self.assertIn("silent-youtube", keys)
+        self.assertIn("silent-tiktok", keys)  # its only row is a rehearsal: never posted, counted from that row
+        self.assertNotIn("silent-instagram", keys)
+        self.assertEqual(rep["last_post"]["tiktok"], "")
+
+    def test_an_outside_feed_gone_quiet_or_unreadable_alarms(self):
+        self.r.raw["outside"] = {"pinterest": {"feed": "https://example.test/feed.rss"}}
+        (self.r.dir / "social.json").write_text(json.dumps(self.r.raw), encoding="utf-8")
+        now = datetime(2026, 11, 25, 12, tzinfo=timezone.utc)
+
+        def rss(day):
+            return (f"<rss><channel><item><pubDate>{day} Nov 2026 11:05:41 GMT</pubDate></item>"
+                    f"<item><pubDate>14 Nov 2026 11:05:41 GMT</pubDate></item></channel></rss>").encode()
+
+        def keys(fetch):
+            a = self._alarms(now)
+            watch.check(self.r.dir, self.r.state, self.r.cfg, a, now, fetch=fetch)
+            return {x["key"] for x in a.sent if x["type"] == "social-alarm"}
+
+        self.assertNotIn("silent-pinterest", keys(lambda u: rss("Wed, 25")))
+        self.assertIn("silent-pinterest", keys(lambda u: rss("Sun, 15")))
+
+        def down(u):
+            raise OSError("403")
+
+        self.assertIn("unread-pinterest", keys(down))
 
     def test_dry_run_raises_no_runway_alarm(self):
         r = Repo(env={"SOCIAL_CRON": "dry-run"})

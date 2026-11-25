@@ -107,6 +107,13 @@ def run(root: Path, state_dir: Path, cfg: Config, env: Mapping[str, str], *, now
     for net in cfg.enabled():
         if only and net.name != only:
             continue
+        if any_live and not cfg.is_live(net.name):
+            # A live run never rehearses a network that is not live: its dry-run row would land in the real log and use
+            # up a queue item, a slot and the day's count on a network that posted nothing (Intelligence Pick's TikTok,
+            # 2026-11-23 to 11-25, behind an empty BUFFER_API_KEY while YouTube was live). watch raises not-ready-<net>.
+            results.append(Outcome(net.name, "skipped", "not live (its credentials are missing or empty): nothing is "
+                                   "rehearsed in a live run"))
+            continue
         verdict = due(cfg, net, now, log, st, lookahead=LOOKAHEAD if wait else timedelta(0))
         if not verdict.due:
             results.append(Outcome(net.name, "skipped", verdict.reason))

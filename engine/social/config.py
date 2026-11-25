@@ -84,6 +84,11 @@ class Config:
     runway_alarm_days: float = 5
     runway_target_days: float = 10
     heartbeat_alarm_hours: float = 36
+    # An enabled network with no real post in this many days raises `silent-<network>` (Intelligence Pick, 2026-11-25:
+    # TikTok sat five days in dry run behind an empty secret and nobody was told). `outside` names networks that post by
+    # another route (a feed the network reads, as Pinterest does), each with the public RSS of what went out.
+    silent_alarm_days: float = 7
+    outside: dict = field(default_factory=dict)
     intake: dict = field(default_factory=dict)
     cron: str = "off"
     live: frozenset[str] = frozenset()
@@ -181,6 +186,8 @@ def load(root: Path, env: Mapping[str, str]) -> Config:
         runway_alarm_days=float(r.get("alarm_days", 5)),
         runway_target_days=float(r.get("target_days", 10)),
         heartbeat_alarm_hours=float(raw.get("heartbeat_alarm_hours", 36)),
+        silent_alarm_days=float(raw.get("silent_alarm_days", 7)),
+        outside=dict(raw.get("outside") or {}),
         intake={**INTAKE_DEFAULTS, **(raw.get("intake") or {})},
         cron=cron,
         live=live,
