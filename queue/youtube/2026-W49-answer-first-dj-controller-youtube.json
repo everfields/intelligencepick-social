@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-first-dj-controller-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-first-dj-controller.mp4",
+    "sha256": "816dcbd114e1bd05b0c40b03396d92ab0b26be405cffa7daca6b0fdd005af5af",
+    "kind": "video"
+  },
+  "caption": "Check which apps a controller maps to (rekordbox, Serato DJ Lite, VirtualDJ, djay) and that it has a separate headphone output to cue. Claude and GPT choose the same product: Pioneer DJ DDJ-FLX4. https://1billionmodels.com/musical-instruments/electronic-music-dj-and-karaoke/dj-equipment/dj-controllers?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "Your first DJ controller: the one both AI models pick",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-26T00:00:00Z"
+}
