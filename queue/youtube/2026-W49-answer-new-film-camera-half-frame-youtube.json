@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-new-film-camera-half-frame-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-new-film-camera-half-frame.mp4",
+    "sha256": "b981360bc8bb3f43a4b1f74f81fe9e92cf1062ce409491e51947f449ae7f33c9",
+    "kind": "video"
+  },
+  "caption": "Claude and GPT choose the same product: Pentax 17, a new half-frame 35mm camera that doubles the shots per roll. Not for you if you want full 35mm frames or interchangeable lenses. Buying used instead? Check light seals, shutter speeds and lens haze. https://1billionmodels.com/electronics/camera-and-photo/film-photography/film-cameras?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "Buying a film camera new? The pick both AI models make",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-26T00:00:00Z"
+}
