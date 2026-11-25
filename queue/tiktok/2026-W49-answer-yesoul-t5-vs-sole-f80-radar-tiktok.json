@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-yesoul-t5-vs-sole-f80-radar-tiktok",
+  "network": "tiktok",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-yesoul-t5-vs-sole-f80-radar.mp4",
+    "sha256": "9da85feeba215170d494e11623e232710ff607107ff6e18daa4b290c5b7864cd",
+    "kind": "video"
+  },
+  "caption": "YESOUL T5 Plus, Max or Ultra? $200 between each step, and only the Ultra goes downhill (-3%). The Sole F80, the treadmill Claude and GPT picked before this launch, inclines to 15% and has the same 20 x 60 in deck. Every criterion, dated: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video.",
+  "title": "YESOUL T5: Plus, Max or Ultra, and against the AI treadmill pick",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-18T01:00:00Z"
+}
