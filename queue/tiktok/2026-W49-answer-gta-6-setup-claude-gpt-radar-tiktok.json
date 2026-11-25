@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-gta-6-setup-claude-gpt-radar-tiktok",
+  "network": "tiktok",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-gta-6-setup-claude-gpt-radar.mp4",
+    "sha256": "f4e1bbfe1ee2cda1f94348986ae49f62de7ef25bcfee6e724f0ae23c5296b985",
+    "kind": "video"
+  },
+  "caption": "What would Claude and GPT buy for GTA 6? PS5 Pro or Series X, a Hisense U8 or LG C4, a WD_BLACK SN850X with heatsink for the PS5's 212GB ask, a Sonos Arc Ultra or Samsung Q990D. Picks made before the launch, from what each model knew. The whole setup: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video.",
+  "title": "What Claude and GPT would buy for GTA 6: console, TV, storage, sound",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-18T00:00:00Z"
+}

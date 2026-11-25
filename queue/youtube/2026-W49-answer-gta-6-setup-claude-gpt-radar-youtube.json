@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-gta-6-setup-claude-gpt-radar-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-gta-6-setup-claude-gpt-radar.mp4",
+    "sha256": "f4e1bbfe1ee2cda1f94348986ae49f62de7ef25bcfee6e724f0ae23c5296b985",
+    "kind": "video"
+  },
+  "caption": "Every GTA 6 console version reportedly targets 30 fps, and the PS5 Pro is reportedly the only one with a near-4K image. For a 4K TV, Claude picks the PS5 Pro (GPT's PS5 pick too); on Xbox both pick the Series X. TV: Claude the Hisense U8, GPT an LG C4 OLED. Claude Opus 5.5 knew to June 2026, GPT 6.1 Sol to April 30, 2026 (as Anthropic and OpenAI state); the picks predate this launch and do not change for it. https://1billionmodels.com/radar/gta-6/best-setup?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=radar&utm_content=gta-6-setup\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "What Claude and GPT would buy for GTA 6: console, TV, storage, sound",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-18T00:00:00Z"
+}
