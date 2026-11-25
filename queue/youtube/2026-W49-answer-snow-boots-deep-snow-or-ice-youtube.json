@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-snow-boots-deep-snow-or-ice-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-snow-boots-deep-snow-or-ice.mp4",
+    "sha256": "503cb7a24df4cb750ddc73a5edc1c933c7b338429734a45ce5b141860cf85361",
+    "kind": "video"
+  },
+  "caption": "Temperature ratings only compare boots within the same brand. For icy pavement, look for rubber made for ice grip. Claude and GPT choose the same line, Sorel Caribou, for deep snow; it is heavy on cleared sidewalks. https://1billionmodels.com/clothing-shoes-and-jewelry/mens-fashion/mens-shoes/mens-outdoor-shoes/mens-snow-boots?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "Snow boots: deep snow or icy sidewalks? Not the same boot",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-26T00:00:00Z"
+}
