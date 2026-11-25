@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-rowing-machine-air-water-magnetic-tiktok",
+  "network": "tiktok",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-rowing-machine-air-water-magnetic.mp4",
+    "sha256": "01d21ec620dfc63df322f81c4d2ef4985adde6f6bef274c10b4b86e90edb2b8e",
+    "kind": "video"
+  },
+  "caption": "Air rowers train and race, water rowers are quiet, magnetic ones are silent and compact. Plan 8 to 9 feet of floor. Both AI models choose the Concept2 RowErg line; quiet living-room rowing goes to WaterRower. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video.",
+  "title": "Air, water or magnetic: which rowing machine?",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-26T00:00:00Z"
+}

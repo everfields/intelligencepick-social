@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-rowing-machine-air-water-magnetic-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-rowing-machine-air-water-magnetic.mp4",
+    "sha256": "01d21ec620dfc63df322f81c4d2ef4985adde6f6bef274c10b4b86e90edb2b8e",
+    "kind": "video"
+  },
+  "caption": "Air for training and racing, water for a quiet, natural feel, magnetic for silence and compactness. A full-size rower needs roughly 8 to 9 feet of length plus clearance. Claude and GPT choose the same line: Concept2 RowErg. https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/exercise-and-fitness-equipment/cardio-training/rowing-machines?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "Air, water or magnetic: which rowing machine?",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-26T00:00:00Z"
+}
