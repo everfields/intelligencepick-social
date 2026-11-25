@@ -7,7 +7,8 @@
       "title": "the PC sent no heartbeat"
     },
     "not-ready-tiktok": {
-      "cleared": false,
+      "cleared": true,
+      "cleared_at": "2026-11-25T23:57:46Z",
       "sent_at": "2026-11-25T22:26:34Z",
       "title": "tiktok: enabled but not live, nothing is posted"
     },
@@ -27,12 +28,19 @@
   "brake_reason": {},
   "brake_until": {},
   "failures": {
+    "tiktok": 0,
     "youtube": 0
   },
   "first_post": {
+    "tiktok": "2026-11-25",
     "youtube": "2026-11-22"
   },
   "seen": {
+    "6b0775db07071a60673acfe0": {
+      "first_seen": "2026-11-25T23:57:14Z",
+      "item": "2026-W49-answer-portable-power-station-how-long-it-runs-tiktok",
+      "network": "tiktok"
+    },
     "7W7mgH870hs": {
       "first_seen": "2026-11-25T03:10:33Z",
       "item": "2026-W48-answer-car-battery-charger-check-v2-youtube",
