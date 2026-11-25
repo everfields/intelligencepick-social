@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-ebike-hub-or-mid-drive-tiktok",
+  "network": "tiktok",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-ebike-hub-or-mid-drive.mp4",
+    "sha256": "adbcbc0a284cd2f63bf6a32490e5902c793556d0fabb347def6a7f23075fe91d",
+    "kind": "video"
+  },
+  "caption": "Cadence-only assist surges on and off; a torque sensor or mid-drive feels natural. Hydraulic disc brakes on anything that does 20 mph. Claude names the Aventon Level, GPT the Specialized Turbo Vado 4.0. Folding and cargo picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video.",
+  "title": "E-bike: hub motor or mid-drive? Check these before you buy",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T00:02:00Z"
+}
