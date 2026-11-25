@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-indoor-pizza-oven-750-tiktok",
+  "network": "tiktok",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-indoor-pizza-oven-750.mp4",
+    "sha256": "6714e0bef32fd9165b5e97ac72b1d054c835c31ad1622e205a1cd55fa33ad81c",
+    "kind": "video"
+  },
+  "caption": "Neapolitan crust needs roughly 750°F at the stone. Most countertop ovens cap at about 12-inch pizzas. Both AI models pick the same oven, the Breville Smart Oven Pizzaiolo. Frozen pizza on a budget has its own pick: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video.",
+  "title": "Can an indoor oven make Neapolitan pizza? What to check",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-26T00:00:00Z"
+}
