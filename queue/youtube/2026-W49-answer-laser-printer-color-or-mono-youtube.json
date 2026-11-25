@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-laser-printer-color-or-mono-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-laser-printer-color-or-mono.mp4",
+    "sha256": "3067c2be1534138e37d342eb4928437e58bac37c3ea43a488c7a0181fb609f8b",
+    "kind": "video"
+  },
+  "caption": "Buy color only if you regularly print color pages, and size the printer by its recommended monthly volume, not its maximum duty cycle. Claude and GPT choose the same brand, Brother, but not the same product. https://1billionmodels.com/office-products/office-electronics-products/printers-and-accessories/computer-printers/laser-computer-printers?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "Color or mono laser printer? Check these first",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-26T00:00:00Z"
+}
