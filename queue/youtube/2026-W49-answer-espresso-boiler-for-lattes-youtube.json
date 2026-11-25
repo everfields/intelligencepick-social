@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-espresso-boiler-for-lattes-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-espresso-boiler-for-lattes.mp4",
+    "sha256": "40fac28d8a8b487ad2e4700bd11297fbba89210d34bd9e6ba0eab1145c34c373",
+    "kind": "video"
+  },
+  "caption": "Single boiler for mostly straight espresso; heat exchanger or dual boiler for frequent milk drinks, so you can steam right after brewing. 58mm is the commercial portafilter standard. The two picks: Gaggia Classic Pro (Claude) and Breville Bambino Plus BES500 (GPT). https://1billionmodels.com/home-and-kitchen/kitchen-and-dining/coffee-tea-and-espresso/espresso-machines/semi-automatic-espresso-machines?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "Espresso machine for lattes: single boiler or dual boiler?",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T00:04:00Z"
+}
