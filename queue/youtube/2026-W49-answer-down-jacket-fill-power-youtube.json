@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-down-jacket-fill-power-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-down-jacket-fill-power.mp4",
+    "sha256": "8ba9031011b9bac1a7312c0f41695e38d5bb5f4d3d1a42a0464ee9aa7945197d",
+    "kind": "video"
+  },
+  "caption": "About 600 fill power is entry level, 700 to 800 is high quality. But compare the total ounces of down too: a heavy fill at lower fill power can be warmer than a thin fill at high fill power. Claude and GPT choose the same line: Patagonia Down Sweater. https://1billionmodels.com/clothing-shoes-and-jewelry/mens-fashion/mens-clothing/mens-outerwear-jackets-and-coats/mens-down-jackets-and-coats?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "Down jacket: what fill power actually means",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-26T00:00:00Z"
+}
