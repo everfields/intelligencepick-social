@@ -53,6 +53,7 @@ jobs:
           git pull -q --rebase origin main
           git push -q origin HEAD:main
           for f in $files; do gh workflow run social-render.yml --ref main -f batch="$f" -f upload=true; done
+      # A missing COS_EVENT_TOKEN fails the pull (red, never a quiet skip), and the publisher's clock still ticks.
       - name: one more clock for the publisher
-        if: github.event_name == 'schedule'
+        if: always() && github.event_name == 'schedule'
         run: gh workflow run social-publish.yml --ref main
