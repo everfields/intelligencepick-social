@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-ping-pong-table-room-size-tiktok",
+  "network": "tiktok",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-ping-pong-table-room-size.mp4",
+    "sha256": "1fd035c1209dcf33920a3b19e1a1e68a5c06fd201064fbd48f6b1548552ca0d8",
+    "kind": "video"
+  },
+  "caption": "A home table needs roughly 19 by 11 feet of room, more for real rallies, and a top of 19 mm or more to bounce well. Both AI models choose the JOOLA Inside line; outdoors gets the Cornilleau 300X. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video.",
+  "title": "How much room does a ping-pong table need?",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-26T00:00:00Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-ping-pong-table-room-size-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-ping-pong-table-room-size.mp4",
+    "sha256": "1fd035c1209dcf33920a3b19e1a1e68a5c06fd201064fbd48f6b1548552ca0d8",
+    "kind": "video"
+  },
+  "caption": "Allow roughly 19 by 11 feet for recreational play, more for real rallies. A top under about 19 mm bounces poorly. Claude and GPT choose the same line: JOOLA Inside, for indoors. https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/leisure-sports-and-games-equipment/table-tennis-equipment/table-tennis-tables?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "How much room does a ping-pong table need?",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-26T00:00:00Z"
+}
