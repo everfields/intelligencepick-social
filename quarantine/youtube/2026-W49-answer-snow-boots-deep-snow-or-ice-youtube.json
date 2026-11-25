@@ -5,7 +5,7 @@
   "batch": "2026-W49",
   "media": {
     "file": "2026-W49-answer-snow-boots-deep-snow-or-ice.mp4",
-    "sha256": "503cb7a24df4cb750ddc73a5edc1c933c7b338429734a45ce5b141860cf85361",
+    "sha256": "011ce43c2389ec4d771ca5187bb561f58f05e7139a4b4502b3d382b79ea5cfae",
     "kind": "video"
   },
   "caption": "Temperature ratings only compare boots within the same brand. For icy pavement, look for rubber made for ice grip. Claude and GPT choose the same line, Sorel Caribou, for deep snow; it is heavy on cleared sidewalks. https://1billionmodels.com/clothing-shoes-and-jewelry/mens-fashion/mens-shoes/mens-outdoor-shoes/mens-snow-boots?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
@@ -20,7 +20,7 @@
   "earliest": "2026-11-26T00:00:00Z",
   "intake": {
     "ok": false,
-    "at": "2026-11-25T23:04:41Z",
+    "at": "2026-11-25T23:12:09Z",
     "problems": [
       "near-duplicate of 2026-W49-answer-down-jacket-fill-power-youtube (distance 9.8)"
     ],
@@ -33,7 +33,7 @@
       "pix_fmt": "yuv420p",
       "fps": 30.0,
       "audio_codec": "aac",
-      "bytes": 2787511
+      "bytes": 2790860
     },
     "phash": [
       "7a38595d4b941700",
