@@ -1,7 +1,130 @@
 {
   "week": "2026-W49",
-  "note": "Second YouTube/TikTok batch for 1 Billion Models (D-030), written 2026-11-25 by social run 2611250527-social-8d83 after the 11-23 run lost W49 (alarm #280). 15 answer Shorts from 15 pages not used in W48, all from the pin feed set (released tranche 1, pick current in data/fresh/us, same brand, pin audit passed; pnpm --filter @ip/site pins status: 163 pages). Every line is the page's own words of 2026-11-25 (site data checked against the live HTML). Verdict lines use the page's verdict sentence only (D-005, D-009). Graphics cards and tablets were left out: their pages say the same line for picks of different lines (RTX 5070 Ti vs 4070 SUPER; iPad vs iPad Air), a substring match in packages/core/src/jury.ts sameLine, queued to the builder. Each post has its own scene order and a fact-led caption body per network (W48: two TikTok captions quarantined at 0.9 similarity). earliest 2026-11-26 so W48 posts first. Added 2026-11-25 by social run 2611251245-social-e83c (D-056, en-US only): 9 Shorts from the kept tranche-2 pages (e-bikes, electric scooters, semi-automatic espresso, juicers, video game chairs, computer gaming chairs, downhill skis, billiard tables, vibration plates), live and checked against each page that day; the 11 D-056 posts (with the treadmill and blender posts) are dated 2026-11-20T00:00Z onward so they post before what is left of W48, in D-056 order, Downhill Skis first (radar weather event 2026-11-19 on a released page). Their links carry src=youtube (D-030) for the per-page count. Only Downhill Skis says same product; the scooter page says same line for Ninebot Max vs MAX G2, so the post names each pick. Added 2026-11-25 by social run 2611251304-social-c5ac (D-058 radar lane, agenda …1dfb, en-US only): one Short each for Best PlayStation 5 Consoles and Best Xbox Series X & S Consoles after the GTA VI launch (2026-11-19, Fox 5 NY), text and picked products only, no game footage, art or logo; each says the picks predate the launch and does not judge the game. Post-launch facts are attributed on screen (boxed copies hold a code: Rockstar via VGC; install about 210 GB on PS5: a data-mining account, not Rockstar; Xbox size unconfirmed); everything else is the page's own words of 2026-11-25. The Xbox Short leads with storage so it is not the queued W48 \"Series X or S\" post; it names no 2TB model (data/fresh/us says it was dropped). earliest 2026-11-19 so both post before everything queued; the engine has no `latest`, so nothing archives them unposted.",
+  "note": "Second YouTube/TikTok batch for 1 Billion Models (D-030), written 2026-11-25 by social run 2611250527-social-8d83 after the 11-23 run lost W49 (alarm #280). 15 answer Shorts from 15 pages not used in W48, all from the pin feed set (released tranche 1, pick current in data/fresh/us, same brand, pin audit passed; pnpm --filter @ip/site pins status: 163 pages). Every line is the page's own words of 2026-11-25 (site data checked against the live HTML). Verdict lines use the page's verdict sentence only (D-005, D-009). Graphics cards and tablets were left out: their pages say the same line for picks of different lines (RTX 5070 Ti vs 4070 SUPER; iPad vs iPad Air), a substring match in packages/core/src/jury.ts sameLine, queued to the builder. Each post has its own scene order and a fact-led caption body per network (W48: two TikTok captions quarantined at 0.9 similarity). earliest 2026-11-26 so W48 posts first. Added 2026-11-25 by social run 2611251245-social-e83c (D-056, en-US only): 9 Shorts from the kept tranche-2 pages (e-bikes, electric scooters, semi-automatic espresso, juicers, video game chairs, computer gaming chairs, downhill skis, billiard tables, vibration plates), live and checked against each page that day; the 11 D-056 posts (with the treadmill and blender posts) are dated 2026-11-20T00:00Z onward so they post before what is left of W48, in D-056 order, Downhill Skis first (radar weather event 2026-11-19 on a released page). Their links carry src=youtube (D-030) for the per-page count. Only Downhill Skis says same product; the scooter page says same line for Ninebot Max vs MAX G2, so the post names each pick. Added 2026-11-25 by social run 2611251304-social-c5ac (D-058 radar lane, agenda …1dfb, en-US only): one Short each for Best PlayStation 5 Consoles and Best Xbox Series X & S Consoles after the GTA VI launch (2026-11-19, Fox 5 NY), text and picked products only, no game footage, art or logo; each says the picks predate the launch and does not judge the game. Post-launch facts are attributed on screen (boxed copies hold a code: Rockstar via VGC; install about 210 GB on PS5: a data-mining account, not Rockstar; Xbox size unconfirmed); everything else is the page's own words of 2026-11-25. The Xbox Short leads with storage so it is not the queued W48 \"Series X or S\" post; it names no 2TB model (data/fresh/us says it was dropped). earliest 2026-11-19 so both post before everything queued; the engine has no `latest`, so nothing archives them unposted. Added 2026-11-25 by the social session (Carlos found no Portable Power Stations creative): one answer Short for the boosted category (gate #201, card company/boosts/portable-power-stations), from the live page's words of 2026-11-25 (verdict, both reasons and Not-for lines, the sizer table at 0.85 of rated capacity, three checks), earliest 2026-11-17 so it posts first; utm_campaign=boost.",
   "posts": [
+    {
+      "id": "2026-W49-answer-portable-power-station-how-long-it-runs",
+      "format": "answer",
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "title": "How long does a portable power station run a fridge? What Claude and GPT would buy",
+      "caption": "Claude and GPT choose the same product: EcoFlow DELTA 2, a 1,024Wh LiFePO4 battery with 1,800W AC output. The page's table, at 0.85 of rated capacity: a refrigerator about 12 h, a CPAP without humidifier 22 h, a Wi-Fi router 87 h, a microwave under 1 h. Not for whole-home backup. Size your own load: https://1billionmodels.com/patio-lawn-and-garden/outdoor-generators-and-portable-power/portable-power-stations?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=boost&utm_content=portable-power-stations\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+      "captions": {
+        "tiktok": "How long does a power station run a fridge? On the page's table, the EcoFlow DELTA 2 (Claude's and GPT's pick): about 12 h for a refrigerator, 22 h for a CPAP without humidifier, under 1 h for a microwave. Check: LiFePO4 over NMC, pure sine wave, continuous watts above your largest load. Size yours: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video."
+      },
+      "earliest": "2026-11-17T00:00:00Z",
+      "page": "https://1billionmodels.com/patio-lawn-and-garden/outdoor-generators-and-portable-power/portable-power-stations",
+      "link": "https://1billionmodels.com/patio-lawn-and-garden/outdoor-generators-and-portable-power/portable-power-stations?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=boost&utm_content=portable-power-stations",
+      "script": "How long does a power station run your fridge? / Claude and GPT choose the same product: EcoFlow DELTA 2. / Fridge about twelve hours, CPAP twenty-two, microwave under one. / LiFePO4, pure sine wave, enough continuous watts. / Size yours: one billion models dot com.",
+      "prompts": {
+        "voice": "am_michael",
+        "speed": 1.15,
+        "spec": {
+          "tag": "Portable power stations",
+          "fine": "Two AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+          "fineAlways": true,
+          "brand": {
+            "name": "1 Billion Models",
+            "accent_part": "",
+            "site": "1billionmodels.com",
+            "cta": "Size yours: 1billionmodels.com"
+          },
+          "scenes": [
+            {
+              "type": "hook",
+              "kicker": "Power out?",
+              "title": "How long does a power station run your fridge?",
+              "sub": "Two AI models chose on their own, with no web access.",
+              "say": "How long does a power station run your fridge?"
+            },
+            {
+              "type": "compare",
+              "title": "Each model's pick",
+              "wide": true,
+              "items": [
+                {
+                  "price": "Claude",
+                  "name": "EcoFlow DELTA 2",
+                  "line": "About 1 kWh of LiFePO4, an inverter for most kitchen and power-tool loads.",
+                  "sound": "Not for: backpackers who only charge phones and laptops.",
+                  "tone": "purple",
+                  "say": "Claude picks the EcoFlow Delta 2."
+                },
+                {
+                  "price": "GPT",
+                  "name": "EcoFlow DELTA 2",
+                  "line": "1,024Wh LiFePO4, 1,800W AC output, fast charging.",
+                  "sound": "Not for: whole-home backup.",
+                  "tone": "purple",
+                  "say": "GPT picks the same product."
+                }
+              ]
+            },
+            {
+              "type": "facts",
+              "title": "Hours on one device (at 0.85 of capacity)",
+              "items": [
+                {
+                  "k": "Refrigerator",
+                  "v": "about 12 h",
+                  "tone": "yellow",
+                  "say": "A refrigerator: about twelve hours."
+                },
+                {
+                  "k": "CPAP, no humidifier",
+                  "v": "22 h",
+                  "tone": "yellow",
+                  "say": "A CPAP without humidifier: twenty-two."
+                },
+                {
+                  "k": "Microwave",
+                  "v": "under 1 h",
+                  "tone": "yellow",
+                  "say": "A microwave: under one hour."
+                }
+              ]
+            },
+            {
+              "type": "facts",
+              "title": "Check before you buy",
+              "items": [
+                {
+                  "k": "Battery",
+                  "v": "LiFePO4 (LFP) over NMC",
+                  "tone": "green",
+                  "say": "Prefer LiFePO4 over NMC."
+                },
+                {
+                  "k": "Inverter",
+                  "v": "Pure sine wave; reject modified sine wave",
+                  "tone": "green",
+                  "say": "Pure sine wave only."
+                },
+                {
+                  "k": "Output",
+                  "v": "Continuous watts above your largest single load",
+                  "tone": "green",
+                  "say": "Continuous watts above your biggest load."
+                }
+              ]
+            },
+            {
+              "type": "end",
+              "cta": "Size yours",
+              "title": "Tick your devices and see the hours, for every pick on the page.",
+              "site": "1billionmodels.com",
+              "say": "Size yours: one billion models dot com."
+            }
+          ]
+        }
+      },
+      "ai": {
+        "generated": false,
+        "realistic": false
+      }
+    },
     {
       "id": "2026-W49-answer-kpop-the-debut-toys-gift-now-radar",
       "format": "answer",
