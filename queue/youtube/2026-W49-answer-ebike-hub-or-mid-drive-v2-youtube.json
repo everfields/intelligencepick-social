@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-ebike-hub-or-mid-drive-v2-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-ebike-hub-or-mid-drive-v2.mp4",
+    "sha256": "ffde629bf2e7c09b5b2c88b4f7c05486f5a29d8d08dc0b62c1d29bd1b59c884f",
+    "kind": "video"
+  },
+  "caption": "Hub motors are cheaper and simpler; mid-drives climb better and feel more natural, but wear the chain faster. Require UL 2849 for the electrical system, or at minimum UL 2271 for the battery. Claude picks the Aventon Level line; GPT picks the Specialized Turbo Vado 4.0.\nType 1billionmodels.com/adult-electric-bicycles for every pick and check. https://1billionmodels.com/sports-and-outdoors/outdoor-recreation/cycling-equipment/bikes/adult-electric-bicycles?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "E-bike: hub motor or mid-drive? Check these before you buy",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T00:02:00Z"
+}
