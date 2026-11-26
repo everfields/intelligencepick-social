@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-juicer-type-for-greens-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-juicer-type-for-greens.mp4",
+    "sha256": "b3889e4d1c135a31303eb1b1720de3be96a65f2bfbc6749d63a21157f0f0b846",
+    "kind": "video"
+  },
+  "caption": "Citrus only: a citrus press. Mostly hard fruit and roots: centrifugal. Leafy greens, herbs or wheatgrass: masticating or twin-gear. Pulp should come out dry and crumbly; wet pulp means juice was thrown away. Claude chooses the Nama J2, a slow juicer with a self-feeding hopper; GPT chooses the Breville Juice Fountain Plus JE98XL. https://1billionmodels.com/home-and-kitchen/kitchen-and-dining/kitchen-small-appliances/juicers?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "Juicing leafy greens? Which type of juicer to buy",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T00:06:00Z"
+}
