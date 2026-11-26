@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-console-gaming-chair-for-the-tv-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-console-gaming-chair-for-the-tv.mp4",
+    "sha256": "74721255cac6f1bbbc1dcaac2eb6b62d7cfb374a36b3ab9ad61aa5044e0a0123",
+    "kind": "video"
+  },
+  "caption": "Floor rockers sit low in front of a TV; pedestal chairs give a raised, swivel-style seat. Neither has wheels or height adjustment. Built-in speakers only help if your console or controller can send them audio. Claude names the X Rocker brand, GPT the Secretlab TITAN Evo line. https://1billionmodels.com/home-and-kitchen/furniture/game-and-recreation-room-furniture/gaming-chairs/video-game-chairs?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "Gaming in front of the TV: which video game chair?",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T00:07:00Z"
+}
