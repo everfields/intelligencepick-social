@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-treadmill-deck-size-for-running-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-treadmill-deck-size-for-running.mp4",
+    "sha256": "52391b96776f4e7fe80b0a4327d9cc4b0d0e2e8a6fa4bd701d13acf178c9af36",
+    "kind": "video"
+  },
+  "caption": "About 20 by 60 inches of deck for running, especially for tall runners; about 20 by 55 is fine for walking. Compare continuous duty horsepower, not peak. Claude and GPT choose the same product: Sole F80. https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/exercise-and-fitness-equipment/cardio-training/treadmills?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "Treadmill for running: what deck size do you need?",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T00:01:00Z"
+}
