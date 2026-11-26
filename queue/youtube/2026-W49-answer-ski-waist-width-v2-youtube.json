@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-ski-waist-width-v2-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-ski-waist-width-v2.mp4",
+    "sha256": "07688d2fbf944f1a57cde7ff725e59bd79f8afa751873f03fc1c8ba5e7dea618",
+    "kind": "video"
+  },
+  "caption": "Under about 85 mm suits groomers and hardpack, about 85 to 100 mm suits all-mountain, and over 100 mm suits powder and soft snow. Claude and GPT choose the same product: Nordica Enforcer 94.\nType 1billionmodels.com/downhill-skis for every pick and check. https://1billionmodels.com/sports-and-outdoors/outdoor-recreation/winter-sports-equipment/snow-skiing-equipment/downhill-ski-equipment/downhill-skis?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "What ski waist width do you need?",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T00:00:00Z"
+}

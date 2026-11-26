@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-ski-waist-width-v2-tiktok",
+  "network": "tiktok",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-ski-waist-width-v2.mp4",
+    "sha256": "07688d2fbf944f1a57cde7ff725e59bd79f8afa751873f03fc1c8ba5e7dea618",
+    "kind": "video"
+  },
+  "caption": "Waist width decides where a ski performs: under about 85 mm for hardpack, 85 to 100 mm for all-mountain, past 100 mm for powder. Length: roughly between chin and top of head. Both AI models pick the Nordica Enforcer 94. Carving, powder and beginner picks: 1billionmodels.com/downhill-skis\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video.",
+  "title": "What ski waist width do you need?",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T00:00:00Z"
+}
