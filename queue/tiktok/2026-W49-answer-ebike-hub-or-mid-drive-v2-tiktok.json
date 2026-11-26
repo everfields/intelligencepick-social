@@ -17,31 +17,5 @@
     "realistic": false
   },
   "trial": false,
-  "earliest": "2026-11-20T00:02:00Z",
-  "intake": {
-    "ok": false,
-    "at": "2026-11-26T01:16:35Z",
-    "problems": [
-      "near-duplicate of 2026-W49-answer-ebike-hub-or-mid-drive-tiktok (distance 8.8)",
-      "the caption repeats an earlier one on this network"
-    ],
-    "warnings": [],
-    "probe": {
-      "width": 1080,
-      "height": 1920,
-      "duration_s": 43.6,
-      "video_codec": "h264",
-      "pix_fmt": "yuv420p",
-      "fps": 30.0,
-      "audio_codec": "aac",
-      "bytes": 3951091
-    },
-    "phash": [
-      "7b1b338080881700",
-      "7b1b332680081700",
-      "6e0e808052111700",
-      "5e872f0942841700",
-      "6a4b4f486b901700"
-    ]
-  }
+  "earliest": "2026-11-20T00:02:00Z"
 }

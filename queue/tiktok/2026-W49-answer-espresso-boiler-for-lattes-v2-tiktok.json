@@ -17,30 +17,5 @@
     "realistic": false
   },
   "trial": false,
-  "earliest": "2026-11-20T00:04:00Z",
-  "intake": {
-    "ok": false,
-    "at": "2026-11-26T01:16:35Z",
-    "problems": [
-      "the caption repeats an earlier one on this network"
-    ],
-    "warnings": [],
-    "probe": {
-      "width": 1080,
-      "height": 1920,
-      "duration_s": 38.7,
-      "video_codec": "h264",
-      "pix_fmt": "yuv420p",
-      "fps": 30.0,
-      "audio_codec": "aac",
-      "bytes": 3580112
-    },
-    "phash": [
-      "5f3d000000001620",
-      "4f3c0b3023101700",
-      "7e171e2c80001700",
-      "548b67024a101700",
-      "76104f495b151700"
-    ]
-  }
+  "earliest": "2026-11-20T00:04:00Z"
 }
