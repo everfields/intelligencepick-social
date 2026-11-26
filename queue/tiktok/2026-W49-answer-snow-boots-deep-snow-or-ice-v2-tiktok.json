@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-snow-boots-deep-snow-or-ice-v2-tiktok",
+  "network": "tiktok",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-snow-boots-deep-snow-or-ice-v2.mp4",
+    "sha256": "54b84dc4696dfb573a0c91e57af869f6f58add2d23a986f0c1cc55a3d4291628",
+    "kind": "video"
+  },
+  "caption": "Snow or ice? A pac boot with a felt liner is built for deep snow, not for grip on a frozen sidewalk. Claude and GPT both land on the Sorel Caribou line; GPT adds it is heavy for long hikes. Extreme cold gets Baffin. 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video.",
+  "title": "Deep snow or an icy sidewalk? Pick the snow boot for the one you walk on",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-26T00:00:00Z"
+}

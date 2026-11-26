@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-snow-boots-deep-snow-or-ice-v2-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-snow-boots-deep-snow-or-ice-v2.mp4",
+    "sha256": "54b84dc4696dfb573a0c91e57af869f6f58add2d23a986f0c1cc55a3d4291628",
+    "kind": "video"
+  },
+  "caption": "A snow boot's temperature rating only means something against the same brand's other boots, and deep lugs that grip snow can still slip on hard ice. For deep snow, Claude and GPT both pick the Sorel Caribou line; for lighter everyday walking, the Merrell Thermo Chill. https://1billionmodels.com/clothing-shoes-and-jewelry/mens-fashion/mens-shoes/mens-outdoor-shoes/mens-snow-boots?utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "Deep snow or an icy sidewalk? Pick the snow boot for the one you walk on",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-26T00:00:00Z"
+}
