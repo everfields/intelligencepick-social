@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-juicer-type-for-greens-v2-tiktok",
+  "network": "tiktok",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-juicer-type-for-greens-v2.mp4",
+    "sha256": "3f15c6a48b0eb546ea6688abadef4ecbb9b1c9f77b10a37c5997ad01d33c7362",
+    "kind": "video"
+  },
+  "caption": "Chopping time is the main reason juicers end up unused, so a wide chute or batch hopper matters most. Greens and wheatgrass need a masticating or twin-gear press. On the page, Claude's pick is the Nama J2 and GPT's is the Breville Juice Fountain Plus. The wheatgrass pick: 1billionmodels.com/juicers\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video.",
+  "title": "Juicing leafy greens? Which type of juicer to buy",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T00:06:00Z"
+}
