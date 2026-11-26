@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-electric-scooter-real-range-tiktok",
+  "network": "tiktok",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-electric-scooter-real-range.mp4",
+    "sha256": "661f11ad1cd49a3f446296aee79d76781ce5313ed444b24dab05a9173be356ed",
+    "kind": "video"
+  },
+  "caption": "Advertised scooter range assumes a light rider, low speed, flat ground. Plan on half to two-thirds of it, keep a mechanical brake besides regen, and look for UL 2272. Claude goes with the Segway Ninebot Max line; GPT names a model, the MAX G2. Budget and hill picks: 1billionmodels.com\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video.",
+  "title": "How far will an electric scooter really go?",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T00:03:00Z"
+}
