@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-blender-peak-watts-v2-tiktok",
+  "network": "tiktok",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-blender-peak-watts-v2.mp4",
+    "sha256": "bc63a4dcf091d79fcdc97350649bef37c0abc2df3335cfabb009e4d95d98d45f",
+    "kind": "video"
+  },
+  "caption": "Peak wattage alone tells you little. Form factor first, a tamper for thick blends, and a multi-year motor warranty. Both AI models land on the Vitamix 5200; tight budget and frozen drinks get the Ninja BL610. 1billionmodels.com/household-blenders\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video.",
+  "title": "Buying a blender? Don't compare peak watts",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T00:05:00Z"
+}

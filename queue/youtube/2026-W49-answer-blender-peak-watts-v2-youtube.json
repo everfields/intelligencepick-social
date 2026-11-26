@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-blender-peak-watts-v2-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-blender-peak-watts-v2.mp4",
+    "sha256": "bc63a4dcf091d79fcdc97350649bef37c0abc2df3335cfabb009e4d95d98d45f",
+    "kind": "video"
+  },
+  "caption": "Do not compare blenders on peak wattage alone. Pick the form factor first, prefer a jar with a tamper, and look for five years or more of warranty on the motor base. Claude and GPT choose the same product: Vitamix 5200.\nType 1billionmodels.com/household-blenders for every pick and check. https://1billionmodels.com/home-and-kitchen/kitchen-and-dining/kitchen-small-appliances/household-blenders?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "Buying a blender? Don't compare peak watts",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T00:05:00Z"
+}
