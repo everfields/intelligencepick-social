@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-espresso-boiler-for-lattes-v2-tiktok",
+  "network": "tiktok",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-espresso-boiler-for-lattes-v2.mp4",
+    "sha256": "11876037d8d636a4903353eb7595f387c8a49943a3e2ed341a79ce30fcbf7873",
+    "kind": "video"
+  },
+  "caption": "A panarello wand makes foam but not microfoam for latte art, so the page prefers a commercial-style tip. Want lattes back to back? A heat exchanger or dual boiler steams right after the shot. The picks: Gaggia Classic Pro from Claude, Breville Bambino Plus from GPT. Why: 1billionmodels.com/semi-automatic-espresso-machines\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice. AI-made video.",
+  "title": "Espresso machine for lattes: single boiler or dual boiler?",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T00:04:00Z"
+}
