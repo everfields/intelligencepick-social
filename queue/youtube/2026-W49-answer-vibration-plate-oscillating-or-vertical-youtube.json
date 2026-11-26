@@ -1,0 +1,21 @@
+{
+  "id": "2026-W49-answer-vibration-plate-oscillating-or-vertical-youtube",
+  "network": "youtube",
+  "format": "answer",
+  "batch": "2026-W49",
+  "media": {
+    "file": "2026-W49-answer-vibration-plate-oscillating-or-vertical.mp4",
+    "sha256": "b10d488c9db671560392230d9a820339f432b8652cd3a7d3a51b2dada5e1d1f6",
+    "kind": "video"
+  },
+  "caption": "Oscillating plates move each foot alternately, like a see-saw; lineal plates move straight up and down. The plate should fit a squat stance and be rated above your weight. Claude's choice is the LifePro Waver line, GPT's the Power Plate my3. https://1billionmodels.com/sports-and-outdoors/sports-and-fitness/exercise-and-fitness-equipment/cardio-training/vibration-platform-machines?src=youtube&utm_source=youtube&utm_medium=short&utm_campaign=answer\n\nTwo AI models (Claude Opus 5.5, GPT 6.1 Sol) chose with no web access; nobody tested these products. Synthetic voice.",
+  "title": "Oscillating or vertical vibration plate? Check this first",
+  "language": "en",
+  "tags": [],
+  "ai": {
+    "generated": false,
+    "realistic": false
+  },
+  "trial": false,
+  "earliest": "2026-11-20T00:10:00Z"
+}
