@@ -1,6 +1,15 @@
-# Social numbers (2026-11-25T23:01:34Z)
+# Social numbers (2026-11-26T00:03:29Z)
 
 A blank is a number the network did not give, never a zero.
+
+## tiktok
+
+- posts with numbers: 1; floor (median of the last 20): 29
+- followers: 0; follows per 1,000 views (7 days): 
+
+| Format | Posts | Median views | Best | Best ÷ floor | State |
+|---|---|---|---|---|---|
+| answer | 1 | 29 | 29 | 1.0 | trial |
 
 ## youtube
 

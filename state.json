@@ -1,5 +1,9 @@
 {
   "alarms": {
+    "_metrics_buffer": {
+      "cleared": true,
+      "sent_at": "2026-11-26T00:03:29Z"
+    },
     "heartbeat": {
       "cleared": true,
       "cleared_at": "2026-11-25T23:05:51Z",

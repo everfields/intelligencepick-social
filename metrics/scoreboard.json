@@ -1,5 +1,18 @@
 {
   "networks": {
+    "tiktok": {
+      "posts_with_numbers": 1,
+      "floor": 29,
+      "formats": {
+        "answer": {
+          "posts": 1,
+          "median_views": 29,
+          "best_views": 29,
+          "best_vs_floor": 1.0,
+          "state": "trial"
+        }
+      }
+    },
     "youtube": {
       "posts_with_numbers": 2,
       "floor": 52.5,
@@ -14,5 +27,5 @@
       }
     }
   },
-  "at": "2026-11-25T23:01:34Z"
+  "at": "2026-11-26T00:03:29Z"
 }
