@@ -17,5 +17,32 @@
     "realistic": false
   },
   "trial": false,
-  "earliest": "2026-11-20T00:02:00Z"
+  "earliest": "2026-11-20T00:02:00Z",
+  "intake": {
+    "ok": false,
+    "at": "2026-11-26T01:16:35Z",
+    "problems": [
+      "near-duplicate of 2026-W49-answer-ebike-hub-or-mid-drive-v2-youtube (distance 8.8)",
+      "the caption repeats an earlier one on this network",
+      "the title repeats an earlier one"
+    ],
+    "warnings": [],
+    "probe": {
+      "width": 1080,
+      "height": 1920,
+      "duration_s": 41.7,
+      "video_codec": "h264",
+      "pix_fmt": "yuv420p",
+      "fps": 30.0,
+      "audio_codec": "aac",
+      "bytes": 3550716
+    },
+    "phash": [
+      "7b1b338080881700",
+      "7b1b332680081700",
+      "5e872f090a001700",
+      "6e0e808042a01700",
+      "6a8a4b483a001700"
+    ]
+  }
 }
