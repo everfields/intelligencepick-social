@@ -1,31 +1,31 @@
 {
   "networks": {
     "tiktok": {
-      "posts_with_numbers": 2,
-      "floor": 657.0,
+      "posts_with_numbers": 3,
+      "floor": 651,
       "formats": {
         "answer": {
-          "posts": 2,
-          "median_views": 657.0,
-          "best_views": 663,
-          "best_vs_floor": 1.01,
+          "posts": 3,
+          "median_views": 651,
+          "best_views": 666,
+          "best_vs_floor": 1.02,
           "state": "trial"
         }
       }
     },
     "youtube": {
-      "posts_with_numbers": 4,
-      "floor": 30.5,
+      "posts_with_numbers": 5,
+      "floor": 24,
       "formats": {
         "answer": {
-          "posts": 4,
-          "median_views": 30.5,
+          "posts": 5,
+          "median_views": 24,
           "best_views": 97,
-          "best_vs_floor": 3.18,
+          "best_vs_floor": 4.04,
           "state": "trial"
         }
       }
     }
   },
-  "at": "2026-11-27T23:30:17Z"
+  "at": "2026-11-28T07:57:05Z"
 }
